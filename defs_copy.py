@@ -17,7 +17,7 @@ def InfFor_C(string):
         return None
     
 
-def Indent_stripList(list:list[str]):
+def Indent_stripList(my_list: list[str]):
     qtd = 0
     tab = "    "
     stri = ""
