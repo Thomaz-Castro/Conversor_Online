@@ -1,10 +1,38 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request, jsonify
+from defs_copy import visualg_to_c, c_to_visualg
+
 
 app = Flask(__name__)
 
+
+def convert_visualg_to_c(codigo):
+    # Implemente sua função de conversão de Visualg para C aqui
+    # Substitua esse exemplo pela sua função real
+    return visualg_to_c(codigo)
+
+def convert_c_to_visualg(codigo):
+    # Implemente sua função de conversão de C para Visualg aqui
+    # Substitua esse exemplo pela sua função real
+    return c_to_visualg(codigo)
+
 @app.route('/')
 def index():
-  return render_template('index.html')
+    return render_template('index.html')
+
+@app.route('/converter', methods=['POST'])
+def converter():
+    data = request.get_json()
+    codigo = data['codigo']
+    conversion_type = data['conversionType']
+
+    if conversion_type == 'visualgToC':
+        converted_code = convert_visualg_to_c(codigo)
+    elif conversion_type == 'cToVisualg':
+        converted_code = convert_c_to_visualg(codigo)
+    else:
+        converted_code = "Tipo de conversão inválido"
+
+    return jsonify({"convertedCode": converted_code})
 
 if __name__ == '__main__':
-  app.run(port=5000)
+    app.run(debug=True)
