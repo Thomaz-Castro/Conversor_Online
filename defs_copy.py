@@ -1081,31 +1081,32 @@ def correct_aps(string):
     return lax2
 
 
-def Indent_stripList_CtoVG(list:list[str]):
+def Indent_stripList_CtoVG(my_list):
+    lista = my_list
     qtd = 0
     tab = "    "
     stri = ""
-    for i, its in enumerate(list):
+    for i, its in enumerate(lista):
         if not "inicio" in its:
             if "senao" in its:
                 stri = str((tab*(qtd-1)) + its)
-                list[i] = stri
+                lista[i] = stri
             else:
                 if (qtd != 0 and not (("}" in its and "{" not in its))):
                     stri = str((tab*qtd) + its)
-                    list[i] = stri
+                    lista[i] = stri
                 if ("faca" in its or "var" in its or "entao" in its or "repita" in its):
                     qtd += 1
                 if ("fim" in its):
                     qtd -= 1
                     stri = str((tab*qtd) + its)
-                    list[i] = stri
+                    lista[i] = stri
                 if ("ate" in its and not "para" in its):
                     qtd -= 1
                     stri = str((tab*qtd) + its)
-                    list[i] = stri
+                    lista[i] = stri
     
-    return list
+    return lista
 
 def adicionar_chave(texto):
     linhas = texto.split("\n")
