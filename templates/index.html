@@ -1,9 +1,50 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Hello World</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <title>Conversor de Código</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Conversor de Código</h1>
+        <div class="input-wrapper">
+            <textarea id="inputCode" placeholder="Insira o código aqui"></textarea>
+        </div>
+        <div class="input-wrapper">
+            <textarea id="outputCode" placeholder="Código convertido será exibido aqui"></textarea>
+        </div>
+        <div class="slider-wrapper">
+            <label>
+                <input type="radio" name="conversionType" value="visualgToC" checked> Visualg para C
+            </label>
+            <label>
+                <input type="radio" name="conversionType" value="cToVisualg"> C para Visualg
+            </label>
+        </div>
+        <button id="convertButton" onclick="converterCodigo()">Converter</button>
+    </div>
+
+    <script>
+        function converterCodigo() {
+            const inputCode = document.getElementById('inputCode').value;
+            const conversionType = document.querySelector('input[name="conversionType"]:checked').value;
+            const data = { codigo: inputCode, conversionType: conversionType };
+
+            fetch('/converter', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('outputCode').value = data.convertedCode;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
 </html>
