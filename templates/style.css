@@ -1,0 +1,115 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#conversionButton {
+    display: block;
+    width: 150px; /* Set the width as per your preference */
+    padding: 10px;
+    margin: 0 auto; /* Center the button */
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff; /* Change the background color to blue (#007bff) */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#conversionButton:hover {
+    background-color: #0056b3; /* Darker blue (#0056b3) on hover */
+}
+
+.input-wrapper {
+    display: flex; /* Adiciona a propriedade flex para deixar os elementos lado a lado */
+    flex-wrap: wrap; /* Permite que os elementos quebrem a linha, caso não caibam na largura */
+    margin-bottom: 20px;
+}
+
+textarea {
+    flex: 1; /* Faz as caixas de texto ocuparem o espaço disponível igualmente */
+    margin: 5px; /* Adiciona espaçamento entre as caixas de texto */
+    height: 200px;
+    padding: 5px;
+    resize: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Assegura que a última caixa de texto não terá margem direita extra */
+textarea:last-child {
+    margin-right: 0;
+}
+
+.slider-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 15px;
+    background: #ccc;
+    outline: none;
+    border-radius: 10px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #4CAF50;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.slider-labels {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
