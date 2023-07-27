@@ -605,14 +605,14 @@ def visualg_to_c(code):
                             
                             parent = strBib_ADD(lax)
 
-                            match typ:
+                            raill = typ
 
-                                case "enqt":
-                                    lax = "enquanto " + parent + " faca"
-                                case "at":
-                                    lax = "ate " + parent 
-                                case "ent":
-                                    lax = "se " + parent + "entao"
+                            if raill == "enqt":
+                                lax = "enquanto " + parent + " faca"
+                            elif raill == "at":
+                                lax = "ate " + parent 
+                            elif raill == "ent":
+                                lax = "se " + parent + "entao"
 
                             line = lax
                             
