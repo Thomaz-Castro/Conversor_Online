@@ -17,22 +17,23 @@ def InfFor_C(string):
         return None
     
 
-def Indent_stripList(my_list: list[str]):
+def Indent_stripList(my_list):
+    lista = my_list
     qtd = 0
     tab = "    "
     stri = ""
-    for i, its in enumerate(list):
+    for i, its in enumerate(lista):
         if (qtd != 0 and not (("}" in its and "{" not in its))):
             stri = str((tab*qtd) + its)
-            list[i] = stri
+            lista[i] = stri
         if("{" in its and "}" not in its):
             qtd += 1
         if("}" in its and "{" not in its):
             qtd -= 1
             stri = str((tab*qtd) + its)
-            list[i] = stri
+            lista[i] = stri
     
-    return list
+    return lista
 
         
 
