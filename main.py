@@ -1,9 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 from defs_copy import visualg_to_c, c_to_visualg
 
-
 app = Flask(__name__)
-
 
 def convert_visualg_to_c(codigo):
     # Implemente sua função de conversão de Visualg para C aqui
@@ -35,4 +33,4 @@ def converter():
     return jsonify({"convertedCode": converted_code})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
