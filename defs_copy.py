@@ -352,12 +352,12 @@ def convEsc_forPrint(string:str, dic:dict):
         for i, txt in enumerate(anls):
             anls[i] = anls[i].strip()
             if i == 0:
-                if len(anls[i]) > 0 and anls[i][len(anls[i])-1] == "," and anls[i].count(",") == 1:
-                    lax = anls[i].replace(",","")
+                if len(anls[i]) > 0 and anls[i][len(anls[i]) - 1] == "," and anls[i].count(",") == 1:
+                    lax = anls[i].replace(",", "")
                     lax = lax.strip()
                     if "[" in lax:
                         lax = lax.split("[")
-                        lax3 = "[" + str(lax[1]) + "[" +  str(lax[2])
+                        lax3 = "[" + str(lax[1]) + "[" + str(lax[2])
                         lax = str(lax[0])
                         lax3 = lax + lax3
                         ToF = True
@@ -370,13 +370,13 @@ def convEsc_forPrint(string:str, dic:dict):
                         ToF = False
                 else:
                     anls[0] = '"' + anls[0]
-            elif i == len(anls)-1:
+            elif i == len(anls) - 1:
                 if len(anls[i]) > 0 and anls[i][0] == "," and anls[i].count(",") == 1:
-                    lax = anls[i].replace(",","")
+                    lax = anls[i].replace(",", "")
                     lax = lax.strip()
                     if "[" in lax:
                         lax = lax.split("[")
-                        lax3 = "[" + str(lax[1]) + "[" +  str(lax[2])
+                        lax3 = "[" + str(lax[1]) + "[" + str(lax[2])
                         lax = str(lax[0])
                         lax3 = lax + lax3
                         ToF = True
@@ -388,14 +388,14 @@ def convEsc_forPrint(string:str, dic:dict):
                         vle.append(lax3)
                         ToF = False
                 else:
-                    anls[i] = anls[i] + '"' 
+                    anls[i] = anls[i] + '"'
             else:
-                if anls[i][len(anls[i])-1] == "," and anls[i].count(",") == 2 and anls[i][0] == ",":
-                    lax = anls[i].replace(",","")
+                if len(anls[i]) > 0 and anls[i][len(anls[i]) - 1] == "," and anls[i].count(",") == 2 and anls[i][0] == ",":
+                    lax = anls[i].replace(",", "")
                     lax = lax.strip()
                     if "[" in lax:
                         lax = lax.split("[")
-                        lax3 = "[" + str(lax[1]) + "[" +  str(lax[2])
+                        lax3 = "[" + str(lax[1]) + "[" + str(lax[2])
                         lax = str(lax[0])
                         lax3 = lax + lax3
                         ToF = True
@@ -406,6 +406,7 @@ def convEsc_forPrint(string:str, dic:dict):
                     else:
                         vle.append(lax3)
                         ToF = False
+
 
         lax = " ".join(anls)
         lax2 = ",".join(vle)
