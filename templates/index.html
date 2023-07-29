@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <link rel="stylesheet" href="/style.css"> -->
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/templates/favicon.ico" type="image/x-icon">
     <title>Conversor de Código</title>
     <style>
+        /* Estilos gerais */
         body {
             display: flex;
             justify-content: center;
@@ -15,16 +16,24 @@
             margin: 0;
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
+            color: #000;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        
+        /* Estilos para o modo noturno */
+        body.dark-mode {
+            background-color: #333;
+            color: #fff;
         }
         
         .container {
-            width: 90%; /* Aumenta a largura do contêiner para 90% da largura da janela */
-            max-width: 800px; /* Aumenta a largura máxima para 800px */
+            width: 90%;
+            max-width: 800px;
             background-color: #fff;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
-            margin: 0 auto; /* Centraliza horizontalmente o contêiner */
+            margin: 0 auto;
         }
         
         h1 {
@@ -32,11 +41,9 @@
             margin-bottom: 20px;
         }
         
-        
-        
         .textarea-wrapper {
             display: flex;
-            justify-content: center; /* Centraliza as caixas de texto horizontalmente */
+            justify-content: center;
             flex-wrap: wrap;
             margin-bottom: 20px;
         }
@@ -46,38 +53,85 @@
             margin: 5px;
         }
         
+        .input-label-wrapper {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 5px;
+        }
+        
+        label {
+            font-size: 16px;
+        }
+        
         textarea {
             width: 100%;
-            height: 500px; /* Aumenta a altura das caixas de texto para 500px */
-            padding: 10px; /* Aumenta o espaçamento interno */
-            font-size: 16px; /* Aumenta o tamanho da fonte para melhor legibilidade */
+            height: 400px;
+            padding: 10px;
+            font-size: 16px;
             resize: none;
             border: 1px solid #ccc;
             border-radius: 5px;
+            color: #000; /* Definir cor do texto do textarea para o modo claro */
+            background-color: #fff; /* Definir cor de fundo do textarea para o modo claro */
         }
         
-        
-        
+        /* Adiciona margem entre as caixas de texto */
         .input-wrapper:nth-child(2) {
             margin-right: 20px;
         }
+        
         .input-wrapper:nth-child(1) {
             margin-right: 50px;
         }
         
         .slider-wrapper {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            /* Estilos adicionais para o botão slider */
+            width: 200px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            background-color: rgb(192, 50, 50);
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s;
             margin-bottom: 20px;
+            margin-left: 300px;
+        }
+        
+        .slider-wrapper.blue {
+            background-color: rgb(26, 26, 157);
         }
         
         label {
             margin-bottom: 5px;
         }
         
-        input[type="radio"] {
-            margin-right: 5px;
+        input[type="range"] {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 15px;
+            background: #ccc;
+            outline: none;
+            border-radius: 10px;
+        }
+        
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            background: #4CAF50;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+        
+        .slider-labels {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
         }
         
         button {
@@ -95,6 +149,64 @@
         button:hover {
             background-color: #45a049;
         }
+        
+        /* Botão de alternar o modo noturno */
+        .toggle-dark-mode {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+        
+        .toggle-dark-mode input {
+            display: none;
+        }
+        
+        .toggle-dark-mode label {
+            width: 40px;
+            height: 20px;
+            border-radius: 10px;
+            background-color: #ccc;
+            position: relative;
+            cursor: pointer;
+            margin: 10px
+        }
+        
+        .toggle-dark-mode label:before {
+            content: "";
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background-color: #fff;
+            top: 2px;
+            left: 2px;
+            transition: transform 0.3s;
+        }
+        
+        /* Estilos para o modo noturno */
+        .toggle-dark-mode input:checked + label {
+            background-color: #2a2a2a;
+        }
+        
+        /* Estilos para o modo noturno */
+        .toggle-dark-mode input:checked + label:before {
+            transform: translateX(20px);
+        }
+        
+        /* Estilos para o modo noturno do textarea */
+        body.dark-mode textarea {
+            color: #f4f4f4; /* Cor do texto para o modo noturno */
+            background-color: #4b4949; /* Cor de fundo para o modo noturno */
+        }
+        body.dark-mode .container {
+            color: #f4f4f4; /* Cor do texto para o modo noturno */
+            background-color: #4b4949; /* Cor de fundo para o modo noturno */
+        }
+
+
 
 
     </style>
@@ -104,44 +216,86 @@
         <h1>Conversor de Código</h1>
         <div class="textarea-wrapper">
             <div class="input-wrapper">
-                <textarea id="inputCode" placeholder="Insira o código aqui" rows="10"></textarea>
+                <div class="input-label-wrapper">
+                </div>
+                <textarea id="inputCode" placeholder="Insira o código aqui" rows="15"></textarea>
             </div>
             <div class="input-wrapper">
-                <textarea id="outputCode" placeholder="Código convertido será exibido aqui" rows="10" readonly></textarea>
+                <div class="input-label-wrapper">
+
+                </div>
+                <textarea id="outputCode" placeholder="Código convertido será exibido aqui" rows="15" readonly></textarea>
             </div>
         </div>
-        <div class="slider-wrapper">
-            <label>
-                <input type="radio" name="conversionType" value="visualgToC" checked> Visualg para C
-            </label>
-            <label>
-                <input type="radio" name="conversionType" value="cToVisualg"> C para Visualg
-            </label>
-        </div>
+        <div class="slider-wrapper" onclick="toggleText()">Visualg para C</div>
+        
         <button id="convertButton">Converter</button>
+
+        <!-- Botão para alternar o modo noturno -->
+        <div class="toggle-dark-mode">
+            <input type="checkbox" id="darkModeToggle">
+            <label for="darkModeToggle"></label>
+            <span>Modo Noturno</span>
+        </div>
     </div>
 
     <script>
-        function converterCodigo() {
-            const inputCode = document.getElementById('inputCode').value;
-            const conversionType = document.querySelector('input[name="conversionType"]:checked').value;
-            const data = { codigo: inputCode, conversionType: conversionType };
-
+        function toggleText() {
+            var button = document.querySelector('.slider-wrapper');
+            if (button.innerHTML === 'Visualg para C') {
+                button.innerHTML = 'C para Visualg';
+                button.classList.add('blue');
+            } else {
+                button.innerHTML = 'Visualg para C';
+                button.classList.remove('blue');
+            }
+        }
+    
+        function convertCode() {
+            var inputCode = document.getElementById('inputCode').value;
+            var conversionType = getConversionTypeFromButton();
+    
+            var data = {
+                codigo: inputCode,
+                conversionType: conversionType === 0 ? 'visualgToC' : 'cToVisualg'
+            };
+    
             fetch('/converter', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: {
+                    'Content-Type': 'application/json'
+                },
                 body: JSON.stringify(data)
             })
             .then(response => response.json())
             .then(data => {
-                document.getElementById('outputCode').value = data.convertedCode;
+                var outputCode = document.getElementById('outputCode');
+                outputCode.value = data.convertedCode;
             })
             .catch(error => {
-                console.error('Error:', error);
+                console.error('Erro ao converter código:', error);
             });
         }
-
-        document.getElementById('convertButton').addEventListener('click', converterCodigo);
+    
+        function getConversionTypeFromButton() {
+            var button = document.querySelector('.slider-wrapper');
+            var buttonText = button.innerHTML;
+            if (buttonText === 'Visualg para C') {
+                return 0;
+            } else if (buttonText === 'C para Visualg') {
+                return 1;
+            } else {
+                return -1;
+            }
+        }
+    
+        document.getElementById('convertButton').addEventListener('click', convertCode);
+    
+        // Adicionar a função para alternar o modo noturno
+        document.getElementById('darkModeToggle').addEventListener('change', function() {
+            const body = document.body;
+            body.classList.toggle('dark-mode');
+        });
     </script>
 </body>
 </html>
