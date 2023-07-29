@@ -18,12 +18,13 @@
         }
         
         .container {
-            width: 80%;
-            max-width: 600px;
+            width: 90%; /* Aumenta a largura do contêiner para 90% da largura da janela */
+            max-width: 800px; /* Aumenta a largura máxima para 800px */
             background-color: #fff;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
+            margin: 0 auto; /* Centraliza horizontalmente o contêiner */
         }
         
         h1 {
@@ -31,42 +32,37 @@
             margin-bottom: 20px;
         }
         
-        #conversionButton {
-            display: block;
-            width: 150px; /* Set the width as per your preference */
-            padding: 10px;
-            margin: 0 auto; /* Center the button */
-            font-size: 16px;
-            color: #fff;
-            background-color: #007bff; /* Change the background color to blue (#007bff) */
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
         
-        #conversionButton:hover {
-            background-color: #0056b3; /* Darker blue (#0056b3) on hover */
-        }
         
-        .input-wrapper {
-            display: flex; /* Adiciona a propriedade flex para deixar os elementos lado a lado */
-            flex-wrap: wrap; /* Permite que os elementos quebrem a linha, caso não caibam na largura */
+        .textarea-wrapper {
+            display: flex;
+            justify-content: center; /* Centraliza as caixas de texto horizontalmente */
+            flex-wrap: wrap;
             margin-bottom: 20px;
         }
         
+        .input-wrapper {
+            flex: 1;
+            margin: 5px;
+        }
+        
         textarea {
-            flex: 1; /* Faz as caixas de texto ocuparem o espaço disponível igualmente */
-            margin: 5px; /* Adiciona espaçamento entre as caixas de texto */
-            height: 200px;
-            padding: 5px;
+            width: 100%;
+            height: 500px; /* Aumenta a altura das caixas de texto para 500px */
+            padding: 10px; /* Aumenta o espaçamento interno */
+            font-size: 16px; /* Aumenta o tamanho da fonte para melhor legibilidade */
             resize: none;
             border: 1px solid #ccc;
             border-radius: 5px;
         }
         
-        /* Assegura que a última caixa de texto não terá margem direita extra */
-        textarea:last-child {
-            margin-right: 0;
+        
+        
+        .input-wrapper:nth-child(2) {
+            margin-right: 20px;
+        }
+        .input-wrapper:nth-child(1) {
+            margin-right: 50px;
         }
         
         .slider-wrapper {
@@ -80,31 +76,8 @@
             margin-bottom: 5px;
         }
         
-        input[type="range"] {
-            -webkit-appearance: none;
-            -moz-appearance: none;
-            appearance: none;
-            width: 100%;
-            height: 15px;
-            background: #ccc;
-            outline: none;
-            border-radius: 10px;
-        }
-        
-        input[type="range"]::-webkit-slider-thumb {
-            -webkit-appearance: none;
-            appearance: none;
-            width: 20px;
-            height: 20px;
-            background: #4CAF50;
-            border-radius: 50%;
-            cursor: pointer;
-        }
-        
-        .slider-labels {
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
+        input[type="radio"] {
+            margin-right: 5px;
         }
         
         button {
@@ -123,16 +96,19 @@
             background-color: #45a049;
         }
 
+
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Conversor de Código</h1>
-        <div class="input-wrapper">
-            <textarea id="inputCode" placeholder="Insira o código aqui"></textarea>
-        </div>
-        <div class="input-wrapper">
-            <textarea id="outputCode" placeholder="Código convertido será exibido aqui"></textarea>
+        <div class="textarea-wrapper">
+            <div class="input-wrapper">
+                <textarea id="inputCode" placeholder="Insira o código aqui" rows="10"></textarea>
+            </div>
+            <div class="input-wrapper">
+                <textarea id="outputCode" placeholder="Código convertido será exibido aqui" rows="10" readonly></textarea>
+            </div>
         </div>
         <div class="slider-wrapper">
             <label>
@@ -142,7 +118,7 @@
                 <input type="radio" name="conversionType" value="cToVisualg"> C para Visualg
             </label>
         </div>
-        <button id="convertButton" onclick="converterCodigo()">Converter</button>
+        <button id="convertButton">Converter</button>
     </div>
 
     <script>
@@ -164,6 +140,8 @@
                 console.error('Error:', error);
             });
         }
+
+        document.getElementById('convertButton').addEventListener('click', converterCodigo);
     </script>
 </body>
 </html>
