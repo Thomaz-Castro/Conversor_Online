@@ -15,7 +15,12 @@ def convert_c_to_visualg(codigo):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    user_agent = request.user_agent.string
+    if 'Mobile' in user_agent:  # Verifica se o usuário está usando um dispositivo móvel
+        return render_template('index_mobile.html')
+    else:
+        return render_template('index.html')
+
 
 @app.route('/converter', methods=['POST'])
 def converter():
