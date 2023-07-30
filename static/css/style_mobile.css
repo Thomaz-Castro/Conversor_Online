@@ -35,23 +35,13 @@ h1 {
     margin-bottom: 20px;
 }
 
-.textarea-wrapper {
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-}
 
 .input-wrapper {
     flex: 1;
     margin: 5px;
-    margin-right: 25px;
 }
 
-.input-label-wrapper {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 5px;
-}
+
 
 label {
     font-size: 16px;
@@ -59,8 +49,8 @@ label {
 
 textarea {
     width: 90%;
-    height: 80%;
-    height: 400px;
+    height: 50%;
+    height: 200px;
     padding: 10px;
     font-size: 16px;
     resize: none;
@@ -90,7 +80,7 @@ textarea {
     cursor: pointer;
     border-radius: 5px;
     transition: background-color 0.3s;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -154,13 +144,15 @@ button:hover {
 
 /* Botão de alternar o modo noturno */
 .toggle-dark-mode {
-    position: fixed;
-    bottom: 20px;
-    left: 50%; /* Centralize horizontalmente */
-    transform: translateX(-50%); /* Mova para a esquerda, a metade da sua própria largura */
+    bottom: 20px; /* Adjust the value as needed */
+    right: 20px; /* Adjust the value as needed */
+    z-index: 9999; /* Ensure it's above other elements */
     display: flex;
     align-items: center;
-    cursor: pointer;
+    justify-content: center;
+    padding: 10px;
+
+
 }
 
 

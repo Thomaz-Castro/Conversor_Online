@@ -10,19 +10,13 @@
 <body class="dark-mode">
     <div class="container">
         <h1>Conversor de Código</h1>
-        <div class="textarea-wrapper">
-            <div class="input-wrapper">
-                <div class="input-label-wrapper">
-                </div>
-                <textarea id="inputCode" placeholder="Insira o código aqui" rows="15"></textarea>
-            </div>
-            <div class="input-wrapper">
-                <div class="input-label-wrapper">
-
-                </div>
-                <textarea id="outputCode" placeholder="Código convertido será exibido aqui" rows="15" readonly></textarea>
-            </div>
+        <div class="input-wrapper">
+            <textarea id="inputCode" placeholder="Insira o código aqui" rows="7"></textarea>
         </div>
+        <div class="input-wrapper">
+            <textarea id="outputCode" placeholder="Código convertido será exibido aqui" rows="7" readonly></textarea>
+        </div>
+
         <div class="slider-wrapper" onclick="toggleText()">Visualg para C</div>
         
         <button id="convertButton">Converter</button>
