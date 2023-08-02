@@ -1,1522 +1,1296 @@
-from random import randrange, randint
-from unidecode import unidecode
-import re
+yaViSBmFgN,F8FPMTeA6V,dyAWxKrWcE,ZSwUp9cZFm,qxcHoV5tNQ,hXlU9PPQ9S,v41Q2VqFpw,B_Eh9nm7GC,LOPhoT5MI3,__Xg0yyxre,pt6ETT4GAz,JVkENzcrgs,PixCK3hFl_,GqVy5C9h7g,FvXJ96gB9_,QrZGZLHX9q,FiKyarDwkb,VbQ853nKpk,G5wmNJFqxf,_ZSH_qZ03t,YLI9yS_Gpg,i3Hb8e3Nms,D7K5vK5LW8,M5rn_DmSb5,lh14f2YHYa,tOSXHUsKFq,YEBqzprlT4,oJwgmdR2Sb,LtRpOsEqLG,my5ROkz3Dc,Vx4gDbn24w,qQzt7RUgzJ,rwJo28jbxM,AaPNGMKJUE,ffTHG7yvvE,THjVuogjN6,LB4QdXlcrP,NQLIgCwhyJ,VSQOEE_yFX,vXyu1bQEgw,pa14h3GL7U,hWXBqSXTV0,vkO3ttyjlP,G4Mzi9IKDr,Vy6y87wKUx,HgV6EtVz79,qjcZFRbGbh,Fhk_kOPwUL,i39NgZsP3L,i2fOKc4h7v,vL3ZIl0D2R,bs_PxYfOIi,utbKUObEat,qY4paRfaDx,ujvC9wxMR0,IWvSAwBMIE,aDuQz4IjQ2,QjJLK19CIX,SEuMvDDRAJ,b8skjdycg6,aeFy5O2K6l,lp0pSO_a2N,tGv00WcWVF,MmEGerjane,tUluDGHf_F,H_qwOvuMk_,TOfARaCJV0,jwFp6TWhNb,YYnJX0CWd8,uIar4Bfq7q,COgEXGMTBh,HpXv3izwGB,aaFf6X1vj0,kawQzISOkV,A_g3UzhO25,Km1WJPl1qS,DLFNrc7M3p,XelZviDCjm,JlFXRHq394,gVmXSqDes9,gYFPyvOC_W,lEFf3I8aJm,ByqfRE9_0P,q0G4eSsEBQ,Ttv0KPirKA,VZMt1y3elp,KHdSoJ95cs,ivbkAlp3hA,fMce9Jd7ww,H6_9R9WxH7,WsBdyGHcIM,hmKt1rFONb,ei4TRWwHn7,v4R8E8oZmd,qHudwNnax9,TKes21q6hS,xRBkBEh5T8,g_oNyP_lGd,L_VDlotUJx,z9BEMeTj4B,LsgUw_6Xqm,dR2mCBIlA2,AC7ge3bYiW,_af9rRqIly,uMjC1oJ4pC,HHU4AFiuzm,eJ9xojU7EN,Nu2ko4utwC,iBVOnas9Ne,FiamsG2iNr,TmAvSVYdMk,lecxhbCcMa,lKPsCpYJiU,XMvotP2Kst,Sxr5kZJfmW,OaAhzDiXE7,ybxa82O2lZ,TBBvMKBlHX,Zonjss69pd,h0J2gI7PnA,LMbPT5NvUl,OGGOgdNaD0,hmdgxVtlRN,VBTYL3oeHU,wmw56_cJ1j,IHl904fV7W,PsmCM3DYzr,bjVl69SIt4,IAUKXaDORQ,ULeTw6j9QA,wwoSRYoQXH,wqzd1xwC2M,QGkrcoHRr_,VURJ5MEb5E,yKFgpOrDEs,SuI9ksHZ96,Ikmx6uW8qq,jmJZ9U8fzs,E715M2firP,qh4_tJYeot,Hd1GczuPJt,C6cO1BkmEt,VzP80VifC0,dBWdwycY67,DPpvujh2lc,v0I0XNug05,Vmzbkg3shO,KPIGvZq2q0,R2oBIvv9hy,TWngu2iXgp,_MATgNnmop,QRLUgIxvKe,IrmZ2PJQnn,bHXJgonIhI,wezNi3vQ5F,nJ8oL8MMLN,gkLQpf2HaE,jkXyogSLA9,Km1WJPl1qS,jPv9MQYD66,XelZviDCjm,JlFXRHq394,gVmXSqDes9,gYFPyvOC_W=ArithmeticError,AssertionError,AttributeError,BaseException,BlockingIOError,BrokenPipeError,BufferError,BytesWarning,ChildProcessError,ConnectionAbortedError,ConnectionError,ConnectionRefusedError,ConnectionResetError,DeprecationWarning,EOFError,Ellipsis,EncodingWarning,EnvironmentError,Exception,False,FileExistsError,FileNotFoundError,FloatingPointError,FutureWarning,GeneratorExit,IOError,ImportError,ImportWarning,IndentationError,IndexError,InterruptedError,IsADirectoryError,KeyError,KeyboardInterrupt,LookupError,MemoryError,ModuleNotFoundError,NameError,None,NotADirectoryError,NotImplemented,NotImplementedError,OSError,OverflowError,PendingDeprecationWarning,PermissionError,ProcessLookupError,RecursionError,ReferenceError,ResourceWarning,RuntimeError,RuntimeWarning,StopAsyncIteration,StopIteration,SyntaxError,SyntaxWarning,SystemError,SystemExit,TabError,TimeoutError,True,TypeError,UnboundLocalError,UnicodeDecodeError,UnicodeEncodeError,UnicodeError,UnicodeTranslateError,UnicodeWarning,UserWarning,ValueError,Warning,WindowsError,ZeroDivisionError,__build_class__,__debug__,__doc__,__import__,__loader__,__name__,__package__,__spec__,abs,aiter,all,anext,any,ascii,bin,bool,breakpoint,bytearray,bytes,callable,chr,classmethod,compile,complex,copyright,credits,delattr,dict,dir,divmod,enumerate,eval,exec,exit,filter,float,format,frozenset,getattr,globals,hasattr,hash,help,hex,id,input,int,isinstance,issubclass,iter,len,license,list,locals,map,max,memoryview,min,next,object,oct,open,ord,pow,print,property,quit,range,repr,reversed,round,set,setattr,slice,sorted,staticmethod,str,sum,super,tuple,type,vars,zip,__builtins__,__cached__,__doc__,__file__,__loader__,__name__,__package__,__spec__
+M62917xPfp = lambda SgCNdCiUom: hmKt1rFONb([AoUFPAIxhg ^ [h0J2gI7PnA(chr(48) + chr(0b1010100 + 0o33) + '\x31' + chr(0b110000) + '\060', 12636 - 12628), h0J2gI7PnA(chr(795 - 747) + chr(0b1101111) + chr(996 - 943), ord("\x08")), h0J2gI7PnA(chr(48) + chr(111) + '\x31' + '\x30' + chr(0b110011), 0o10), h0J2gI7PnA(chr(0b110000) + chr(11232 - 11121) + chr(2211 - 2161) + chr(51) + chr(50), ord("\x08")), h0J2gI7PnA('\x30' + chr(111) + '\x31' + '\061' + chr(0b11000 + 0o37), 63143 - 63135), h0J2gI7PnA('\060' + chr(111) + '\x32' + '\064' + chr(0b110010), 0b1000), h0J2gI7PnA('\060' + '\x6f' + '\065' + '\060', ord("\x08")), h0J2gI7PnA(chr(0b10110 + 0o32) + '\157' + chr(445 - 396) + chr(0b110100) + '\064', 0b1000), h0J2gI7PnA(chr(0b110000) + chr(0b1001110 + 0o41) + '\061' + '\063' + chr(0b10100 + 0o42), 0o10), h0J2gI7PnA(chr(48) + '\x6f' + '\062' + chr(0b11111 + 0o24) + chr(0b110100), 0o10), h0J2gI7PnA('\x30' + chr(0b1101111) + chr(51) + '\067' + '\x31', 0o10), h0J2gI7PnA('\060' + chr(111) + chr(0b110110) + '\x33', 59478 - 59470), h0J2gI7PnA(chr(0b1001 + 0o47) + chr(0b1000010 + 0o55) + chr(1681 - 1632) + chr(54) + '\x36', ord("\x08")), h0J2gI7PnA('\060' + chr(12238 - 12127) + '\063' + '\064' + chr(0b110100), 0o10), h0J2gI7PnA(chr(0b110000) + chr(0b1101110 + 0o1) + chr(0b110010) + chr(1954 - 1905) + '\x32', 0b1000), h0J2gI7PnA(chr(0b100101 + 0o13) + '\x6f' + chr(0b110111) + '\x30', 0b1000), h0J2gI7PnA('\060' + chr(7306 - 7195) + chr(0b110010), ord("\x08")), h0J2gI7PnA('\060' + chr(4341 - 4230) + chr(0b11101 + 0o27) + chr(50), 61169 - 61161), h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(554 - 501) + chr(53), 42679 - 42671), h0J2gI7PnA(chr(0b101101 + 0o3) + chr(0b1101111) + '\x31' + '\067' + '\062', 0o10), h0J2gI7PnA(chr(523 - 475) + '\157' + '\x35' + chr(52), 0b1000), h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(0b110010) + chr(0b10011 + 0o40) + chr(49), 60622 - 60614), h0J2gI7PnA(chr(0b110000) + chr(0b1000 + 0o147) + '\061' + chr(49) + chr(2323 - 2273), 2929 - 2921), h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(0b110111) + chr(1658 - 1605), ord("\x08")), h0J2gI7PnA('\x30' + chr(9952 - 9841) + chr(0b10110 + 0o35) + '\061', 17900 - 17892), h0J2gI7PnA('\060' + chr(2306 - 2195) + chr(0b110001) + chr(2658 - 2605) + chr(2509 - 2454), 35818 - 35810), h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(51) + chr(51) + chr(0b10 + 0o62), 0b1000), h0J2gI7PnA(chr(48) + '\157' + chr(2171 - 2122) + '\x30' + chr(48), 8), h0J2gI7PnA(chr(0b1001 + 0o47) + chr(0b1011100 + 0o23) + chr(0b110011) + chr(52) + chr(53), ord("\x08")), h0J2gI7PnA(chr(48) + '\x6f' + '\062' + chr(0b110100) + '\x30', ord("\x08")), h0J2gI7PnA('\x30' + chr(6931 - 6820) + chr(51) + chr(55) + '\x37', 47147 - 47139), h0J2gI7PnA('\x30' + '\157' + '\x31' + chr(1769 - 1718), 0o10), h0J2gI7PnA('\x30' + chr(111) + chr(0b1110 + 0o45) + '\x33' + chr(0b110011), ord("\x08")), h0J2gI7PnA('\060' + chr(0b1100110 + 0o11) + '\067' + chr(0b110011), 0b1000), h0J2gI7PnA('\x30' + chr(0b111000 + 0o67) + chr(51) + chr(0b110010) + '\x30', 0b1000), h0J2gI7PnA(chr(104 - 56) + chr(0b1101111) + chr(1094 - 1043) + chr(0b110011), 0b1000), h0J2gI7PnA('\x30' + chr(111) + chr(0b11001 + 0o34), 8), h0J2gI7PnA(chr(48) + '\157' + '\x34' + chr(53), ord("\x08")), h0J2gI7PnA(chr(1867 - 1819) + chr(111) + '\061' + chr(0b110100) + chr(52), 8), h0J2gI7PnA(chr(1864 - 1816) + '\x6f' + chr(0b101111 + 0o3) + chr(0b110010) + '\x33', ord("\x08"))][zxQxaVNK_c % h0J2gI7PnA('\x30' + chr(111) + '\065' + chr(48), 8)] for (zxQxaVNK_c, AoUFPAIxhg) in _af9rRqIly(SgCNdCiUom)])
 
-
-def InfFor_C(string):
-    padrao = r'for\s*\(\s*([a-zA-Z0-9_]+)\s*=\s*([^;]+)\s*;\s*([^;]+)\s*;\s*([^)]+)\s*\)'
-    match = re.search(padrao, string)
-    if match:
-        variavel = match.group(1)
-        atribuicao = match.group(2)
-        condicao = match.group(3)
-        iteracao = match.group(4)
-       
-        return variavel, atribuicao, condicao, iteracao
-    else:
-        return None
-    
-
-def Indent_stripList(my_list):
-    lista = my_list
-    qtd = 0
-    tab = "    "
-    stri = ""
-    for i, its in enumerate(lista):
-        if (qtd != 0 and not (("}" in its and "{" not in its))):
-            stri = str((tab*qtd) + its)
-            lista[i] = stri
-        if("{" in its and "}" not in its):
-            qtd += 1
-        if("}" in its and "{" not in its):
-            qtd -= 1
-            stri = str((tab*qtd) + its)
-            lista[i] = stri
-    
-    return lista
-
-        
-
-def InfVetor_visualg (lin):
-    txt = ""
-    lin = lin.split("vetor")
-    lin[1] = lin[1].split("]")
-    del lin[0]
-    del lin[0][1]
-    txt = lin[0][0].strip()
-    if ("," in txt):
-        Vsplit = txt.split(",")
-        Vsplit[0],Vsplit[1] = Vsplit[0].strip(),Vsplit[1].strip()
-        Espc1 = Vsplit[0][(Vsplit[0].find("..")+2)]
-
-        if ((Vsplit[0].find("..")+2) != (len(Vsplit[0])-1)):
-            Espc1 = Espc1 + Vsplit[0][(Vsplit[0].find("..")+3)]
-        Espc2 = Vsplit[1][(Vsplit[1].find("..")+2)]
-
-        if ((Vsplit[1].find("..")+2) != (len(Vsplit[1])-1)):
-            Espc2 = Espc2 + Vsplit[1][(Vsplit[1].find("..")+3)]
-
-        value = str(Espc1)+"X"+str(Espc2)
-    else:
-        Espc = txt[(txt.find("..")+2)]
-        if ((txt.find("..")+2) != (len(txt)-1)):
-            Espc = Espc + txt[(txt.find("..")+3)]
-        value = str(Espc)
-
-    return value
-
-
-def InfPara_visualg(string):
-    string = string.lower().strip()
-    padrao = r'para\s+(.*?)\s+de\s+(.*?)\s+ate\s+(.*?)(?:\s+passo\s+(.*?))?\s+faca'
-    match = re.search(padrao, string)
-    if match:
-        grupos = match.groups()
-        grupo4 = grupos[3] if grupos[3] else '1'
-        grupos = grupos[:3] + (grupo4,) + grupos[4:]
-        grupos = list(grupos)
-        return grupos
-    else:
-        return None
-
-
-def ate_dW(string):
-
-    if (("(" in string) and (")" in string)):
-        pilha = []
-        conteudo = []
-        for i, char in enumerate(string):
-            
-            if char == '(':
-                pilha.append(i)
-            elif char == ')':
-                if pilha:
-                    inicio = pilha.pop()
-                    if not pilha:
-                        conteudo.append(string[inicio+1:i])
-                        
-                else:
-                    raise ValueError("Erro de correspondência de parênteses.")
-        
-        conteudo_parenteses = ", ".join(conteudo)
-        conteudo_parenteses = "(" + conteudo_parenteses + ")"
-        
-
-        conteudo_parenteses = conteudo_parenteses.lower()
-        conteudo_parenteses = conteudo_parenteses.replace(" e ", " && ")
-        conteudo_parenteses = conteudo_parenteses.replace(" ou ", " || ")
-        conteudo_parenteses = conteudo_parenteses.replace(" mod ", " % ")
-        conteudo_parenteses = conteudo_parenteses.replace(" = ", " <>#3e3##fGG-- ")
-        
-        
-        conteudo_parenteses = conteudo_parenteses.replace(" <> ", " == ")
-        conteudo_parenteses = conteudo_parenteses.replace(" < ", " >=#3e3##fGG-- ")
-        conteudo_parenteses = conteudo_parenteses.replace(" > ", " <=#3e3##fGG-- ")
-        conteudo_parenteses = conteudo_parenteses.replace(" <= ", " >#3e3##fGG-- ")
-        conteudo_parenteses = conteudo_parenteses.replace(" >= ", " <#3e3##fGG-- ")
-        conteudo_parenteses = conteudo_parenteses.replace("#3e3##fGG--", "")
-     
-
-    else:
-        conteudo_parenteses = "ERRO - parênteses não encontrados"
-
-    return conteudo_parenteses
-
-def Conditions_visualg(string):
-    if (("(" in string) and (")" in string)):
-        pilha = []
-        conteudo = []
-        for i, char in enumerate(string):
-            if char == '(':
-                pilha.append(i)
-            elif char == ')':
-                if pilha:
-                    inicio = pilha.pop()
-                    if not pilha:
-                        conteudo.append(string[inicio+1:i])
-                else:
-                    raise ValueError("Erro de correspondência de parênteses.")
-
-        conteudo_parenteses = ", ".join(conteudo)
-        conteudo_parenteses = "(" + conteudo_parenteses + ")"
-        conteudo_parenteses = conteudo_parenteses.lower()
-        conteudo_parenteses = conteudo_parenteses.replace(" e ", " && ")
-        conteudo_parenteses = conteudo_parenteses.replace(" ou ", " || ")
-        conteudo_parenteses = conteudo_parenteses.replace(" mod ", " % ")
-        conteudo_parenteses = conteudo_parenteses.replace(" = ", " == ")
-        conteudo_parenteses = conteudo_parenteses.replace(" <> ", " != ")
-
-
-
-    else:
-        conteudo_parenteses = "ERRO - parênteses não encontrados"
-
-    return conteudo_parenteses
-
-def parent_printC(string):
-    if (("(" in string) and (")" in string)):
-        pilha = []
-        conteudo = []
-        for i, char in enumerate(string):
-            if char == '(':
-                pilha.append(i)
-            elif char == ')':
-                if pilha:
-                    inicio = pilha.pop()
-                    if not pilha:
-                        conteudo.append(string[inicio+1:i])
-                else:
-                    raise ValueError("Erro de correspondência de parênteses.")
-
-        conteudo_parenteses = ", ".join(conteudo)
-        conteudo_parenteses = "(" + conteudo_parenteses + ")"
-        conteudo_parenteses = conteudo_parenteses.lower()
-    else:
-        conteudo_parenteses = "ERRO - parênteses não encontrados"
-
-    return conteudo_parenteses
-
-
-def do_repita(string):
-    if (("(" in string) and (")" in string)):
-        pilha = []
-        conteudo = []
-        for i, char in enumerate(string):
-            if char == '(':
-                pilha.append(i)
-            elif char == ')':
-                if pilha:
-                    inicio = pilha.pop()
-                    if not pilha:
-                        conteudo.append(string[inicio+1:i])
-                else:
-                    raise ValueError("Erro de correspondência de parênteses.")
-
-        conteudo_parenteses = "".join(conteudo)
-        conteudo_parenteses = str("(" + conteudo_parenteses + ")")
-        conteudo_parenteses = conteudo_parenteses.lower()
-        conteudo_parenteses = conteudo_parenteses.replace(" && ", " e ")
-        conteudo_parenteses = conteudo_parenteses.replace(" || ", " ou ")
-        conteudo_parenteses = conteudo_parenteses.replace(" == ", " <> ")
-        conteudo_parenteses = conteudo_parenteses.replace(" >= ", " < ")
-        conteudo_parenteses = conteudo_parenteses.replace(" <= ", " > ")
-        conteudo_parenteses = conteudo_parenteses.replace(" > ", " <= ")
-        conteudo_parenteses = conteudo_parenteses.replace(" < ", " >= ")
-        conteudo_parenteses = conteudo_parenteses.replace("", "")
-
-    else:
-        conteudo_parenteses = "ERRO - parênteses não encontrados"
-
-    return conteudo_parenteses
-
-def Conditions_C(string):
-    if (("(" in string) and (")" in string)):
-        pilha = []
-        conteudo = []
-        for i, char in enumerate(string):
-            if char == '(':
-                pilha.append(i)
-            elif char == ')':
-                if pilha:
-                    inicio = pilha.pop()
-                    if not pilha:
-                        conteudo.append(string[inicio+1:i])
-                else:
-                    raise ValueError("Erro de correspondência de parênteses.")
-
-        conteudo_parenteses = ", ".join(conteudo)
-        conteudo_parenteses = "(" + conteudo_parenteses + ")"
-        conteudo_parenteses = conteudo_parenteses.lower()
-        conteudo_parenteses = conteudo_parenteses.replace(" && ", " e ")
-        conteudo_parenteses = conteudo_parenteses.replace(" || ", " ou ")
-        conteudo_parenteses = conteudo_parenteses.replace(" == ", " = ")
-    else:
-        conteudo_parenteses = "ERRO - parênteses não encontrados"
-
-    return conteudo_parenteses
-
-
-def espcVetor_visualg(string):
-    if (("[" in string) and ("]" in string)):
-        pilha = []
-        conteudo = []
-        mpnt = {}
-        for i, char in enumerate(string):
-            if char == '[':
-                pilha.append(i)
-            elif char == ']':
-                if pilha:
-                    inicio = pilha.pop()
-                    if not pilha:
-                        conteudo.append(string[inicio+1:i])
-                else:
-                    raise ValueError("Erro de correspondência de chaves.")
-                    
-        lisa = conteudo.copy()
-        for i , itens in enumerate(lisa):
-            stri = str(itens)
-            if (" " in stri):
-                stri = stri.replace(" ","")
-            lisa[i] = stri.replace(",","][")
-            lisa[i] = "[" + lisa[i] + "]"
-
-        for i, item in enumerate(conteudo):
-            stri = str(item)
-            conteudo[i] = ("[" + stri + "]")
-
-
-        for i, item in enumerate(conteudo):
-            mpnt[item] = lisa[i]
-        
-    else:
-        mpnt = "xXx3 - ERRO"
-        raise ValueError("Chaves não encontradas.") 
-    
-    return mpnt
-
-def is_number(string):
-    if string.startswith("-"):
-        string = string[1:]
-    return string.isnumeric()
-
-def addVarName_DictList(lis, typ):
-    varis = {}
-    if typ == "f":
-        for it in lis:
-            var_name = str(it)
-            varis[var_name] = r"%f" 
-    if typ == "i":
-        for it in lis:
-            var_name = str(it)
-            varis[var_name] = r"%d"  
-    if typ == "s":
-        for it in lis:
-            var_name = str(it)
-            varis[var_name] = r"%s"   
-    
-    return varis        
-
-def extract_varName(string, typ):
-    txt = str(string)
-    vrs = []
-    if "," not in txt:
-        if typ == "f":
-            txt = txt.replace("float ", "")
-            txt = txt.replace(";", "")
-        if typ == "i":
-            txt = txt.replace("int ", "")
-            txt = txt.replace(";", "")
-        if typ == "s":
-            txt = txt.replace("char ", "")
-            txt = txt.replace("[100];", "")
-        txt = txt.strip()
-        vrs.append(txt)
-    else:
-        vrs = txt.strip(",").split(",")
-        for i, it in enumerate(vrs):
-            stri = str(it)
-            if typ == "f":
-                stri = stri.replace("float ", "")
-                stri = stri.replace(";", "")
-            if typ == "i":
-                stri = stri.replace("int ", "")
-                stri = stri.replace(";", "")
-            if typ == "s":
-                stri = stri.replace("char ", "")
-                stri = stri.replace("[100];", "")
-            if " " in stri:
-                stri = stri.replace(" ", "")
-            vrs = [stri if x == it else x for x in vrs]
-
-    return vrs
-
-def convEsc_forPrint(string:str, dic:dict):
-    txt = string
-    varis = dic
-    txt = txt.replace("printf","")
-    txt = txt.replace(");", "")
-    txt = txt.strip()
-    txt = txt[1:]
-    vle = []
-    ToF = False
-    lax = ""
-    lax2 = "" 
-    lax3 = ""
-
-
-    anls = txt.split('"')
-
-    if len(anls) == 3 and anls[0] == "" and anls[2] == "":
-        return string
-    else:
-        for i, txt in enumerate(anls):
-            anls[i] = anls[i].strip()
-            if i == 0:
-                if len(anls[i]) > 0 and anls[i][len(anls[i]) - 1] == "," and anls[i].count(",") == 1:
-                    lax = anls[i].replace(",", "")
-                    lax = lax.strip()
-                    if "[" in lax:
-                        lax = lax.split("[")
-                        lax3 = "[" + str(lax[1]) + "[" + str(lax[2])
-                        lax = str(lax[0])
-                        lax3 = lax + lax3
-                        ToF = True
-                    lax2 = varis[lax]
-                    anls[i] = '"' + lax2
-                    if ToF == False:
-                        vle.append(lax)
-                    else:
-                        vle.append(lax3)
-                        ToF = False
-                else:
-                    anls[0] = '"' + anls[0]
-            elif i == len(anls) - 1:
-                if len(anls[i]) > 0 and anls[i][0] == "," and anls[i].count(",") == 1:
-                    lax = anls[i].replace(",", "")
-                    lax = lax.strip()
-                    if "[" in lax:
-                        lax = lax.split("[")
-                        lax3 = "[" + str(lax[1]) + "[" + str(lax[2])
-                        lax = str(lax[0])
-                        lax3 = lax + lax3
-                        ToF = True
-                    lax2 = varis[lax]
-                    anls[i] = lax2 + '"'
-                    if ToF == False:
-                        vle.append(lax)
-                    else:
-                        vle.append(lax3)
-                        ToF = False
-                else:
-                    anls[i] = anls[i] + '"'
-            else:
-                if len(anls[i]) > 0 and anls[i][len(anls[i]) - 1] == "," and anls[i].count(",") == 2 and anls[i][0] == ",":
-                    lax = anls[i].replace(",", "")
-                    lax = lax.strip()
-                    if "[" in lax:
-                        lax = lax.split("[")
-                        lax3 = "[" + str(lax[1]) + "[" + str(lax[2])
-                        lax = str(lax[0])
-                        lax3 = lax + lax3
-                        ToF = True
-                    lax2 = varis[lax]
-                    anls[i] = lax2
-                    if ToF == False:
-                        vle.append(lax)
-                    else:
-                        vle.append(lax3)
-                        ToF = False
-
-
-        lax = " ".join(anls)
-        lax2 = ",".join(vle)
-        lax2 = "," + lax2
-
-        vle = "printf (" + lax + lax2 + ");"
-        return vle 
-
-
-def strBib_ADD(texto):
-    lax2 = texto
-    
-    pattern = r"\(|\)|\s+e\s+|\s+ou\s+"
-
-    # Executa a divisão usando o padrão de expressão regular
-    resultado = re.split(pattern, texto)
-    elementos_validos = []
-    elmt_Trocados = []
-
-    for tx in resultado:
-        if ("=" in tx or "<>" in tx) and tx.count('"') >= 2:
-            elementos_validos.append(tx)
-
-    for tx in elementos_validos:
-        if "=" in tx:
-            lax = tx.replace("=", ",")
-            lax = "(strcmp( " + lax + ") == 0)"
-            elmt_Trocados.append(lax)
-
-        else:
-            lax = tx.replace("<>", ",")
-            lax = "(strcmp( " + lax + ") == 1)"
-            elmt_Trocados.append(lax)
-
-    for p1, p2  in zip(elmt_Trocados, elementos_validos):
-        lax2 = lax2.replace(p2,p1)
-
-    return lax2
-
-def visualg_to_c(code):
-    
-    textoPrimario = code
-    splitTxt = textoPrimario.splitlines()
-    C_codeSplit = []
-    ale = 0
-    ttttttttttttttttttttttttt = 0
-    tttttttttt2 = 0
-    lax = ""
-    lax2 = ""
-    lax3 = ""
-    lax4 = ""
-    varis = {}
+def eix0MQ46gQ(d3jes3ip7S, a8Inrqf2Hu):
     try:
+        return DLFNrc7M3p(d3jes3ip7S + lecxhbCcMa(M62917xPfp(b'n'), chr(0b1100100) + chr(0b100010 + 0o103) + '\143' + chr(0b1011010 + 0o25) + chr(0b1000101 + 0o37) + chr(101))('\x75' + chr(5969 - 5853) + chr(0b1100011 + 0o3) + chr(45) + chr(0b111000)) + a8Inrqf2Hu)
+    except YEBqzprlT4:
+        return DLFNrc7M3p(d3jes3ip7S)
+(zTPwVy4r78, sjhnQKFaKb) = (lecxhbCcMa(eix0MQ46gQ(lecxhbCcMa(M62917xPfp(b'2d-\xfe \xcf'), chr(100) + chr(0b1100101) + chr(0b1001111 + 0o24) + '\157' + chr(8798 - 8698) + '\x65')(chr(9972 - 9855) + chr(116) + '\x66' + chr(0b101101) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'2d-\xfe=\xc3F\x03;'), '\x64' + chr(0b101100 + 0o71) + chr(99) + '\x6f' + chr(6967 - 6867) + chr(0b1100101))(chr(8956 - 8839) + chr(116) + chr(5668 - 5566) + chr(0b11110 + 0o17) + chr(1755 - 1699))), lecxhbCcMa(M62917xPfp(b'2d-\xfe=\xc3F\x03;'), '\x64' + chr(0b11001 + 0o114) + '\x63' + chr(0b1010101 + 0o32) + '\x64' + '\x65')(chr(0b1110101) + chr(116) + chr(0b1100110) + chr(0b101101) + chr(0b0 + 0o70))), lecxhbCcMa(eix0MQ46gQ(lecxhbCcMa(M62917xPfp(b'2d-\xfe \xcf'), '\x64' + '\x65' + '\x63' + chr(111) + chr(0b1100100) + chr(101))(chr(0b1110000 + 0o5) + '\164' + '\x66' + chr(0b1000 + 0o45) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'2d-\xfe&\xcc\\'), chr(0b1100100) + chr(0b1100101) + '\x63' + '\x6f' + '\144' + chr(2127 - 2026))(chr(0b1101 + 0o150) + '\x74' + chr(102) + '\x2d' + chr(0b100110 + 0o22))), lecxhbCcMa(M62917xPfp(b'2d-\xfe&\xcc\\'), chr(0b1100100) + '\x65' + '\143' + '\157' + '\x64' + chr(5391 - 5290))(chr(10392 - 10275) + chr(0b1100101 + 0o17) + chr(0b1011010 + 0o14) + '\x2d' + chr(56))))
+(jiSsxIKE6_,) = (lecxhbCcMa(eix0MQ46gQ(lecxhbCcMa(M62917xPfp(b'5k*\xfe*\xc1G\x00;'), chr(335 - 235) + '\145' + '\x63' + chr(111) + chr(0b11011 + 0o111) + chr(101))('\x75' + chr(116) + chr(102) + chr(0b101101) + '\x38'), lecxhbCcMa(M62917xPfp(b'5k*\xfe*\xc1G\x00;'), chr(0b1100100) + chr(101) + '\143' + chr(0b1100110 + 0o11) + '\144' + chr(0b1100001 + 0o4))('\165' + chr(116) + '\146' + '\x2d' + chr(56))), lecxhbCcMa(M62917xPfp(b'5k*\xfe*\xc1G\x00;'), chr(100) + chr(0b1100101) + '\143' + '\x6f' + '\x64' + chr(0b1100101))(chr(117) + '\164' + chr(1855 - 1753) + chr(0b101101) + '\070')),)
+(C2IYYDqj9b,) = (DLFNrc7M3p(lecxhbCcMa(M62917xPfp(b'2`'), '\144' + '\x65' + chr(0b1100011) + chr(0b1101111) + '\x64' + '\x65')(chr(0b1001100 + 0o51) + '\x74' + chr(0b1100110) + chr(0b1 + 0o54) + chr(0b100111 + 0o21))),)
 
-        for i, line in enumerate(splitTxt):
-            
-            if (i == 0):
-                C_codeSplit.append("//" + line)
-                C_codeSplit.append("#include <stdio.h>")
-            elif (i !=0):
-                if line.strip() == "":
-                    ale = randrange(1,10)
-                    if (ale < 5):
-                        C_codeSplit.append("")
+def KG6bixjD5Z(YTJZ_Dpsgt):
+    UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'&j1\xc6<\x88tL\x02\xef\xd3\x1b-\x85\xa7BC\x0fwJ\x01\xa0\x15`2F\x803\xcf\x9d\xa3x\xf1\x13\x8bE>xO\xba\x1cvi\xa1\x13\xd1\x02L\x05\xc2\xc2n]\xcd\xd6K(\x19q\t\x06\xb1\x11c02\xf7i\xb9\xd3\xd5W\xf2'), chr(100) + chr(101) + chr(0b101111 + 0o64) + '\157' + '\x64' + '\145')(chr(0b1110101) + chr(116) + '\146' + '\055' + chr(56))
+    myBrHmuNZQ = C2IYYDqj9b.search(UeKExNlk91, YTJZ_Dpsgt)
+    if myBrHmuNZQ:
+        AzJ3REWTxS = myBrHmuNZQ.group(h0J2gI7PnA(chr(0b11001 + 0o27) + chr(0b100111 + 0o110) + '\x31', 55165 - 55157))
+        plsooG6ZFC = myBrHmuNZQ.group(h0J2gI7PnA(chr(0b110 + 0o52) + chr(0b111001 + 0o66) + '\062', 8))
+        hWyf2bcpb2 = myBrHmuNZQ.group(h0J2gI7PnA(chr(0b110000) + '\157' + '\x33', 0b1000))
+        _76sN13YyA = myBrHmuNZQ.group(h0J2gI7PnA('\x30' + chr(0b1101111) + chr(52), 0o10))
+        return (AzJ3REWTxS, plsooG6ZFC, hWyf2bcpb2, _76sN13YyA)
+    else:
+        return None
 
+def kDnx05JmTP(dslxukukeF):
+    FlU0MumZPU = dslxukukeF
+    xKUpPZc_Jz = h0J2gI7PnA(chr(0b1100 + 0o44) + '\x6f' + chr(0b110000), ord("\x08"))
+    hzg_zOXWDn = lecxhbCcMa(M62917xPfp(b'`%c\xba'), '\144' + chr(101) + chr(0b10101 + 0o116) + chr(111) + chr(100) + chr(0b111 + 0o136))(chr(0b101100 + 0o111) + chr(2473 - 2357) + chr(102) + chr(0b1111 + 0o36) + chr(56))
+    JiqYRRD3ln = lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(101) + chr(0b1100011) + '\x6f' + chr(100) + chr(0b1100101))(chr(0b11 + 0o162) + chr(0b100100 + 0o120) + chr(7469 - 7367) + '\055' + chr(56))
+    for (zxQxaVNK_c, LS4gjLX2yp) in _af9rRqIly(FlU0MumZPU):
+        if xKUpPZc_Jz != h0J2gI7PnA('\x30' + '\x6f' + chr(48), 8) and (not (lecxhbCcMa(M62917xPfp(b'='), chr(0b110000 + 0o64) + chr(101) + '\143' + chr(0b1101111) + chr(7176 - 7076) + '\x65')('\165' + chr(0b1110100) + chr(0b1011010 + 0o14) + chr(0b101010 + 0o3) + chr(0b111000)) in LS4gjLX2yp and lecxhbCcMa(M62917xPfp(b';'), '\144' + chr(6323 - 6222) + chr(99) + chr(0b11111 + 0o120) + chr(0b1100100) + chr(101))('\x75' + chr(0b1010001 + 0o43) + chr(0b111001 + 0o55) + '\055' + '\070') not in LS4gjLX2yp)):
+            JiqYRRD3ln = TWngu2iXgp(hzg_zOXWDn * xKUpPZc_Jz + LS4gjLX2yp)
+            FlU0MumZPU[zxQxaVNK_c] = JiqYRRD3ln
+        if lecxhbCcMa(M62917xPfp(b';'), chr(100) + chr(7153 - 7052) + '\143' + chr(9334 - 9223) + '\144' + '\x65')(chr(117) + '\x74' + chr(0b1100110) + chr(0b101101) + chr(179 - 123)) in LS4gjLX2yp and lecxhbCcMa(M62917xPfp(b'='), chr(0b1100100) + chr(0b1100101) + chr(99) + '\x6f' + chr(0b1011001 + 0o13) + chr(6089 - 5988))('\165' + chr(6110 - 5994) + chr(102) + chr(0b101010 + 0o3) + chr(0b10111 + 0o41)) not in LS4gjLX2yp:
+            xKUpPZc_Jz += h0J2gI7PnA('\060' + '\157' + chr(0b110001), 8)
+        if lecxhbCcMa(M62917xPfp(b'='), '\144' + '\145' + chr(0b1100011) + chr(111) + chr(100) + chr(0b1100101))('\165' + '\x74' + chr(739 - 637) + '\055' + chr(0b101100 + 0o14)) in LS4gjLX2yp and lecxhbCcMa(M62917xPfp(b';'), '\144' + chr(101) + chr(2297 - 2198) + '\157' + chr(0b1100100) + chr(7547 - 7446))('\165' + chr(0b1110100) + chr(0b11010 + 0o114) + chr(45) + '\070') not in LS4gjLX2yp:
+            xKUpPZc_Jz -= h0J2gI7PnA('\x30' + chr(0b111101 + 0o62) + '\061', 8)
+            JiqYRRD3ln = TWngu2iXgp(hzg_zOXWDn * xKUpPZc_Jz + LS4gjLX2yp)
+            FlU0MumZPU[zxQxaVNK_c] = JiqYRRD3ln
+    return FlU0MumZPU
+
+def ChlnZLX8BQ(oI6exbZZf2):
+    DbJV37wwm1 = lecxhbCcMa(M62917xPfp(b''), chr(0b110 + 0o136) + chr(289 - 188) + chr(0b1100011) + chr(111) + '\x64' + chr(101))(chr(11008 - 10891) + chr(7894 - 7778) + chr(0b1100110) + chr(0b101101) + '\070')
+    oI6exbZZf2 = oI6exbZZf2.split(lecxhbCcMa(M62917xPfp(b'6`7\xf5='), '\144' + chr(1448 - 1347) + chr(99) + chr(0b10010 + 0o135) + chr(0b101011 + 0o71) + chr(0b1100101))(chr(7377 - 7260) + chr(7746 - 7630) + chr(102) + chr(45) + chr(56)))
+    oI6exbZZf2[h0J2gI7PnA('\x30' + chr(0b101 + 0o152) + chr(460 - 411), 8)] = oI6exbZZf2[h0J2gI7PnA(chr(0b110000) + chr(0b1011010 + 0o25) + chr(0b110001), 8)].split(lecxhbCcMa(M62917xPfp(b'\x1d'), chr(0b101 + 0o137) + chr(5843 - 5742) + chr(99) + chr(111) + '\x64' + chr(0b1100101))(chr(117) + chr(9551 - 9435) + '\146' + chr(0b101101) + '\x38'))
+    del oI6exbZZf2[h0J2gI7PnA(chr(0b110000) + chr(1299 - 1188) + chr(0b110000 + 0o0), 8)]
+    del oI6exbZZf2[h0J2gI7PnA('\x30' + '\157' + chr(1950 - 1902), 8)][h0J2gI7PnA(chr(0b110000) + chr(0b1010011 + 0o34) + chr(0b110001), 8)]
+    DbJV37wwm1 = oI6exbZZf2[h0J2gI7PnA(chr(0b110000) + chr(111) + '\060', 8)][h0J2gI7PnA(chr(48) + '\x6f' + '\060', 8)].strip()
+    if lecxhbCcMa(M62917xPfp(b'l'), chr(100) + '\x65' + '\x63' + chr(11145 - 11034) + chr(0b1100100) + '\x65')('\165' + chr(8153 - 8037) + chr(102) + chr(45) + chr(0b111000)) in DbJV37wwm1:
+        cOvKlWOfkG = DbJV37wwm1.split(lecxhbCcMa(M62917xPfp(b'l'), '\x64' + '\145' + chr(3148 - 3049) + '\x6f' + chr(100) + chr(9566 - 9465))(chr(8869 - 8752) + chr(0b111101 + 0o67) + chr(0b1100110) + chr(0b101101) + chr(0b10001 + 0o47)))
+        (cOvKlWOfkG[h0J2gI7PnA(chr(0b110000) + '\x6f' + chr(0b101101 + 0o3), 8)], cOvKlWOfkG[h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(0b1000 + 0o51), 8)]) = (cOvKlWOfkG[h0J2gI7PnA(chr(0b110000) + chr(111) + chr(650 - 602), 8)].strip(), cOvKlWOfkG[h0J2gI7PnA(chr(0b10110 + 0o32) + '\157' + chr(49), 8)].strip())
+        sb3e6L_WYp = cOvKlWOfkG[h0J2gI7PnA('\060' + chr(10058 - 9947) + chr(0b101100 + 0o4), 8)][cOvKlWOfkG[h0J2gI7PnA('\060' + chr(0b11000 + 0o127) + chr(0b110000), 8)].find(lecxhbCcMa(M62917xPfp(b'n+'), chr(0b1100100) + chr(5636 - 5535) + '\143' + chr(0b101101 + 0o102) + '\144' + chr(6820 - 6719))(chr(117) + chr(0b1110100) + '\146' + '\055' + '\070')) + h0J2gI7PnA('\060' + '\x6f' + '\062', 8)]
+        if lecxhbCcMa(cOvKlWOfkG[h0J2gI7PnA(chr(48) + chr(1975 - 1864) + chr(0b110000), 8)], lecxhbCcMa(M62917xPfp(b'&l-\xfe'), chr(100) + '\x65' + chr(0b1100011) + chr(2200 - 2089) + chr(0b1011001 + 0o13) + chr(0b1100101))(chr(117) + chr(0b1110100) + '\x66' + '\055' + '\070'))(lecxhbCcMa(M62917xPfp(b'n+'), chr(8272 - 8172) + '\145' + chr(7968 - 7869) + chr(11069 - 10958) + '\144' + chr(0b11010 + 0o113))(chr(2935 - 2818) + '\x74' + chr(5663 - 5561) + '\055' + chr(0b10 + 0o66))) + h0J2gI7PnA(chr(0b110000) + chr(0b1000010 + 0o55) + '\062', 8) != VBTYL3oeHU(cOvKlWOfkG[h0J2gI7PnA(chr(0b101 + 0o53) + chr(5201 - 5090) + chr(48), 8)]) - h0J2gI7PnA(chr(48) + chr(0b10101 + 0o132) + '\061', 8):
+            sb3e6L_WYp = sb3e6L_WYp + cOvKlWOfkG[h0J2gI7PnA('\x30' + chr(0b1010110 + 0o31) + chr(0b10111 + 0o31), 8)][cOvKlWOfkG[h0J2gI7PnA(chr(48) + chr(111) + '\060', 8)].find(lecxhbCcMa(M62917xPfp(b'n+'), '\144' + chr(7455 - 7354) + '\143' + chr(9586 - 9475) + chr(100) + '\x65')(chr(2887 - 2770) + chr(0b1011010 + 0o32) + chr(102) + chr(0b101101) + chr(2312 - 2256))) + h0J2gI7PnA(chr(1160 - 1112) + '\x6f' + chr(51), 8)]
+        vbkWn53uU9 = cOvKlWOfkG[h0J2gI7PnA('\060' + chr(3950 - 3839) + '\061', 8)][cOvKlWOfkG[h0J2gI7PnA('\060' + chr(111) + chr(0b101001 + 0o10), 8)].find(lecxhbCcMa(M62917xPfp(b'n+'), '\x64' + chr(0b1100101) + '\x63' + '\157' + chr(100) + chr(101))(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + chr(0b10110 + 0o27) + '\070')) + h0J2gI7PnA('\060' + chr(0b1101111) + chr(50), 8)]
+        if lecxhbCcMa(cOvKlWOfkG[h0J2gI7PnA('\x30' + '\x6f' + chr(49), 8)], lecxhbCcMa(M62917xPfp(b'&l-\xfe'), '\x64' + chr(0b101010 + 0o73) + chr(0b11110 + 0o105) + '\157' + chr(0b1000101 + 0o37) + '\145')(chr(0b1110101) + chr(116) + '\146' + chr(0b101101) + chr(0b10 + 0o66)))(lecxhbCcMa(M62917xPfp(b'n+'), '\144' + '\x65' + chr(0b1100011) + chr(0b1101111) + chr(1318 - 1218) + chr(7420 - 7319))(chr(0b101111 + 0o106) + chr(13307 - 13191) + chr(0b100010 + 0o104) + chr(965 - 920) + chr(0b111000))) + h0J2gI7PnA('\x30' + chr(0b110 + 0o151) + chr(0b101010 + 0o10), 8) != VBTYL3oeHU(cOvKlWOfkG[h0J2gI7PnA('\060' + '\x6f' + chr(0b110001), 8)]) - h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(1295 - 1246), 8):
+            vbkWn53uU9 = vbkWn53uU9 + cOvKlWOfkG[h0J2gI7PnA(chr(1038 - 990) + chr(111) + chr(0b101100 + 0o5), 8)][cOvKlWOfkG[h0J2gI7PnA(chr(0b10 + 0o56) + chr(111) + chr(49), 8)].find(lecxhbCcMa(M62917xPfp(b'n+'), '\x64' + '\145' + chr(6970 - 6871) + chr(0b1001 + 0o146) + '\x64' + '\145')(chr(117) + '\164' + '\146' + chr(0b1110 + 0o37) + chr(2789 - 2733))) + h0J2gI7PnA('\x30' + chr(0b1101111) + chr(0b100 + 0o57), 8)]
+        IIWuBukGB_ = TWngu2iXgp(sb3e6L_WYp) + lecxhbCcMa(M62917xPfp(b'\x18'), chr(0b1111 + 0o125) + chr(0b1100101) + '\143' + chr(0b1011000 + 0o27) + '\x64' + '\x65')('\165' + chr(0b1110100) + '\x66' + chr(0b101101) + chr(0b1110 + 0o52)) + TWngu2iXgp(vbkWn53uU9)
+    else:
+        dFFMg0sxHH = DbJV37wwm1[DbJV37wwm1.find(lecxhbCcMa(M62917xPfp(b'n+'), chr(0b1100100 + 0o0) + chr(0b1100101) + chr(99) + chr(0b1101111) + chr(3694 - 3594) + '\145')(chr(12221 - 12104) + chr(116) + chr(0b1100110 + 0o0) + chr(0b101101) + '\070')) + h0J2gI7PnA(chr(1899 - 1851) + chr(0b1011100 + 0o23) + '\x32', 8)]
+        if lecxhbCcMa(DbJV37wwm1, lecxhbCcMa(M62917xPfp(b'&l-\xfe'), chr(4481 - 4381) + '\145' + chr(99) + chr(3924 - 3813) + '\144' + chr(101))('\165' + '\164' + chr(0b1100110) + chr(45) + '\070'))(lecxhbCcMa(M62917xPfp(b'n+'), '\144' + chr(0b1100101) + chr(0b1100011) + chr(111) + chr(0b1100000 + 0o4) + chr(5761 - 5660))(chr(0b111110 + 0o67) + '\x74' + chr(0b1100110) + '\x2d' + '\070')) + h0J2gI7PnA('\x30' + chr(111) + '\062', 8) != VBTYL3oeHU(DbJV37wwm1) - h0J2gI7PnA('\x30' + '\157' + chr(0b110001), 8):
+            dFFMg0sxHH = dFFMg0sxHH + DbJV37wwm1[DbJV37wwm1.find(lecxhbCcMa(M62917xPfp(b'n+'), chr(2320 - 2220) + '\145' + chr(99) + chr(0b1101111) + chr(100) + chr(101))('\x75' + '\x74' + '\x66' + chr(697 - 652) + '\x38')) + h0J2gI7PnA(chr(48) + chr(0b110000 + 0o77) + chr(0b110011), 8)]
+        IIWuBukGB_ = TWngu2iXgp(dFFMg0sxHH)
+    return IIWuBukGB_
+
+def L3IjhwgM9H(YTJZ_Dpsgt):
+    YTJZ_Dpsgt = YTJZ_Dpsgt.lower().strip()
+    UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'0d1\xfb\x13\xd1\x03Lp\xb6\xc6\x1a*\x97\xa1\\g~^Q\x04\xb7`\x0203\xafk\x84\xd4\x9aW\xa8\x10\xf85/\x1aM\xbb\x7f?\x1f\xe9d\xd2I\x17-\xf3\xa5@]\xcc\xa4\x12=\x0b\x04Ep\xeaa[x\x0c\xbd'), chr(100) + '\145' + chr(8630 - 8531) + '\x6f' + chr(0b101011 + 0o71) + chr(0b1100101))('\165' + chr(3029 - 2913) + chr(0b1100110) + chr(45) + chr(56))
+    myBrHmuNZQ = C2IYYDqj9b.search(UeKExNlk91, YTJZ_Dpsgt)
+    if myBrHmuNZQ:
+        FhytqxM_6t = myBrHmuNZQ.groups()
+        EEtnrhfsAE = FhytqxM_6t[h0J2gI7PnA(chr(0b100001 + 0o17) + '\x6f' + chr(1899 - 1848), 8)] if FhytqxM_6t[h0J2gI7PnA(chr(1181 - 1133) + chr(0b11010 + 0o125) + chr(51), 8)] else lecxhbCcMa(M62917xPfp(b'q'), chr(0b1100100) + chr(0b1011100 + 0o11) + '\x63' + '\157' + chr(6026 - 5926) + chr(0b111110 + 0o47))(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(0b101010 + 0o3) + '\x38')
+        FhytqxM_6t = FhytqxM_6t[:h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(0b11110 + 0o25), 8)] + (EEtnrhfsAE,) + FhytqxM_6t[h0J2gI7PnA(chr(1223 - 1175) + '\x6f' + chr(52), 8):]
+        FhytqxM_6t = IHl904fV7W(FhytqxM_6t)
+        return FhytqxM_6t
+    else:
+        return None
+
+def wqsGYxuHp_(YTJZ_Dpsgt):
+    if lecxhbCcMa(M62917xPfp(b'h'), '\144' + chr(101) + chr(0b111111 + 0o44) + chr(0b110100 + 0o73) + chr(0b1100100) + chr(0b10100 + 0o121))(chr(0b111001 + 0o74) + '\x74' + chr(0b11101 + 0o111) + chr(0b101101) + chr(1128 - 1072)) in YTJZ_Dpsgt and lecxhbCcMa(M62917xPfp(b'i'), chr(0b1011 + 0o131) + chr(0b111010 + 0o53) + chr(99) + chr(0b1110 + 0o141) + chr(0b1100100) + '\x65')(chr(117) + '\164' + '\146' + chr(45) + chr(56)) in YTJZ_Dpsgt:
+        YAIm9xAZC6 = []
+        U1T7CifFoW = []
+        for (zxQxaVNK_c, oy2MRwQTzA) in _af9rRqIly(YTJZ_Dpsgt):
+            if oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'h'), chr(0b111110 + 0o46) + chr(0b1100101) + chr(99) + chr(111) + '\x64' + '\145')(chr(0b1110101) + chr(188 - 72) + '\x66' + chr(0b100111 + 0o6) + chr(0b101111 + 0o11)):
+                lecxhbCcMa(YAIm9xAZC6, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b11110 + 0o106) + '\x65' + chr(7471 - 7372) + chr(0b1101111) + '\144' + '\x65')(chr(0b110011 + 0o102) + chr(116) + chr(0b1100110) + chr(45) + '\070'))(zxQxaVNK_c)
+            elif oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'i'), '\144' + chr(520 - 419) + chr(6599 - 6500) + '\x6f' + chr(100) + '\145')('\165' + chr(612 - 496) + chr(0b111010 + 0o54) + chr(0b101000 + 0o5) + '\070'):
+                if YAIm9xAZC6:
+                    PgqiRim0xw = YAIm9xAZC6.pop()
+                    if not YAIm9xAZC6:
+                        lecxhbCcMa(U1T7CifFoW, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1010110 + 0o16) + chr(101) + chr(0b1100011) + '\157' + chr(0b1100100) + '\145')('\x75' + chr(0b1010110 + 0o36) + chr(0b1100110) + chr(384 - 339) + '\x38'))(YTJZ_Dpsgt[PgqiRim0xw + h0J2gI7PnA('\060' + '\157' + chr(2016 - 1967), 8):zxQxaVNK_c])
                 else:
-                    line = line.strip()
-                    if ((line[0] == "/") and (line[1] == "/")):
-                        C_codeSplit.append(line)
+                    raise uIar4Bfq7q(lecxhbCcMa(M62917xPfp(b'\x05w1\xf5o\xc6MD=\xf3\x8bA\x13\x97\xfaWlF\xee\xd0B\xfa#\\9\x0b\xb9`\x95\xc1\x8d\xc8qU\xa4~v@\x17\xbd'), chr(100) + chr(0b10 + 0o143) + chr(6468 - 6369) + chr(111) + chr(9855 - 9755) + chr(101))(chr(117) + chr(0b1110100) + chr(102) + chr(1509 - 1464) + chr(422 - 366)))
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'l%'), chr(0b1011101 + 0o7) + '\x65' + '\x63' + chr(10871 - 10760) + chr(0b1100100) + chr(0b1100101))('\165' + chr(0b1110100) + chr(7719 - 7617) + '\055' + chr(0b111000)).join(U1T7CifFoW)
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + chr(101) + '\x63' + '\x6f' + chr(0b1000101 + 0o37) + chr(101))(chr(1451 - 1334) + chr(12328 - 12212) + chr(102) + chr(1327 - 1282) + chr(1348 - 1292)) + ELbSAmkeA_ + lecxhbCcMa(M62917xPfp(b'i'), chr(100) + '\145' + chr(0b1001111 + 0o24) + chr(11229 - 11118) + chr(100) + '\145')(chr(117) + chr(0b1110100) + chr(102) + chr(0b10001 + 0o34) + chr(0b111000))
+        ELbSAmkeA_ = ELbSAmkeA_.lower()
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'``c'), '\x64' + chr(101) + chr(0b1101 + 0o126) + '\157' + chr(0b1011010 + 0o12) + chr(101))(chr(117) + chr(0b1110100) + '\146' + chr(0b11111 + 0o16) + chr(56)), lecxhbCcMa(M62917xPfp(b'`#e\xba'), chr(0b1010 + 0o132) + chr(0b10001 + 0o124) + chr(0b100101 + 0o76) + chr(0b100010 + 0o115) + chr(0b1100100) + chr(0b1100101))('\x75' + chr(0b1110100) + '\146' + chr(1390 - 1345) + chr(0b1010 + 0o56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`j6\xba'), chr(0b11111 + 0o105) + chr(0b100000 + 0o105) + chr(99) + chr(0b10111 + 0o130) + '\144' + '\145')(chr(0b1110101) + '\x74' + chr(127 - 25) + '\055' + '\070'), lecxhbCcMa(M62917xPfp(b'`y?\xba'), '\x64' + chr(0b1100101) + '\x63' + chr(0b1010011 + 0o34) + chr(0b1011011 + 0o11) + '\145')('\x75' + chr(702 - 586) + chr(0b110000 + 0o66) + '\x2d' + chr(0b111000)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`h,\xfeo'), chr(0b1001111 + 0o25) + chr(0b1100101) + chr(99) + chr(0b110010 + 0o75) + chr(250 - 150) + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(5050 - 4948) + chr(1670 - 1625) + '\x38'), lecxhbCcMa(M62917xPfp(b'` c'), '\144' + chr(0b1000110 + 0o37) + chr(99) + chr(111) + chr(0b1100100) + chr(0b11011 + 0o112))('\165' + '\x74' + '\146' + chr(45) + chr(0b111000)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`8c'), chr(0b101101 + 0o67) + chr(2971 - 2870) + chr(2225 - 2126) + chr(0b1101111) + chr(8462 - 8362) + chr(101))(chr(0b1110101) + '\164' + chr(0b111010 + 0o54) + '\x2d' + '\x38'), lecxhbCcMa(M62917xPfp(b'`9}\xb9|\xc7\x1bG}\xfa\xbet[\xc9\xaa'), chr(2191 - 2091) + chr(0b1100101) + chr(0b110101 + 0o56) + chr(111) + chr(1641 - 1541) + '\x65')('\x75' + '\164' + '\x66' + '\x2d' + chr(0b111000)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`9}\xba'), chr(0b101 + 0o137) + chr(101) + chr(99) + chr(2053 - 1942) + chr(0b1011011 + 0o11) + chr(0b1100101))('\165' + '\x74' + '\x66' + chr(45) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'`8~\xba'), '\144' + '\x65' + '\143' + chr(0b1101111) + chr(0b1100100) + '\x65')(chr(11205 - 11088) + chr(0b1110100) + chr(102) + chr(45) + chr(0b111000)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`9c'), '\144' + chr(0b1100101) + chr(0b1100011) + '\x6f' + '\144' + '\145')('\165' + chr(116) + '\x66' + chr(170 - 125) + '\x38'), lecxhbCcMa(M62917xPfp(b'`;~\xb9|\xc7\x1bG}\xfa\xbet[\xc9\xaa'), chr(0b1100100) + '\145' + '\x63' + chr(6646 - 6535) + chr(0b1100100) + chr(101))(chr(4213 - 4096) + '\x74' + chr(102) + '\055' + chr(1571 - 1515)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`;c'), '\x64' + '\145' + chr(0b111000 + 0o53) + '\x6f' + chr(7280 - 7180) + chr(6772 - 6671))(chr(0b1110101) + '\x74' + chr(853 - 751) + chr(0b11000 + 0o25) + chr(2540 - 2484)), lecxhbCcMa(M62917xPfp(b'`9~\xb9|\xc7\x1bG}\xfa\xbet[\xc9\xaa'), chr(100) + '\x65' + chr(7064 - 6965) + chr(0b1101111) + chr(4080 - 3980) + chr(101))(chr(0b1110 + 0o147) + '\164' + chr(6628 - 6526) + '\x2d' + chr(2647 - 2591)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`9~\xba'), '\x64' + chr(8461 - 8360) + '\x63' + chr(111) + chr(100) + '\x65')('\x75' + '\164' + '\x66' + '\055' + '\070'), lecxhbCcMa(M62917xPfp(b'`;`\xa9*\x91\x0bG8\xdb\xbe\x1e[\xc4'), '\144' + chr(0b10000 + 0o125) + chr(99) + chr(0b1101111) + chr(0b1100100) + chr(9230 - 9129))('\x75' + chr(116) + '\146' + chr(0b11111 + 0o16) + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`;~\xba'), '\144' + chr(0b1011011 + 0o12) + chr(0b1100011) + chr(0b1101111) + chr(8826 - 8726) + '\x65')(chr(0b110001 + 0o104) + '\x74' + '\146' + chr(235 - 190) + '\070'), lecxhbCcMa(M62917xPfp(b'`9`\xa9*\x91\x0bG8\xdb\xbe\x1e[\xc4'), chr(7201 - 7101) + chr(101) + chr(0b1010 + 0o131) + '\157' + chr(4337 - 4237) + chr(0b110110 + 0o57))(chr(0b1100100 + 0o21) + chr(6510 - 6394) + chr(102) + '\x2d' + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'c6&\xa9l\x81N#\x19\xb1\xd4'), '\144' + '\145' + chr(0b1000111 + 0o34) + '\157' + '\x64' + chr(0b101101 + 0o70))(chr(0b1110101) + chr(0b11000 + 0o134) + '\146' + chr(0b10011 + 0o32) + chr(56)), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(0b1100101) + '\x63' + '\157' + '\x64' + '\x65')(chr(0b100010 + 0o123) + chr(116) + '\146' + '\055' + chr(2709 - 2653)))
+    else:
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'\x05W\x11\xd5o\x8f\x08\x14?\xee:\x99\x18\x90\xefKgQ\r\x14\xef:%\x1d|\x01\xbf/\x8b\xd4\x8dj\xbfT\xa3'), chr(100) + chr(0b1100101) + chr(0b111100 + 0o47) + chr(11903 - 11792) + '\x64' + chr(0b1100101))(chr(4298 - 4181) + '\164' + chr(7436 - 7334) + chr(0b101101) + chr(56))
+    return ELbSAmkeA_
+
+def kDPlOpYbB4(YTJZ_Dpsgt):
+    if lecxhbCcMa(M62917xPfp(b'h'), chr(0b100100 + 0o100) + chr(0b1001110 + 0o27) + chr(0b1100011) + chr(111) + chr(0b100 + 0o140) + chr(0b1100101))(chr(2975 - 2858) + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(0b111000)) in YTJZ_Dpsgt and lecxhbCcMa(M62917xPfp(b'i'), '\144' + chr(0b1100101) + chr(0b1100011) + chr(0b1101111) + '\144' + chr(0b1100101))('\x75' + '\x74' + chr(0b1001001 + 0o35) + '\055' + chr(1485 - 1429)) in YTJZ_Dpsgt:
+        YAIm9xAZC6 = []
+        U1T7CifFoW = []
+        for (zxQxaVNK_c, oy2MRwQTzA) in _af9rRqIly(YTJZ_Dpsgt):
+            if oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + chr(0b1100101) + '\143' + '\157' + chr(100) + chr(0b110111 + 0o56))('\165' + '\x74' + '\x66' + chr(45) + chr(0b111000)):
+                lecxhbCcMa(YAIm9xAZC6, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b1100101) + '\x63' + chr(111) + chr(0b11000 + 0o114) + chr(0b1100101))('\165' + chr(0b1101100 + 0o10) + chr(102) + chr(45) + chr(56)))(zxQxaVNK_c)
+            elif oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'i'), chr(0b1100100) + chr(101) + chr(1948 - 1849) + chr(111) + '\x64' + '\x65')(chr(2649 - 2532) + chr(451 - 335) + chr(102) + '\055' + '\x38'):
+                if YAIm9xAZC6:
+                    PgqiRim0xw = YAIm9xAZC6.pop()
+                    if not YAIm9xAZC6:
+                        lecxhbCcMa(U1T7CifFoW, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + '\x65' + chr(99) + chr(0b11 + 0o154) + '\x64' + chr(0b0 + 0o145))('\165' + '\x74' + chr(0b1100100 + 0o2) + '\x2d' + chr(0b1001 + 0o57)))(YTJZ_Dpsgt[PgqiRim0xw + h0J2gI7PnA(chr(48) + '\157' + chr(49), 8):zxQxaVNK_c])
+                else:
+                    raise uIar4Bfq7q(lecxhbCcMa(M62917xPfp(b'\x05w1\xf5o\xc6MD=\xf3\x8bA\x13\x97\xfaWlF\xee\xd0B\xfa#\\9\x0b\xb9`\x95\xc1\x8d\xc8qU\xa4~v@\x17\xbd'), chr(100) + chr(0b1000 + 0o135) + '\143' + '\x6f' + chr(100) + '\145')('\165' + chr(0b1110100) + chr(102) + chr(0b101101) + chr(3096 - 3040)))
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'l%'), '\x64' + chr(101) + '\x63' + '\157' + chr(9976 - 9876) + chr(6579 - 6478))(chr(1802 - 1685) + chr(8520 - 8404) + chr(0b110 + 0o140) + chr(507 - 462) + '\x38').join(U1T7CifFoW)
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + chr(101) + chr(7450 - 7351) + '\x6f' + chr(2334 - 2234) + chr(6990 - 6889))(chr(0b1110101) + chr(1897 - 1781) + '\x66' + chr(0b101101) + '\x38') + ELbSAmkeA_ + lecxhbCcMa(M62917xPfp(b'i'), '\x64' + chr(0b11100 + 0o111) + '\143' + chr(7276 - 7165) + chr(0b1100100) + chr(101))(chr(0b11110 + 0o127) + '\x74' + chr(9016 - 8914) + chr(45) + chr(102 - 46))
+        ELbSAmkeA_ = ELbSAmkeA_.lower()
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'``c'), chr(0b1100100) + chr(0b1100101) + chr(9047 - 8948) + chr(0b11000 + 0o127) + '\144' + chr(0b10100 + 0o121))(chr(7245 - 7128) + chr(116) + '\146' + chr(45) + chr(0b1 + 0o67)), lecxhbCcMa(M62917xPfp(b'`#e\xba'), chr(0b1110 + 0o126) + chr(5980 - 5879) + chr(0b1100011) + chr(9269 - 9158) + '\144' + '\145')(chr(7374 - 7257) + chr(810 - 694) + chr(102) + chr(0b101101) + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`j6\xba'), '\144' + '\145' + chr(0b1010001 + 0o22) + chr(1497 - 1386) + chr(0b1100100) + chr(101))('\x75' + chr(116) + chr(4207 - 4105) + chr(0b101000 + 0o5) + chr(0b110101 + 0o3)), lecxhbCcMa(M62917xPfp(b'`y?\xba'), '\144' + '\145' + chr(0b100000 + 0o103) + chr(0b1101111) + '\144' + chr(0b111001 + 0o54))(chr(8874 - 8757) + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(426 - 370)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`h,\xfeo'), chr(0b110011 + 0o61) + '\145' + '\143' + chr(0b1101111) + chr(0b1100100) + '\x65')(chr(0b1110101) + chr(7335 - 7219) + chr(5851 - 5749) + chr(45) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'` c'), chr(100) + chr(0b110 + 0o137) + '\143' + chr(0b1101111) + chr(4587 - 4487) + chr(101))('\165' + chr(0b1001111 + 0o45) + chr(0b110110 + 0o60) + chr(0b11011 + 0o22) + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`8c'), chr(0b1100100) + chr(1914 - 1813) + chr(99) + chr(11439 - 11328) + chr(100) + chr(3616 - 3515))(chr(0b1110101) + chr(10521 - 10405) + '\146' + '\x2d' + chr(0b110001 + 0o7)), lecxhbCcMa(M62917xPfp(b'`8~\xba'), chr(2589 - 2489) + chr(5308 - 5207) + '\143' + chr(0b10 + 0o155) + chr(0b1100100) + chr(0b10010 + 0o123))('\165' + '\x74' + '\146' + '\055' + chr(0b111000)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`9}\xba'), chr(0b110100 + 0o60) + '\x65' + '\x63' + chr(0b1101111) + chr(0b10111 + 0o115) + chr(0b10110 + 0o117))(chr(11221 - 11104) + '\x74' + chr(0b1100110) + '\055' + chr(1512 - 1456)), lecxhbCcMa(M62917xPfp(b'`$~\xba'), '\x64' + chr(6740 - 6639) + '\x63' + chr(8902 - 8791) + '\x64' + chr(461 - 360))(chr(117) + '\164' + chr(102) + chr(0b11110 + 0o17) + chr(0b111000)))
+    else:
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'\x05W\x11\xd5o\x8f\x08\x14?\xee:\x99\x18\x90\xefKgQ\r\x14\xef:%\x1d|\x01\xbf/\x8b\xd4\x8dj\xbfT\xa3'), chr(0b110110 + 0o56) + chr(101) + chr(0b1100011) + '\157' + chr(751 - 651) + chr(0b1011100 + 0o11))(chr(3288 - 3171) + '\164' + '\x66' + chr(45) + chr(0b111000))
+    return ELbSAmkeA_
+
+def ay8BT76R74(YTJZ_Dpsgt):
+    if lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + chr(0b1100 + 0o131) + '\x63' + chr(3446 - 3335) + '\x64' + '\x65')(chr(117) + chr(0b10110 + 0o136) + '\x66' + chr(554 - 509) + chr(0b111000)) in YTJZ_Dpsgt and lecxhbCcMa(M62917xPfp(b'i'), '\144' + '\x65' + chr(3011 - 2912) + chr(0b1101111) + chr(7039 - 6939) + chr(0b1100101))(chr(0b1010101 + 0o40) + chr(0b10100 + 0o140) + chr(0b1100110) + chr(1575 - 1530) + chr(0b100011 + 0o25)) in YTJZ_Dpsgt:
+        YAIm9xAZC6 = []
+        U1T7CifFoW = []
+        for (zxQxaVNK_c, oy2MRwQTzA) in _af9rRqIly(YTJZ_Dpsgt):
+            if oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'h'), '\x64' + chr(0b110010 + 0o63) + chr(0b110101 + 0o56) + chr(4479 - 4368) + chr(0b11110 + 0o106) + '\145')('\165' + '\164' + chr(6427 - 6325) + chr(0b101101) + '\x38'):
+                lecxhbCcMa(YAIm9xAZC6, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + '\x65' + chr(99) + chr(6683 - 6572) + '\x64' + chr(0b110100 + 0o61))('\x75' + chr(0b1110100) + '\146' + chr(1786 - 1741) + chr(56)))(zxQxaVNK_c)
+            elif oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'i'), chr(0b1100100) + '\x65' + chr(0b1100001 + 0o2) + chr(1283 - 1172) + chr(100) + '\x65')(chr(0b1110101) + '\164' + chr(0b1100110) + chr(0b11111 + 0o16) + chr(997 - 941)):
+                if YAIm9xAZC6:
+                    PgqiRim0xw = YAIm9xAZC6.pop()
+                    if not YAIm9xAZC6:
+                        lecxhbCcMa(U1T7CifFoW, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b111 + 0o135) + chr(3874 - 3773) + chr(0b1100011) + '\157' + chr(0b1100100) + '\145')('\165' + chr(5099 - 4983) + chr(0b1100110) + '\055' + chr(436 - 380)))(YTJZ_Dpsgt[PgqiRim0xw + h0J2gI7PnA(chr(48) + chr(111) + chr(0b100101 + 0o14), 8):zxQxaVNK_c])
+                else:
+                    raise uIar4Bfq7q(lecxhbCcMa(M62917xPfp(b'\x05w1\xf5o\xc6MD=\xf3\x8bA\x13\x97\xfaWlF\xee\xd0B\xfa#\\9\x0b\xb9`\x95\xc1\x8d\xc8qU\xa4~v@\x17\xbd'), chr(0b1100100) + chr(0b1100101) + '\x63' + chr(0b1010110 + 0o31) + chr(100) + chr(8815 - 8714))('\x75' + chr(0b1011110 + 0o26) + chr(102) + '\x2d' + chr(56)))
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'l%'), '\x64' + '\x65' + chr(0b1100011) + chr(636 - 525) + '\144' + chr(0b10101 + 0o120))(chr(3155 - 3038) + chr(1609 - 1493) + '\x66' + chr(0b101101) + '\x38').join(U1T7CifFoW)
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'h'), chr(1717 - 1617) + chr(0b110111 + 0o56) + chr(0b1100011) + chr(0b1101111) + chr(100) + chr(197 - 96))(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(45) + chr(0b11000 + 0o40)) + ELbSAmkeA_ + lecxhbCcMa(M62917xPfp(b'i'), chr(100) + chr(0b110001 + 0o64) + chr(0b1100011) + chr(6291 - 6180) + chr(0b1100100) + '\145')('\165' + chr(116) + chr(102) + chr(0b100010 + 0o13) + chr(2075 - 2019))
+        ELbSAmkeA_ = ELbSAmkeA_.lower()
+    else:
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'\x05W\x11\xd5o\x8f\x08\x14?\xee:\x99\x18\x90\xefKgQ\r\x14\xef:%\x1d|\x01\xbf/\x8b\xd4\x8dj\xbfT\xa3'), chr(0b1010000 + 0o24) + '\145' + chr(0b1100011) + chr(111) + '\144' + '\x65')('\165' + '\164' + '\x66' + '\x2d' + chr(56))
+    return ELbSAmkeA_
+
+def R7jTNTn_Ax(YTJZ_Dpsgt):
+    if lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + '\145' + '\143' + chr(111) + chr(0b1100100) + chr(0b1100101))('\165' + chr(0b1101001 + 0o13) + chr(0b1100110) + chr(209 - 164) + '\070') in YTJZ_Dpsgt and lecxhbCcMa(M62917xPfp(b'i'), chr(0b1000111 + 0o35) + chr(0b1010100 + 0o21) + chr(0b10001 + 0o122) + '\x6f' + chr(100) + '\x65')(chr(6398 - 6281) + '\164' + chr(0b1100110) + chr(0b101101) + chr(0b111000)) in YTJZ_Dpsgt:
+        YAIm9xAZC6 = []
+        U1T7CifFoW = []
+        for (zxQxaVNK_c, oy2MRwQTzA) in _af9rRqIly(YTJZ_Dpsgt):
+            if oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + chr(101) + chr(0b1100011) + chr(0b1101110 + 0o1) + chr(948 - 848) + chr(0b101101 + 0o70))(chr(0b1110101) + chr(0b1001111 + 0o45) + chr(102) + '\055' + chr(0b101111 + 0o11)):
+                lecxhbCcMa(YAIm9xAZC6, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(7140 - 7040) + chr(1090 - 989) + '\143' + '\157' + '\x64' + '\145')(chr(0b1110000 + 0o5) + '\x74' + chr(102) + chr(45) + chr(2092 - 2036)))(zxQxaVNK_c)
+            elif oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'i'), chr(0b1000111 + 0o35) + chr(0b101100 + 0o71) + '\143' + chr(111) + chr(0b1100100) + '\x65')(chr(0b1110101) + '\164' + '\x66' + chr(1763 - 1718) + '\070'):
+                if YAIm9xAZC6:
+                    PgqiRim0xw = YAIm9xAZC6.pop()
+                    if not YAIm9xAZC6:
+                        lecxhbCcMa(U1T7CifFoW, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + '\x65' + '\143' + chr(0b100111 + 0o110) + chr(0b1100100) + chr(0b1100101))(chr(6330 - 6213) + '\x74' + chr(0b111100 + 0o52) + chr(0b100111 + 0o6) + chr(0b11 + 0o65)))(YTJZ_Dpsgt[PgqiRim0xw + h0J2gI7PnA(chr(0b110000) + '\x6f' + chr(1047 - 998), 8):zxQxaVNK_c])
+                else:
+                    raise uIar4Bfq7q(lecxhbCcMa(M62917xPfp(b'\x05w1\xf5o\xc6MD=\xf3\x8bA\x13\x97\xfaWlF\xee\xd0B\xfa#\\9\x0b\xb9`\x95\xc1\x8d\xc8qU\xa4~v@\x17\xbd'), chr(1224 - 1124) + chr(4072 - 3971) + chr(3931 - 3832) + '\157' + '\144' + chr(0b1100101))(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(2498 - 2442)))
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + '\x65' + chr(0b1011010 + 0o11) + '\x6f' + chr(100) + '\x65')(chr(0b101011 + 0o112) + chr(0b1110100) + '\146' + chr(0b100000 + 0o15) + '\070').join(U1T7CifFoW)
+        ELbSAmkeA_ = TWngu2iXgp(lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + chr(2899 - 2798) + '\143' + chr(111) + '\x64' + '\145')(chr(0b1110101) + chr(0b1110100) + chr(6831 - 6729) + chr(0b101101 + 0o0) + chr(0b111000)) + ELbSAmkeA_ + lecxhbCcMa(M62917xPfp(b'i'), '\144' + chr(0b1100101) + '\143' + '\x6f' + chr(0b1100100) + '\x65')('\x75' + chr(3038 - 2922) + chr(102) + '\x2d' + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.lower()
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`#e\xba'), '\x64' + chr(862 - 761) + chr(5317 - 5218) + '\x6f' + '\x64' + '\x65')(chr(0b1011001 + 0o34) + chr(116) + '\x66' + chr(1567 - 1522) + chr(1704 - 1648)), lecxhbCcMa(M62917xPfp(b'``c'), '\x64' + '\145' + chr(0b1100011) + chr(0b1101111) + chr(8594 - 8494) + chr(0b1000000 + 0o45))('\165' + chr(8535 - 8419) + '\x66' + chr(45) + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`y?\xba'), chr(100) + '\x65' + chr(0b110010 + 0o61) + chr(0b1101111) + chr(8963 - 8863) + '\145')('\x75' + '\164' + '\146' + chr(0b101101) + '\x38'), lecxhbCcMa(M62917xPfp(b'`j6\xba'), '\144' + '\x65' + chr(99) + '\x6f' + chr(100) + chr(2908 - 2807))(chr(0b1110011 + 0o2) + chr(0b1110100) + chr(102) + chr(45) + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`8~\xba'), '\x64' + chr(7888 - 7787) + '\143' + chr(0b1000111 + 0o50) + '\144' + chr(0b1100101))('\165' + '\164' + chr(0b1100110) + chr(0b101101) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'`9}\xba'), chr(0b101101 + 0o67) + chr(0b10 + 0o143) + chr(99) + chr(0b1101111) + '\144' + chr(0b1000111 + 0o36))(chr(0b1001001 + 0o54) + '\x74' + chr(102) + chr(45) + '\x38'))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`;~\xba'), chr(100) + chr(10137 - 10036) + chr(5580 - 5481) + chr(0b1101111) + '\x64' + chr(5411 - 5310))('\x75' + chr(0b1001100 + 0o50) + chr(0b1100110) + '\x2d' + '\x38'), lecxhbCcMa(M62917xPfp(b'`9c'), chr(2562 - 2462) + chr(0b1011000 + 0o15) + chr(974 - 875) + chr(111) + chr(100) + chr(101))('\165' + chr(0b101001 + 0o113) + '\x66' + chr(0b101101) + '\070'))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`9~\xba'), '\x64' + '\x65' + chr(0b1 + 0o142) + chr(111) + chr(0b1010011 + 0o21) + chr(0b100000 + 0o105))(chr(117) + chr(0b101101 + 0o107) + '\x66' + chr(1698 - 1653) + chr(2817 - 2761)), lecxhbCcMa(M62917xPfp(b'`;c'), chr(0b1100100) + chr(101) + chr(99) + '\x6f' + chr(0b111011 + 0o51) + '\145')('\x75' + '\164' + chr(0b1100110) + chr(1258 - 1213) + chr(56)))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`;c'), '\x64' + chr(3751 - 3650) + chr(99) + chr(11418 - 11307) + chr(100) + chr(5879 - 5778))('\165' + chr(0b1110100) + chr(0b1100110) + '\055' + '\070'), lecxhbCcMa(M62917xPfp(b'`9~\xba'), chr(0b1100100) + '\x65' + chr(99) + chr(0b1101111) + chr(3365 - 3265) + chr(101))(chr(117) + chr(0b1110100) + chr(0b1100110) + chr(2002 - 1957) + '\070'))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`9c'), '\x64' + chr(5708 - 5607) + chr(99) + chr(7640 - 7529) + chr(189 - 89) + chr(0b1100101))(chr(9399 - 9282) + chr(116) + chr(0b100001 + 0o105) + chr(926 - 881) + chr(56)), lecxhbCcMa(M62917xPfp(b'`;~\xba'), '\x64' + '\x65' + chr(0b1100011) + '\x6f' + chr(4392 - 4292) + '\145')(chr(9281 - 9164) + chr(0b100010 + 0o122) + chr(0b11000 + 0o116) + '\x2d' + '\x38'))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b''), chr(4736 - 4636) + chr(0b11010 + 0o113) + chr(0b110000 + 0o63) + chr(111) + chr(0b1100100) + '\x65')(chr(2463 - 2346) + '\164' + '\x66' + chr(0b10110 + 0o27) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(0b1000 + 0o134) + '\x65' + chr(6730 - 6631) + '\157' + '\144' + chr(0b1100101))(chr(117) + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(0b111000)))
+    else:
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'\x05W\x11\xd5o\x8f\x08\x14?\xee:\x99\x18\x90\xefKgQ\r\x14\xef:%\x1d|\x01\xbf/\x8b\xd4\x8dj\xbfT\xa3'), chr(100) + '\145' + chr(2523 - 2424) + '\x6f' + chr(3356 - 3256) + '\145')(chr(0b11100 + 0o131) + chr(0b1101100 + 0o10) + '\146' + '\055' + chr(0b11101 + 0o33))
+    return ELbSAmkeA_
+
+def hjTu1ehjGG(YTJZ_Dpsgt):
+    if lecxhbCcMa(M62917xPfp(b'h'), '\144' + '\x65' + chr(99) + chr(111) + chr(6727 - 6627) + chr(0b1100101))(chr(0b11111 + 0o126) + '\x74' + chr(486 - 384) + chr(0b101101) + chr(2210 - 2154)) in YTJZ_Dpsgt and lecxhbCcMa(M62917xPfp(b'i'), chr(4675 - 4575) + chr(101) + chr(5477 - 5378) + chr(0b1101111) + chr(100) + chr(0b1010011 + 0o22))('\x75' + '\x74' + chr(0b1100110) + chr(0b101101) + '\070') in YTJZ_Dpsgt:
+        YAIm9xAZC6 = []
+        U1T7CifFoW = []
+        for (zxQxaVNK_c, oy2MRwQTzA) in _af9rRqIly(YTJZ_Dpsgt):
+            if oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'h'), chr(0b111101 + 0o47) + '\x65' + '\x63' + chr(0b1101111) + chr(5244 - 5144) + chr(101))(chr(0b1110101) + '\164' + chr(8881 - 8779) + chr(1147 - 1102) + chr(0b111000)):
+                lecxhbCcMa(YAIm9xAZC6, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(3614 - 3514) + chr(0b1100101) + chr(0b1100011) + '\x6f' + chr(100) + '\145')(chr(10989 - 10872) + chr(1151 - 1035) + '\x66' + chr(45) + chr(2141 - 2085)))(zxQxaVNK_c)
+            elif oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'i'), chr(100) + chr(101) + chr(0b101001 + 0o72) + chr(111) + '\144' + chr(0b1010000 + 0o25))(chr(117) + chr(116) + '\x66' + chr(0b101101) + '\x38'):
+                if YAIm9xAZC6:
+                    PgqiRim0xw = YAIm9xAZC6.pop()
+                    if not YAIm9xAZC6:
+                        lecxhbCcMa(U1T7CifFoW, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1100101) + '\x63' + chr(0b100001 + 0o116) + chr(100) + '\145')(chr(0b11110 + 0o127) + chr(4635 - 4519) + chr(10293 - 10191) + chr(0b101101) + chr(56)))(YTJZ_Dpsgt[PgqiRim0xw + h0J2gI7PnA(chr(0b110000) + '\x6f' + chr(165 - 116), 8):zxQxaVNK_c])
+                else:
+                    raise uIar4Bfq7q(lecxhbCcMa(M62917xPfp(b'\x05w1\xf5o\xc6MD=\xf3\x8bA\x13\x97\xfaWlF\xee\xd0B\xfa#\\9\x0b\xb9`\x95\xc1\x8d\xc8qU\xa4~v@\x17\xbd'), '\x64' + chr(0b11101 + 0o110) + '\x63' + '\157' + '\x64' + '\145')(chr(0b1110101) + '\164' + '\146' + chr(0b101101) + '\x38'))
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'l%'), chr(7537 - 7437) + chr(1390 - 1289) + chr(7823 - 7724) + '\x6f' + '\144' + chr(101))(chr(0b1001111 + 0o46) + chr(0b101101 + 0o107) + chr(102) + chr(0b101101) + '\x38').join(U1T7CifFoW)
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'h'), chr(100) + chr(101) + '\x63' + chr(0b1101111) + chr(0b1010111 + 0o15) + chr(4410 - 4309))('\165' + '\164' + chr(0b11101 + 0o111) + '\055' + '\x38') + ELbSAmkeA_ + lecxhbCcMa(M62917xPfp(b'i'), chr(100) + chr(101) + '\143' + '\157' + chr(100) + chr(0b1100101))(chr(0b1101000 + 0o15) + '\164' + '\x66' + chr(45) + chr(56))
+        ELbSAmkeA_ = ELbSAmkeA_.lower()
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`#e\xba'), '\144' + chr(10080 - 9979) + chr(0b1100011) + '\157' + chr(0b1100100) + chr(7490 - 7389))(chr(8288 - 8171) + '\x74' + chr(7131 - 7029) + '\x2d' + chr(56)), lecxhbCcMa(M62917xPfp(b'``c'), chr(100) + chr(101) + chr(99) + chr(6044 - 5933) + chr(4144 - 4044) + '\145')(chr(0b1110101) + '\164' + chr(0b1100110) + chr(0b100100 + 0o11) + '\070'))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`y?\xba'), '\144' + chr(101) + chr(0b1010000 + 0o23) + chr(7984 - 7873) + '\x64' + chr(738 - 637))('\x75' + chr(116) + '\146' + chr(0b1011 + 0o42) + '\x38'), lecxhbCcMa(M62917xPfp(b'`j6\xba'), chr(100) + chr(0b1000110 + 0o37) + chr(8387 - 8288) + '\x6f' + '\144' + chr(5204 - 5103))(chr(0b1110101) + chr(0b101000 + 0o114) + chr(0b1010001 + 0o25) + chr(45) + '\070'))
+        ELbSAmkeA_ = ELbSAmkeA_.replace(lecxhbCcMa(M62917xPfp(b'`8~\xba'), '\144' + '\x65' + chr(4716 - 4617) + chr(11131 - 11020) + chr(100) + chr(0b1000101 + 0o40))(chr(117) + '\x74' + chr(0b1100100 + 0o2) + chr(829 - 784) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'`8c'), chr(0b110 + 0o136) + chr(101) + '\x63' + '\x6f' + '\144' + '\145')(chr(5632 - 5515) + chr(0b11101 + 0o127) + chr(102) + chr(0b101101) + '\x38'))
+    else:
+        ELbSAmkeA_ = lecxhbCcMa(M62917xPfp(b'\x05W\x11\xd5o\x8f\x08\x14?\xee:\x99\x18\x90\xefKgQ\r\x14\xef:%\x1d|\x01\xbf/\x8b\xd4\x8dj\xbfT\xa3'), chr(0b101110 + 0o66) + '\145' + chr(0b1100011) + chr(0b1101111) + chr(0b1100100) + chr(101))(chr(5248 - 5131) + chr(116) + '\x66' + chr(0b101000 + 0o5) + chr(1527 - 1471))
+    return ELbSAmkeA_
+
+def dGS0VJ1Il2(YTJZ_Dpsgt):
+    if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(100) + chr(0b1001001 + 0o34) + chr(8968 - 8869) + chr(6781 - 6670) + chr(985 - 885) + '\x65')(chr(117) + chr(0b1001010 + 0o52) + chr(783 - 681) + '\055' + chr(0b111000)) in YTJZ_Dpsgt and lecxhbCcMa(M62917xPfp(b'\x1d'), chr(0b1000 + 0o134) + chr(2339 - 2238) + chr(0b1100011) + chr(6031 - 5920) + chr(0b1100100) + chr(101))('\x75' + chr(116) + chr(0b1100110) + chr(0b11 + 0o52) + chr(579 - 523)) in YTJZ_Dpsgt:
+        YAIm9xAZC6 = []
+        U1T7CifFoW = []
+        ssKJ8NzlQk = {}
+        for (zxQxaVNK_c, oy2MRwQTzA) in _af9rRqIly(YTJZ_Dpsgt):
+            if oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + chr(101) + chr(99) + '\x6f' + chr(0b1100100) + chr(7649 - 7548))(chr(117) + chr(0b10001 + 0o143) + chr(570 - 468) + '\x2d' + chr(56)):
+                lecxhbCcMa(YAIm9xAZC6, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b1001 + 0o134) + chr(0b1100011) + chr(111) + chr(0b1100100) + chr(0b1100101))(chr(117) + chr(0b1110100) + chr(0b1100110) + chr(0b10111 + 0o26) + chr(0b111000)))(zxQxaVNK_c)
+            elif oy2MRwQTzA == lecxhbCcMa(M62917xPfp(b'\x1d'), chr(100) + chr(101) + '\143' + '\x6f' + chr(0b1010000 + 0o24) + chr(1618 - 1517))('\x75' + chr(0b1110100) + '\146' + chr(208 - 163) + '\070'):
+                if YAIm9xAZC6:
+                    PgqiRim0xw = YAIm9xAZC6.pop()
+                    if not YAIm9xAZC6:
+                        lecxhbCcMa(U1T7CifFoW, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(7817 - 7717) + chr(0b1100101) + chr(0b1101 + 0o126) + chr(111) + '\x64' + '\x65')('\x75' + chr(8180 - 8064) + '\x66' + chr(0b101101) + chr(0b111000)))(YTJZ_Dpsgt[PgqiRim0xw + h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(49), 8):zxQxaVNK_c])
+                else:
+                    raise uIar4Bfq7q(lecxhbCcMa(M62917xPfp(b'\x05w1\xf5o\xc6MD=\xf3\x8bA\x13\x97\xfaWlF\xee\xd0B\xfa#\\9\x0b\xb9`\x86\xc8\x9e}\xbeH\xfe'), '\x64' + '\145' + '\x63' + '\157' + '\144' + '\x65')(chr(13190 - 13073) + chr(2400 - 2284) + '\x66' + '\055' + chr(0b111000)))
+        qgSG0YUuFJ = U1T7CifFoW.copy()
+        for (zxQxaVNK_c, I5F6FPpL3D) in _af9rRqIly(qgSG0YUuFJ):
+            JiqYRRD3ln = TWngu2iXgp(I5F6FPpL3D)
+            if lecxhbCcMa(M62917xPfp(b'`'), chr(7498 - 7398) + chr(0b1100101) + chr(9685 - 9586) + chr(111) + chr(100) + '\145')(chr(0b1110101) + chr(0b1110100) + chr(10385 - 10283) + chr(45) + chr(0b1110 + 0o52)) in JiqYRRD3ln:
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'`'), chr(0b1100100) + chr(101) + chr(0b1100011) + chr(0b10000 + 0o137) + '\x64' + '\x65')(chr(117) + chr(0b100110 + 0o116) + chr(0b1100110) + chr(45) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(2518 - 2417) + '\x63' + chr(0b1101111) + chr(100) + chr(7558 - 7457))(chr(0b1010000 + 0o45) + chr(116) + '\x66' + '\055' + '\x38'))
+            qgSG0YUuFJ[zxQxaVNK_c] = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'l'), '\x64' + chr(0b1100101) + chr(0b1100011) + chr(2615 - 2504) + '\144' + chr(101))(chr(117) + chr(0b1011111 + 0o25) + chr(0b1100110) + chr(0b101101) + '\x38'), lecxhbCcMa(M62917xPfp(b'\x1d^'), chr(0b1100100) + chr(101) + chr(395 - 296) + chr(111) + '\144' + '\x65')('\x75' + chr(0b1110100) + '\146' + chr(1445 - 1400) + '\070'))
+            qgSG0YUuFJ[zxQxaVNK_c] = lecxhbCcMa(M62917xPfp(b'\x1b'), chr(7770 - 7670) + chr(590 - 489) + chr(1869 - 1770) + '\157' + '\144' + chr(4352 - 4251))('\165' + chr(116) + chr(102) + '\055' + '\070') + qgSG0YUuFJ[zxQxaVNK_c] + lecxhbCcMa(M62917xPfp(b'\x1d'), chr(100) + '\145' + '\143' + chr(10759 - 10648) + chr(100) + chr(8525 - 8424))(chr(0b1110101) + chr(10150 - 10034) + '\x66' + '\055' + chr(56))
+        for (zxQxaVNK_c, hhCwIOoWey) in _af9rRqIly(U1T7CifFoW):
+            JiqYRRD3ln = TWngu2iXgp(hhCwIOoWey)
+            U1T7CifFoW[zxQxaVNK_c] = lecxhbCcMa(M62917xPfp(b'\x1b'), chr(253 - 153) + '\x65' + chr(99) + '\x6f' + chr(0b1100001 + 0o3) + chr(714 - 613))(chr(117) + chr(116) + '\146' + '\055' + chr(1549 - 1493)) + JiqYRRD3ln + lecxhbCcMa(M62917xPfp(b'\x1d'), chr(817 - 717) + chr(4040 - 3939) + '\x63' + '\x6f' + chr(0b1100100) + chr(0b100101 + 0o100))('\x75' + '\x74' + chr(0b11101 + 0o111) + chr(0b101101) + chr(0b100001 + 0o27))
+        for (zxQxaVNK_c, hhCwIOoWey) in _af9rRqIly(U1T7CifFoW):
+            ssKJ8NzlQk[hhCwIOoWey] = qgSG0YUuFJ[zxQxaVNK_c]
+    else:
+        ssKJ8NzlQk = lecxhbCcMa(M62917xPfp(b'8];\xa9o\x8f\x08!\x0c\xce\xb6'), chr(100) + chr(101) + chr(99) + '\x6f' + chr(0b1100100) + chr(101))(chr(117) + chr(116) + '\x66' + '\055' + '\070')
+        raise uIar4Bfq7q(lecxhbCcMa(M62917xPfp(b'\x03m"\xec*\xd1\x08\n\x9d?\x96\x13\x13\x8a\xe9WlV_\x1bH\xf89\x13'), chr(100) + chr(2324 - 2223) + chr(99) + chr(0b11 + 0o154) + chr(0b1100100) + chr(0b1100101))(chr(0b1110101) + chr(2941 - 2825) + chr(102) + chr(45) + '\x38'))
+    return ssKJ8NzlQk
+
+def QhjCTS7cjb(YTJZ_Dpsgt):
+    if lecxhbCcMa(YTJZ_Dpsgt, lecxhbCcMa(M62917xPfp(b'3q"\xe8;\xd1_\r*\xf4'), '\144' + chr(0b1010001 + 0o24) + '\x63' + chr(0b1101111) + chr(100) + '\145')(chr(0b1110101) + chr(116) + chr(102) + '\x2d' + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b'm'), chr(0b1100100) + chr(0b1100101) + '\143' + chr(5829 - 5718) + chr(100) + chr(9820 - 9719))(chr(0b1110101) + chr(0b1110100) + chr(6290 - 6188) + chr(0b0 + 0o55) + '\x38')):
+        YTJZ_Dpsgt = YTJZ_Dpsgt[h0J2gI7PnA('\060' + '\x6f' + chr(49), 8):]
+    return lecxhbCcMa(YTJZ_Dpsgt, lecxhbCcMa(M62917xPfp(b')v-\xef"\xc7Z\r='), '\144' + chr(101) + chr(99) + chr(111) + chr(636 - 536) + chr(1795 - 1694))(chr(1349 - 1232) + chr(116) + '\146' + chr(668 - 623) + '\070'))()
+
+def J0kwOL8W1W(h6QdfyN2HV, rY_nGNmw83):
+    LRA3DcPn3Y = {}
+    if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b'&'), '\x64' + chr(101) + chr(7541 - 7442) + '\157' + chr(8081 - 7981) + chr(101))(chr(0b1110101) + chr(12313 - 12197) + '\146' + chr(0b101101) + chr(56)):
+        for hdKwZ0Xz_Z in h6QdfyN2HV:
+            zv_Y_ZN6Q9 = TWngu2iXgp(hdKwZ0Xz_Z)
+            LRA3DcPn3Y[zv_Y_ZN6Q9] = lecxhbCcMa(M62917xPfp(b'ec'), '\x64' + chr(101) + chr(0b1010101 + 0o16) + chr(0b101000 + 0o107) + chr(100) + chr(101))(chr(0b1110101) + chr(1648 - 1532) + '\146' + '\055' + '\x38')
+    if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b')'), '\x64' + '\x65' + chr(0b1100011) + '\157' + '\x64' + chr(3903 - 3802))(chr(0b1101011 + 0o12) + chr(1557 - 1441) + chr(2177 - 2075) + chr(0b10101 + 0o30) + chr(0b111000)):
+        for hdKwZ0Xz_Z in h6QdfyN2HV:
+            zv_Y_ZN6Q9 = TWngu2iXgp(hdKwZ0Xz_Z)
+            LRA3DcPn3Y[zv_Y_ZN6Q9] = lecxhbCcMa(M62917xPfp(b'ea'), '\x64' + chr(0b110 + 0o137) + chr(0b1100011) + chr(11717 - 11606) + chr(0b1100100) + chr(0b100100 + 0o101))(chr(117) + '\x74' + chr(0b1000000 + 0o46) + '\055' + '\x38')
+    if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b'3'), chr(0b1100100) + chr(0b1100010 + 0o3) + '\x63' + chr(0b1101111) + chr(0b1100100) + chr(0b111000 + 0o55))('\165' + chr(0b1110100) + chr(0b110 + 0o140) + chr(0b101101) + chr(2001 - 1945)):
+        for hdKwZ0Xz_Z in h6QdfyN2HV:
+            zv_Y_ZN6Q9 = TWngu2iXgp(hdKwZ0Xz_Z)
+            LRA3DcPn3Y[zv_Y_ZN6Q9] = lecxhbCcMa(M62917xPfp(b'ev'), chr(0b1000001 + 0o43) + '\145' + chr(0b1100011) + chr(1505 - 1394) + '\144' + chr(101))(chr(0b1100001 + 0o24) + chr(264 - 148) + chr(102) + chr(0b101101) + '\x38')
+    return LRA3DcPn3Y
+
+def GTSN7xvwof(YTJZ_Dpsgt, rY_nGNmw83):
+    DbJV37wwm1 = TWngu2iXgp(YTJZ_Dpsgt)
+    a4857wAeAP = []
+    if lecxhbCcMa(M62917xPfp(b'l'), chr(100) + chr(0b1100101) + '\143' + '\157' + chr(0b1100100 + 0o0) + chr(4037 - 3936))(chr(117) + chr(0b1110100) + chr(6623 - 6521) + '\x2d' + '\070') not in DbJV37wwm1:
+        if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b'&'), '\x64' + '\145' + '\143' + chr(0b1101111) + '\144' + '\145')(chr(0b1110101) + chr(5954 - 5838) + chr(0b1100110) + '\055' + chr(0b1111 + 0o51)):
+            DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b'&i,\xfb;\x82'), chr(0b100 + 0o140) + chr(0b1100101) + chr(99) + chr(3205 - 3094) + chr(100) + '\x65')('\165' + chr(0b1000 + 0o154) + '\x66' + '\055' + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(0b11101 + 0o107) + chr(101) + chr(99) + '\157' + '\x64' + '\x65')('\x75' + chr(0b1010 + 0o152) + chr(480 - 378) + '\x2d' + '\x38'))
+            DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(100) + chr(2316 - 2215) + chr(0b1100011) + '\157' + chr(100) + chr(0b1001 + 0o134))(chr(12825 - 12708) + '\164' + '\146' + chr(0b101101) + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(3537 - 3437) + '\145' + '\x63' + chr(0b1101111) + chr(100) + chr(101))(chr(0b111011 + 0o72) + chr(116) + chr(0b1100110) + chr(1398 - 1353) + '\070'))
+        if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b')'), chr(100) + chr(0b1100101) + chr(0b1100011) + '\x6f' + '\144' + chr(101))('\x75' + '\x74' + '\146' + chr(0b101101) + '\x38'):
+            DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b')k7\xba'), chr(0b1010010 + 0o22) + '\145' + chr(0b1100010 + 0o1) + '\157' + chr(0b1000100 + 0o40) + '\x65')(chr(117) + chr(0b10111 + 0o135) + '\x66' + '\x2d' + chr(0b11 + 0o65)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + '\x65' + '\x63' + chr(5258 - 5147) + chr(0b1100100) + chr(101))(chr(8157 - 8040) + '\x74' + chr(7166 - 7064) + '\055' + '\x38'))
+            DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b'{'), '\x64' + chr(101) + '\143' + chr(0b1101111) + chr(6780 - 6680) + '\145')('\x75' + chr(0b1100101 + 0o17) + '\146' + chr(525 - 480) + chr(120 - 64)), lecxhbCcMa(M62917xPfp(b''), chr(1752 - 1652) + '\145' + '\143' + chr(0b1101111) + chr(100) + '\x65')(chr(0b100111 + 0o116) + chr(0b10000 + 0o144) + chr(0b1100000 + 0o6) + '\055' + chr(1919 - 1863)))
+        if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b'3'), chr(0b1100100) + chr(0b1001010 + 0o33) + '\x63' + chr(111) + chr(100) + chr(0b1001101 + 0o30))(chr(1985 - 1868) + '\x74' + chr(102) + chr(0b1111 + 0o36) + chr(808 - 752)):
+            DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b'#m"\xe8o'), chr(0b1100100) + '\x65' + chr(99) + chr(111) + chr(100) + chr(1902 - 1801))(chr(12624 - 12507) + chr(7399 - 7283) + chr(0b1100110) + chr(698 - 653) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(831 - 731) + '\x65' + chr(4773 - 4674) + chr(111) + chr(100) + '\x65')(chr(0b1110101) + chr(0b1010110 + 0o36) + chr(2987 - 2885) + chr(0b101010 + 0o3) + '\x38'))
+            DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b'\x1b4s\xaa\x12\x99'), '\144' + chr(101) + chr(0b111001 + 0o52) + '\x6f' + chr(0b1001001 + 0o33) + chr(101))(chr(0b1110101) + chr(4644 - 4528) + '\x66' + '\x2d' + chr(0b10111 + 0o41)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + '\x65' + '\x63' + chr(0b1101111) + chr(6426 - 6326) + chr(101))('\165' + chr(600 - 484) + chr(0b110011 + 0o63) + chr(0b101101) + chr(0b111000)))
+        DbJV37wwm1 = DbJV37wwm1.strip()
+        lecxhbCcMa(a4857wAeAP, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(101) + chr(7626 - 7527) + '\157' + chr(0b1000 + 0o134) + chr(6753 - 6652))(chr(9710 - 9593) + chr(0b1000000 + 0o64) + chr(0b1100110) + '\x2d' + chr(0b111000)))(DbJV37wwm1)
+    else:
+        a4857wAeAP = DbJV37wwm1.strip(lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100100) + chr(0b1100101) + chr(0b1100011) + '\157' + chr(0b1100100) + chr(0b1100101))(chr(117) + chr(0b1110100) + '\x66' + chr(1866 - 1821) + chr(56))).split(lecxhbCcMa(M62917xPfp(b'l'), '\x64' + chr(9217 - 9116) + chr(0b1000100 + 0o37) + chr(0b1101111) + chr(0b1100100) + chr(101))('\165' + '\164' + chr(0b111000 + 0o56) + chr(0b111 + 0o46) + chr(0b101110 + 0o12)))
+        for (zxQxaVNK_c, hdKwZ0Xz_Z) in _af9rRqIly(a4857wAeAP):
+            JiqYRRD3ln = TWngu2iXgp(hdKwZ0Xz_Z)
+            if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b'&'), chr(0b1100010 + 0o2) + '\x65' + chr(99) + chr(1007 - 896) + chr(0b101110 + 0o66) + chr(1160 - 1059))('\165' + chr(0b1011011 + 0o31) + chr(0b1100110) + chr(0b1 + 0o54) + chr(0b111000)):
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'&i,\xfb;\x82'), chr(1721 - 1621) + '\145' + '\143' + chr(111) + chr(0b1110 + 0o126) + chr(0b1001111 + 0o26))('\x75' + '\164' + chr(0b1010100 + 0o22) + chr(0b101101) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(0b1001001 + 0o34) + chr(0b100011 + 0o100) + chr(12232 - 12121) + chr(0b11011 + 0o111) + chr(101))('\x75' + chr(0b1110100) + chr(9512 - 9410) + chr(1429 - 1384) + chr(152 - 96)))
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(6154 - 6054) + chr(101) + '\x63' + chr(0b1101111) + chr(0b1100100) + chr(0b1010100 + 0o21))('\x75' + chr(11883 - 11767) + '\x66' + '\055' + '\x38'), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(5599 - 5498) + chr(0b1100011) + '\x6f' + chr(0b1100100) + chr(8392 - 8291))('\x75' + chr(1887 - 1771) + '\x66' + chr(0b101 + 0o50) + chr(0b1101 + 0o53)))
+            if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b')'), '\x64' + chr(101) + '\143' + chr(0b1101111) + chr(0b1100001 + 0o3) + chr(10184 - 10083))(chr(0b1110101) + '\x74' + chr(1895 - 1793) + chr(1928 - 1883) + chr(376 - 320)):
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b')k7\xba'), '\144' + chr(0b10000 + 0o125) + chr(5395 - 5296) + chr(111) + '\x64' + chr(2385 - 2284))('\165' + '\x74' + '\x66' + chr(45) + '\070'), lecxhbCcMa(M62917xPfp(b''), '\144' + '\x65' + chr(0b1100011) + chr(0b1101111) + '\144' + chr(712 - 611))(chr(0b1110101) + '\x74' + chr(102) + chr(0b100010 + 0o13) + chr(0b111000)))
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(7708 - 7608) + '\145' + chr(0b1100011) + chr(0b10 + 0o155) + '\144' + '\x65')(chr(0b1101010 + 0o13) + '\x74' + chr(0b1100110) + chr(1833 - 1788) + chr(56)), lecxhbCcMa(M62917xPfp(b''), chr(0b1001111 + 0o25) + chr(101) + chr(0b1100011) + chr(111) + chr(3122 - 3022) + '\x65')(chr(0b101101 + 0o110) + chr(3599 - 3483) + '\146' + chr(0b10000 + 0o35) + '\x38'))
+            if rY_nGNmw83 == lecxhbCcMa(M62917xPfp(b'3'), chr(0b1100100) + chr(101) + chr(0b100110 + 0o75) + chr(0b1101111) + chr(0b1100100) + chr(0b1100101))(chr(0b10 + 0o163) + '\164' + chr(3073 - 2971) + '\x2d' + chr(2456 - 2400)):
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'#m"\xe8o'), '\x64' + chr(0b1100101) + '\x63' + chr(0b1101111) + '\144' + '\145')('\165' + '\164' + '\x66' + chr(1869 - 1824) + '\x38'), lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(0b1100101) + '\x63' + '\157' + chr(9962 - 9862) + chr(0b1100101))(chr(9760 - 9643) + chr(0b1110100) + chr(102) + chr(45) + chr(0b111000)))
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'\x1b4s\xaa\x12\x99'), '\x64' + chr(4171 - 4070) + '\143' + chr(0b1100010 + 0o15) + chr(0b1100100) + chr(1254 - 1153))(chr(12357 - 12240) + chr(0b1110100) + chr(0b101110 + 0o70) + chr(935 - 890) + chr(56)), lecxhbCcMa(M62917xPfp(b''), chr(2389 - 2289) + '\145' + '\x63' + '\157' + '\x64' + chr(0b1000111 + 0o36))(chr(13062 - 12945) + chr(0b100011 + 0o121) + chr(5944 - 5842) + chr(45) + chr(0b111000)))
+            if lecxhbCcMa(M62917xPfp(b'`'), chr(0b1000010 + 0o42) + '\145' + chr(0b1100011) + chr(0b1001110 + 0o41) + chr(5254 - 5154) + chr(0b1100101))('\x75' + chr(116) + '\x66' + '\x2d' + chr(0b111 + 0o61)) in JiqYRRD3ln:
+                JiqYRRD3ln = JiqYRRD3ln.replace(lecxhbCcMa(M62917xPfp(b'`'), '\144' + chr(0b1100101) + chr(5907 - 5808) + chr(9275 - 9164) + '\144' + chr(0b1100101))('\x75' + chr(0b1101100 + 0o10) + '\x66' + chr(1595 - 1550) + chr(56)), lecxhbCcMa(M62917xPfp(b''), '\x64' + '\x65' + chr(5732 - 5633) + '\157' + chr(7644 - 7544) + chr(0b100111 + 0o76))('\x75' + '\x74' + chr(5850 - 5748) + '\055' + chr(2382 - 2326)))
+            a4857wAeAP = [JiqYRRD3ln if AoUFPAIxhg == hdKwZ0Xz_Z else AoUFPAIxhg for AoUFPAIxhg in a4857wAeAP]
+    return a4857wAeAP
+
+def Ri3aewR_xE(YTJZ_Dpsgt, tjGwXop8Hs):
+    DbJV37wwm1 = YTJZ_Dpsgt
+    LRA3DcPn3Y = tjGwXop8Hs
+    DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4'), chr(100) + chr(2021 - 1920) + '\x63' + '\x6f' + chr(5533 - 5433) + '\x65')(chr(0b11011 + 0o132) + chr(0b1000110 + 0o56) + chr(0b1100110) + chr(0b100110 + 0o7) + chr(56)), lecxhbCcMa(M62917xPfp(b''), '\x64' + '\145' + chr(0b101010 + 0o71) + chr(0b1101111) + chr(100) + '\145')(chr(0b100111 + 0o116) + chr(4208 - 4092) + chr(3739 - 3637) + '\x2d' + chr(2689 - 2633)))
+    DbJV37wwm1 = DbJV37wwm1.replace(lecxhbCcMa(M62917xPfp(b'i>'), chr(0b10110 + 0o116) + chr(0b1100101) + chr(0b1010000 + 0o23) + '\x6f' + '\x64' + '\145')(chr(0b1001100 + 0o51) + '\164' + chr(102) + chr(0b101101) + chr(56)), lecxhbCcMa(M62917xPfp(b''), chr(2747 - 2647) + chr(101) + chr(0b1100011) + chr(0b1101111) + chr(0b1101 + 0o127) + '\145')(chr(6732 - 6615) + chr(0b10101 + 0o137) + chr(0b101010 + 0o74) + chr(45) + '\x38'))
+    DbJV37wwm1 = DbJV37wwm1.strip()
+    DbJV37wwm1 = DbJV37wwm1[h0J2gI7PnA('\x30' + '\x6f' + chr(2226 - 2177), 8):]
+    k6uXvA4gmz = []
+    iiQRoICfkb = h0J2gI7PnA(chr(0b101110 + 0o2) + chr(0b1101111) + '\060', 8)
+    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(3529 - 3429) + chr(0b1100101) + chr(0b111100 + 0o47) + '\157' + chr(100) + chr(0b101100 + 0o71))(chr(0b1110101) + chr(0b1101000 + 0o14) + chr(102) + chr(865 - 820) + chr(0b111000))
+    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), '\144' + chr(0b101001 + 0o74) + chr(0b1001001 + 0o32) + chr(111) + chr(0b1100100) + '\145')('\165' + chr(0b10010 + 0o142) + chr(8997 - 8895) + '\055' + chr(0b101111 + 0o11))
+    gxjlnudR0x = lecxhbCcMa(M62917xPfp(b''), chr(0b10000 + 0o124) + chr(101) + chr(9655 - 9556) + chr(8178 - 8067) + chr(0b1100100) + '\x65')('\165' + chr(6727 - 6611) + chr(1212 - 1110) + chr(715 - 670) + '\070')
+    aYdhyp7jZ7 = DbJV37wwm1.split(lecxhbCcMa(M62917xPfp(b'b'), chr(100) + chr(0b10110 + 0o117) + '\x63' + chr(0b1100000 + 0o17) + '\144' + '\145')('\165' + chr(10855 - 10739) + chr(0b1100110) + '\x2d' + chr(0b111000)))
+    if VBTYL3oeHU(aYdhyp7jZ7) == h0J2gI7PnA(chr(48) + chr(0b11010 + 0o125) + '\x33', 8) and aYdhyp7jZ7[h0J2gI7PnA('\x30' + chr(12188 - 12077) + '\x30', 8)] == lecxhbCcMa(M62917xPfp(b''), '\144' + '\145' + chr(99) + chr(0b111010 + 0o65) + '\x64' + chr(0b1100101))('\165' + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(56)) and (aYdhyp7jZ7[h0J2gI7PnA(chr(0b110000) + chr(4651 - 4540) + '\x32', 8)] == lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(0b1011100 + 0o11) + '\143' + chr(0b1100001 + 0o16) + chr(0b1100100) + chr(101))(chr(117) + chr(0b1110100) + chr(0b1100110) + chr(1130 - 1085) + chr(0b111000))):
+        return YTJZ_Dpsgt
+    else:
+        for (zxQxaVNK_c, DbJV37wwm1) in _af9rRqIly(aYdhyp7jZ7):
+            aYdhyp7jZ7[zxQxaVNK_c] = aYdhyp7jZ7[zxQxaVNK_c].strip()
+            if zxQxaVNK_c == h0J2gI7PnA('\x30' + '\157' + '\060', 8):
+                if VBTYL3oeHU(aYdhyp7jZ7[zxQxaVNK_c]) > h0J2gI7PnA(chr(48) + chr(0b110 + 0o151) + chr(48), 8) and aYdhyp7jZ7[zxQxaVNK_c][VBTYL3oeHU(aYdhyp7jZ7[zxQxaVNK_c]) - h0J2gI7PnA('\x30' + chr(3930 - 3819) + '\061', 8)] == lecxhbCcMa(M62917xPfp(b'l'), chr(0b1010 + 0o132) + chr(0b1001101 + 0o30) + chr(0b1100011) + chr(0b1101111) + chr(100) + chr(4603 - 4502))(chr(0b1010 + 0o153) + chr(116) + chr(102) + '\x2d' + chr(2649 - 2593)) and (lecxhbCcMa(aYdhyp7jZ7[zxQxaVNK_c], lecxhbCcMa(M62917xPfp(b'#j6\xf4;'), '\x64' + chr(0b1100 + 0o131) + chr(0b11010 + 0o111) + chr(4488 - 4377) + chr(0b11110 + 0o106) + '\x65')('\165' + chr(0b1110100) + chr(5632 - 5530) + '\x2d' + '\x38'))(lecxhbCcMa(M62917xPfp(b'l'), '\x64' + '\x65' + chr(1697 - 1598) + chr(0b1101111) + chr(100) + chr(0b1100001 + 0o4))('\165' + '\x74' + chr(2195 - 2093) + chr(45) + chr(0b1 + 0o67))) == h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(49), 8)):
+                    AxW30Kp7UK = aYdhyp7jZ7[zxQxaVNK_c].replace(lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100100) + chr(9809 - 9708) + chr(0b101111 + 0o64) + '\157' + '\x64' + chr(0b1100101))(chr(0b1010 + 0o153) + chr(116) + chr(7621 - 7519) + '\055' + chr(1340 - 1284)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(5525 - 5424) + '\x63' + '\x6f' + chr(100) + '\x65')(chr(0b1101100 + 0o11) + '\164' + '\x66' + chr(1757 - 1712) + '\x38'))
+                    AxW30Kp7UK = AxW30Kp7UK.strip()
+                    if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + '\x65' + chr(0b1000110 + 0o35) + chr(0b1101111) + '\x64' + '\x65')(chr(3704 - 3587) + '\164' + chr(0b1100110) + chr(0b11111 + 0o16) + chr(56)) in AxW30Kp7UK:
+                        AxW30Kp7UK = AxW30Kp7UK.split(lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(4148 - 4047) + '\143' + chr(0b1101111) + chr(100) + '\x65')('\x75' + chr(116) + '\146' + chr(0b101101) + '\x38'))
+                        gxjlnudR0x = lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + '\x65' + '\143' + chr(0b1101111) + chr(100) + chr(101))(chr(0b1100101 + 0o20) + '\164' + '\146' + chr(976 - 931) + chr(0b110 + 0o62)) + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(414 - 366) + chr(111) + '\061', 8)]) + lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b10000 + 0o124) + chr(3988 - 3887) + chr(0b1010111 + 0o14) + chr(0b1101111) + chr(5090 - 4990) + chr(101))(chr(12637 - 12520) + chr(0b1110100) + '\x66' + chr(0b11000 + 0o25) + '\070') + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(0b100001 + 0o17) + chr(0b1101111) + chr(0b110010), 8)])
+                        AxW30Kp7UK = TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(48) + chr(111) + '\x30', 8)])
+                        gxjlnudR0x = AxW30Kp7UK + gxjlnudR0x
+                        iiQRoICfkb = h0J2gI7PnA(chr(0b100001 + 0o17) + chr(111) + chr(0b110001), 8)
+                    d54k1cxsXC = LRA3DcPn3Y[AxW30Kp7UK]
+                    aYdhyp7jZ7[zxQxaVNK_c] = lecxhbCcMa(M62917xPfp(b'b'), chr(0b1010101 + 0o17) + chr(0b1100101) + '\143' + '\157' + chr(0b1100100) + chr(101))(chr(0b1110101) + chr(0b1110100) + '\x66' + chr(0b101101) + '\x38') + d54k1cxsXC
+                    if iiQRoICfkb == h0J2gI7PnA(chr(0b110000) + chr(111) + chr(0b110000), 8):
+                        lecxhbCcMa(k6uXvA4gmz, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1100101) + '\143' + '\157' + chr(100) + chr(0b1100101))(chr(0b101100 + 0o111) + '\x74' + chr(831 - 729) + chr(1469 - 1424) + chr(1252 - 1196)))(AxW30Kp7UK)
                     else:
-                        line = line.lower()
+                        lecxhbCcMa(k6uXvA4gmz, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(4269 - 4169) + '\x65' + chr(1731 - 1632) + chr(111) + chr(100) + chr(5044 - 4943))(chr(0b1110101) + chr(0b100000 + 0o124) + chr(0b1100110) + '\x2d' + '\x38'))(gxjlnudR0x)
+                        iiQRoICfkb = h0J2gI7PnA('\060' + '\x6f' + '\x30', 8)
+                else:
+                    aYdhyp7jZ7[h0J2gI7PnA('\060' + chr(111) + chr(2221 - 2173), 8)] = lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + chr(0b10100 + 0o121) + chr(0b1001001 + 0o32) + chr(0b1011001 + 0o26) + chr(100) + chr(0b1100101))(chr(0b1110101) + chr(5861 - 5745) + chr(102) + chr(0b1010 + 0o43) + chr(0b111000)) + aYdhyp7jZ7[h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(0b11010 + 0o26), 8)]
+            elif zxQxaVNK_c == VBTYL3oeHU(aYdhyp7jZ7) - h0J2gI7PnA(chr(48) + '\x6f' + chr(0b110001), 8):
+                if VBTYL3oeHU(aYdhyp7jZ7[zxQxaVNK_c]) > h0J2gI7PnA(chr(0b101000 + 0o10) + chr(111) + chr(0b110000), 8) and aYdhyp7jZ7[zxQxaVNK_c][h0J2gI7PnA(chr(48) + chr(111) + chr(0b1101 + 0o43), 8)] == lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100100) + chr(0b1011110 + 0o7) + chr(0b1100011) + chr(9352 - 9241) + '\x64' + '\145')(chr(0b1110101) + '\164' + '\146' + chr(578 - 533) + chr(56)) and (lecxhbCcMa(aYdhyp7jZ7[zxQxaVNK_c], lecxhbCcMa(M62917xPfp(b'#j6\xf4;'), chr(0b1100100) + chr(101) + chr(0b1100011 + 0o0) + chr(111) + chr(6062 - 5962) + chr(0b10011 + 0o122))('\x75' + '\x74' + chr(0b10 + 0o144) + chr(0b101101) + '\x38'))(lecxhbCcMa(M62917xPfp(b'l'), chr(100) + chr(0b1001101 + 0o30) + '\x63' + '\x6f' + chr(0b1100100) + chr(101))('\x75' + '\164' + '\x66' + chr(0b100100 + 0o11) + chr(1762 - 1706))) == h0J2gI7PnA('\x30' + chr(0b1101111) + chr(0b101001 + 0o10), 8)):
+                    AxW30Kp7UK = aYdhyp7jZ7[zxQxaVNK_c].replace(lecxhbCcMa(M62917xPfp(b'l'), chr(100) + chr(0b100001 + 0o104) + chr(0b1100011) + chr(0b1101111) + '\x64' + chr(101))(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(45) + chr(56)), lecxhbCcMa(M62917xPfp(b''), chr(0b1111 + 0o125) + chr(2468 - 2367) + '\x63' + '\x6f' + chr(2709 - 2609) + '\145')(chr(117) + chr(0b1110100) + chr(0b1100110) + chr(1880 - 1835) + chr(56)))
+                    AxW30Kp7UK = AxW30Kp7UK.strip()
+                    if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(100) + chr(0b1100101) + chr(3121 - 3022) + chr(111) + chr(0b1100100) + chr(101))('\165' + chr(0b100010 + 0o122) + chr(9085 - 8983) + chr(0b101101) + chr(0b101101 + 0o13)) in AxW30Kp7UK:
+                        AxW30Kp7UK = AxW30Kp7UK.split(lecxhbCcMa(M62917xPfp(b'\x1b'), chr(6702 - 6602) + chr(9853 - 9752) + chr(0b1100011) + chr(5367 - 5256) + '\144' + chr(0b1010 + 0o133))('\x75' + '\x74' + chr(6156 - 6054) + chr(0b101101 + 0o0) + '\x38'))
+                        gxjlnudR0x = lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + '\145' + chr(5459 - 5360) + '\157' + chr(0b111011 + 0o51) + '\x65')('\x75' + chr(0b1010 + 0o152) + '\146' + chr(45) + chr(1359 - 1303)) + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(641 - 592), 8)]) + lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(0b10101 + 0o120) + '\x63' + '\x6f' + chr(4519 - 4419) + chr(0b1100101))('\x75' + chr(0b1110100) + chr(0b1100110) + chr(1886 - 1841) + chr(0b111000)) + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(0b1010110 + 0o31) + chr(738 - 688), 8)])
+                        AxW30Kp7UK = TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA('\060' + chr(0b1101111) + '\x30', 8)])
+                        gxjlnudR0x = AxW30Kp7UK + gxjlnudR0x
+                        iiQRoICfkb = h0J2gI7PnA('\060' + '\157' + chr(1301 - 1252), 8)
+                    d54k1cxsXC = LRA3DcPn3Y[AxW30Kp7UK]
+                    aYdhyp7jZ7[zxQxaVNK_c] = d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + chr(1099 - 998) + '\143' + chr(0b101110 + 0o101) + chr(6821 - 6721) + chr(0b1100101))('\165' + chr(0b1110100) + chr(102) + chr(45) + chr(0b1001 + 0o57))
+                    if iiQRoICfkb == h0J2gI7PnA(chr(1516 - 1468) + chr(3777 - 3666) + '\060', 8):
+                        lecxhbCcMa(k6uXvA4gmz, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(697 - 596) + chr(0b1000 + 0o133) + '\157' + '\x64' + '\145')(chr(0b1110101) + '\164' + chr(0b1011011 + 0o13) + chr(964 - 919) + chr(0b111000)))(AxW30Kp7UK)
+                    else:
+                        lecxhbCcMa(k6uXvA4gmz, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1001110 + 0o26) + '\x65' + '\143' + chr(7497 - 7386) + chr(100) + chr(0b1100101))('\x75' + '\164' + '\146' + chr(45) + chr(56)))(gxjlnudR0x)
+                        iiQRoICfkb = h0J2gI7PnA(chr(0b101011 + 0o5) + chr(0b1101111) + chr(48), 8)
+                else:
+                    aYdhyp7jZ7[zxQxaVNK_c] = aYdhyp7jZ7[zxQxaVNK_c] + lecxhbCcMa(M62917xPfp(b'b'), chr(100) + chr(4858 - 4757) + chr(0b1100011) + '\157' + chr(4562 - 4462) + '\x65')(chr(10524 - 10407) + chr(10090 - 9974) + chr(5809 - 5707) + chr(45) + chr(56))
+            elif VBTYL3oeHU(aYdhyp7jZ7[zxQxaVNK_c]) > h0J2gI7PnA('\x30' + chr(1154 - 1043) + '\060', 8) and aYdhyp7jZ7[zxQxaVNK_c][VBTYL3oeHU(aYdhyp7jZ7[zxQxaVNK_c]) - h0J2gI7PnA(chr(1850 - 1802) + chr(0b10010 + 0o135) + chr(49), 8)] == lecxhbCcMa(M62917xPfp(b'l'), '\x64' + '\145' + '\143' + '\157' + chr(3654 - 3554) + '\145')('\165' + '\164' + chr(9246 - 9144) + chr(45) + '\x38') and (lecxhbCcMa(aYdhyp7jZ7[zxQxaVNK_c], lecxhbCcMa(M62917xPfp(b'#j6\xf4;'), '\144' + chr(101) + chr(0b1100010 + 0o1) + chr(111) + '\x64' + chr(0b1100101))(chr(0b11100 + 0o131) + '\164' + chr(102) + chr(0b101101) + '\x38'))(lecxhbCcMa(M62917xPfp(b'l'), chr(4474 - 4374) + chr(101) + '\x63' + chr(111) + '\144' + chr(101))(chr(0b1100100 + 0o21) + chr(116) + '\x66' + '\055' + '\070')) == h0J2gI7PnA('\060' + chr(2106 - 1995) + '\062', 8)) and (aYdhyp7jZ7[zxQxaVNK_c][h0J2gI7PnA(chr(1276 - 1228) + chr(0b1101111) + chr(1770 - 1722), 8)] == lecxhbCcMa(M62917xPfp(b'l'), chr(0b110011 + 0o61) + chr(101) + '\x63' + chr(0b1101111) + '\x64' + chr(101))('\x75' + '\164' + '\146' + '\055' + chr(0b11011 + 0o35))):
+                AxW30Kp7UK = aYdhyp7jZ7[zxQxaVNK_c].replace(lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100100) + chr(0b111010 + 0o53) + chr(0b1100011) + chr(0b1101111) + '\144' + chr(0b1100101))('\165' + chr(7506 - 7390) + '\146' + '\055' + chr(0b101111 + 0o11)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(0b101011 + 0o72) + chr(9193 - 9094) + '\x6f' + chr(100) + chr(0b1100101))(chr(12736 - 12619) + chr(116) + '\146' + '\x2d' + chr(0b101 + 0o63)))
+                AxW30Kp7UK = AxW30Kp7UK.strip()
+                if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + '\145' + chr(0b1100011) + chr(582 - 471) + '\144' + '\145')(chr(11551 - 11434) + chr(0b1110100) + chr(0b100000 + 0o106) + chr(0b11100 + 0o21) + chr(0b10101 + 0o43)) in AxW30Kp7UK:
+                    AxW30Kp7UK = AxW30Kp7UK.split(lecxhbCcMa(M62917xPfp(b'\x1b'), chr(4061 - 3961) + '\x65' + chr(0b1100011) + chr(0b1111 + 0o140) + chr(0b1100100) + chr(101))('\165' + chr(0b100111 + 0o115) + '\146' + chr(784 - 739) + chr(2314 - 2258)))
+                    gxjlnudR0x = lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b11010 + 0o112) + chr(0b1100101) + chr(99) + chr(746 - 635) + chr(0b1100100) + chr(0b110100 + 0o61))('\x75' + chr(0b1101000 + 0o14) + chr(4786 - 4684) + chr(77 - 32) + chr(56)) + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA('\060' + '\157' + chr(2190 - 2141), 8)]) + lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + '\145' + chr(0b1100011) + chr(8026 - 7915) + '\x64' + '\145')(chr(117) + '\164' + '\x66' + '\055' + chr(0b111000)) + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(1557 - 1509) + chr(0b1101111) + '\x32', 8)])
+                    AxW30Kp7UK = TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA('\060' + '\x6f' + chr(1557 - 1509), 8)])
+                    gxjlnudR0x = AxW30Kp7UK + gxjlnudR0x
+                    iiQRoICfkb = h0J2gI7PnA(chr(0b11111 + 0o21) + '\x6f' + '\x31', 8)
+                d54k1cxsXC = LRA3DcPn3Y[AxW30Kp7UK]
+                aYdhyp7jZ7[zxQxaVNK_c] = d54k1cxsXC
+                if iiQRoICfkb == h0J2gI7PnA(chr(0b101011 + 0o5) + chr(111) + chr(0b110000), 8):
+                    lecxhbCcMa(k6uXvA4gmz, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(9343 - 9242) + chr(0b1100011) + chr(0b111111 + 0o60) + '\144' + chr(101))(chr(0b10100 + 0o141) + chr(0b111010 + 0o72) + chr(0b1100110) + '\x2d' + chr(56)))(AxW30Kp7UK)
+                else:
+                    lecxhbCcMa(k6uXvA4gmz, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(337 - 237) + chr(8183 - 8082) + chr(0b100111 + 0o74) + chr(111) + chr(1240 - 1140) + '\145')(chr(0b1110101) + chr(0b1110100) + '\x66' + chr(1485 - 1440) + chr(56)))(gxjlnudR0x)
+                    iiQRoICfkb = h0J2gI7PnA(chr(48) + chr(111) + chr(0b110000), 8)
+        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'`'), chr(100) + '\145' + chr(0b1100011) + chr(0b101100 + 0o103) + '\x64' + '\145')('\165' + '\164' + '\x66' + '\055' + chr(0b101000 + 0o20)).join(aYdhyp7jZ7)
+        d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100100) + '\145' + chr(0b1 + 0o142) + chr(0b1010 + 0o145) + chr(0b1100100) + '\x65')('\x75' + chr(9605 - 9489) + chr(0b1100110) + chr(45) + chr(56)).join(k6uXvA4gmz)
+        d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'l'), '\x64' + chr(0b1011100 + 0o11) + chr(0b111 + 0o134) + chr(144 - 33) + '\x64' + chr(0b111111 + 0o46))(chr(0b1110101) + chr(0b1110000 + 0o4) + chr(0b111111 + 0o47) + '\055' + chr(0b111000)) + d54k1cxsXC
+        k6uXvA4gmz = lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4\x08L'), chr(100) + chr(0b1100101) + chr(0b1100011) + chr(111) + chr(3707 - 3607) + '\x65')('\165' + chr(0b1110100) + chr(102) + chr(0b1110 + 0o37) + chr(1373 - 1317)) + AxW30Kp7UK + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'i>'), chr(0b1100100) + '\145' + chr(0b1010100 + 0o17) + chr(225 - 114) + chr(0b1001011 + 0o31) + chr(9594 - 9493))(chr(117) + chr(0b1101111 + 0o5) + chr(102) + '\055' + chr(56))
+        return k6uXvA4gmz
 
-                        if ("raizq" in line):
-                            line = line.replace("raizq","sqrt")
-                            if tttttttttt2 == 0:
-                                C_codeSplit.insert(1,"#include<math.h>")
-                                tttttttttt2 += 1
-                        if ("exp" in line):
-                            line = line.replace("exp","pow")
-                            if tttttttttt2 == 0:
-                                C_codeSplit.insert(1,"#include<math.h>")
-                                tttttttttt2 += 1
+def uMA4AeYmXg(PDrfJnVmIF):
+    d54k1cxsXC = PDrfJnVmIF
+    pgaHoavgEK = lecxhbCcMa(M62917xPfp(b'\x1c-?\xc6f\xdet\x17u\xf9\xa5@]\x98\xd6K)MX&_\xb2'), '\x64' + chr(101) + chr(99) + '\x6f' + '\x64' + '\x65')(chr(0b1110101) + chr(1535 - 1419) + '\x66' + chr(0b101101) + chr(346 - 290))
+    dvITu_nL2M = C2IYYDqj9b.split(pgaHoavgEK, PDrfJnVmIF)
+    mvAm3NLq_k = []
+    GQZcXTYLrm = []
+    for G97Nuzvi7X in dvITu_nL2M:
+        if (lecxhbCcMa(M62917xPfp(b'}'), '\144' + chr(2666 - 2565) + chr(7743 - 7644) + chr(0b1101111) + chr(100) + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(102) + chr(0b10 + 0o53) + chr(56)) in G97Nuzvi7X or lecxhbCcMa(M62917xPfp(b'|;'), '\x64' + '\x65' + chr(99) + chr(6732 - 6621) + chr(0b1100100) + chr(1360 - 1259))('\165' + '\164' + '\146' + chr(45) + chr(0b111000)) in G97Nuzvi7X) and lecxhbCcMa(G97Nuzvi7X, lecxhbCcMa(M62917xPfp(b'#j6\xf4;'), chr(100) + '\145' + chr(0b1010 + 0o131) + chr(0b1000010 + 0o55) + chr(0b1100100) + chr(101))(chr(0b110010 + 0o103) + chr(0b1011001 + 0o33) + '\x66' + chr(45) + chr(56)))(lecxhbCcMa(M62917xPfp(b'b'), '\x64' + chr(101) + '\x63' + chr(0b1000001 + 0o56) + chr(0b110 + 0o136) + '\x65')(chr(0b1110101) + chr(0b1110100 + 0o0) + chr(0b1100110) + '\055' + chr(0b111000))) >= h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(50), 8):
+            lecxhbCcMa(mvAm3NLq_k, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b110110 + 0o56) + chr(0b1100101) + chr(0b1100011) + '\157' + '\x64' + chr(101))(chr(0b1110101) + chr(0b1110100) + '\146' + '\x2d' + '\x38'))(G97Nuzvi7X)
+    for G97Nuzvi7X in mvAm3NLq_k:
+        if lecxhbCcMa(M62917xPfp(b'}'), chr(0b1100100) + '\x65' + chr(0b1011 + 0o130) + '\x6f' + chr(0b1100100) + '\145')(chr(0b1001000 + 0o55) + '\164' + chr(0b1100110) + '\055' + chr(0b101101 + 0o13)) in G97Nuzvi7X:
+            AxW30Kp7UK = G97Nuzvi7X.replace(lecxhbCcMa(M62917xPfp(b'}'), chr(7802 - 7702) + '\145' + chr(0b1100011) + '\x6f' + chr(100) + '\x65')('\165' + chr(0b1110100) + chr(3095 - 2993) + '\055' + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'l'), chr(6891 - 6791) + '\x65' + '\x63' + chr(5911 - 5800) + '\x64' + '\x65')(chr(6482 - 6365) + chr(0b1110 + 0o146) + chr(0b1100100 + 0o2) + chr(68 - 23) + chr(0b1011 + 0o55)))
+            AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'hv7\xe8,\xcfXL~'), chr(100) + chr(101) + chr(8827 - 8728) + '\x6f' + chr(0b1010001 + 0o23) + chr(0b1100101))(chr(0b1110101) + chr(116) + chr(200 - 98) + '\x2d' + chr(56)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i%~\xa7o\x92\x01'), '\144' + '\145' + chr(5430 - 5331) + '\157' + chr(2545 - 2445) + chr(0b1100101))(chr(0b1110101) + chr(12903 - 12787) + chr(0b111011 + 0o53) + chr(45) + '\070')
+            lecxhbCcMa(GQZcXTYLrm, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(101) + '\143' + chr(111) + '\x64' + chr(3898 - 3797))(chr(0b1110101) + chr(8945 - 8829) + chr(0b1010101 + 0o21) + chr(0b111 + 0o46) + '\x38'))(AxW30Kp7UK)
+        else:
+            AxW30Kp7UK = G97Nuzvi7X.replace(lecxhbCcMa(M62917xPfp(b'|;'), chr(7622 - 7522) + chr(786 - 685) + chr(367 - 268) + chr(111) + '\144' + chr(101))('\165' + chr(13282 - 13166) + chr(871 - 769) + chr(45) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'l'), chr(0b110011 + 0o61) + chr(3991 - 3890) + chr(0b1100011) + chr(0b1011101 + 0o22) + chr(0b10110 + 0o116) + chr(0b1100010 + 0o3))('\165' + chr(0b1110100) + '\x66' + '\055' + chr(0b11111 + 0o31)))
+            AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'hv7\xe8,\xcfXL~'), '\x64' + chr(3917 - 3816) + '\143' + chr(0b111001 + 0o66) + '\x64' + chr(0b1100101))(chr(0b11000 + 0o135) + chr(11328 - 11212) + chr(0b1100110) + chr(432 - 387) + '\x38') + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i%~\xa7o\x93\x01'), chr(6506 - 6406) + '\145' + chr(0b1010111 + 0o14) + chr(0b1 + 0o156) + chr(0b1100100) + chr(101))('\165' + chr(0b11011 + 0o131) + chr(0b110111 + 0o57) + chr(45) + chr(0b111000))
+            lecxhbCcMa(GQZcXTYLrm, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1000100 + 0o40) + '\145' + chr(0b10110 + 0o115) + chr(7746 - 7635) + chr(0b111001 + 0o53) + '\x65')(chr(0b1110101) + chr(0b1110100) + '\x66' + chr(0b101101) + chr(0b100100 + 0o24)))(AxW30Kp7UK)
+    for (aUimWKkLR8, RHcpbJ6dX3) in nJ8oL8MMLN(GQZcXTYLrm, mvAm3NLq_k):
+        d54k1cxsXC = d54k1cxsXC.replace(RHcpbJ6dX3, aUimWKkLR8)
+    return d54k1cxsXC
 
-
-                        #if ("var" in unidecode(line.strip().lower())):
-                        if ("inteiro" in line and not '"' in line):
-                            if ("[" not in line):
-                                line = line.strip()
-                                lax = "int " + line.replace(":", ";")
-                                lax = lax.replace("inteiro", "")
-                                lax = lax.strip()
-                                Dx = extract_varName(lax,'i')
-                                Dx = addVarName_DictList(Dx, 'i')
-                                for key, value in Dx.items():
-                                    varis[key] = value
-                                C_codeSplit.append(lax)
-                                lax = ""
+def XXceRf697(xKASdJAvJP):
+    Icu4itraMD = xKASdJAvJP
+    YYh1K_zOub = Icu4itraMD.splitlines()
+    OezffZzZS8 = []
+    WnKu0O1160 = h0J2gI7PnA(chr(1115 - 1067) + chr(111) + chr(0b101110 + 0o2), 8)
+    sJQWWyudf4 = h0J2gI7PnA(chr(1276 - 1228) + '\x6f' + chr(0b110000), 8)
+    ibXckSR7j_ = h0J2gI7PnA(chr(2188 - 2140) + '\157' + chr(2280 - 2232), 8)
+    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b10110 + 0o116) + '\x65' + chr(0b1100011) + chr(111) + chr(100) + chr(101))(chr(0b1110101) + chr(0b1001011 + 0o51) + chr(102) + '\x2d' + chr(56))
+    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + '\145' + '\x63' + chr(10565 - 10454) + chr(0b1001101 + 0o27) + chr(0b100000 + 0o105))(chr(117) + chr(0b10011 + 0o141) + chr(0b1011110 + 0o10) + '\055' + chr(2265 - 2209))
+    gxjlnudR0x = lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(0b1100101) + chr(3896 - 3797) + chr(0b1101111) + '\144' + chr(0b111101 + 0o50))('\165' + '\x74' + chr(0b1100110) + chr(45) + chr(0b11111 + 0o31))
+    f_bLRvglqg = lecxhbCcMa(M62917xPfp(b''), chr(698 - 598) + chr(8724 - 8623) + chr(0b1000011 + 0o40) + chr(0b1101111) + '\x64' + chr(0b1100101))('\x75' + chr(116) + '\146' + '\055' + '\070')
+    LRA3DcPn3Y = {}
+    try:
+        for (zxQxaVNK_c, rP1opCG3tZ) in _af9rRqIly(YYh1K_zOub):
+            if zxQxaVNK_c == h0J2gI7PnA(chr(0b100011 + 0o15) + chr(111) + chr(0b10 + 0o56), 8):
+                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b1100101) + chr(99) + chr(111) + chr(0b1011010 + 0o12) + chr(6082 - 5981))('\x75' + chr(8959 - 8843) + chr(0b1100110) + chr(0b10110 + 0o27) + chr(56)))(lecxhbCcMa(M62917xPfp(b'o*'), chr(0b1100100) + chr(101) + chr(5377 - 5278) + '\x6f' + '\x64' + chr(101))(chr(117) + chr(4208 - 4092) + '\x66' + chr(0b101101) + chr(968 - 912)) + rP1opCG3tZ)
+                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b100101 + 0o100) + '\143' + '\x6f' + '\x64' + chr(0b100101 + 0o100))('\x75' + '\x74' + chr(0b1100110) + chr(0b101101) + chr(0b100100 + 0o24)))(lecxhbCcMa(M62917xPfp(b'cl-\xf9#\xd7L\x01~\xa0\x8aG\x12\x8d\xe5\x16j\x1c'), chr(0b111001 + 0o53) + '\145' + '\143' + chr(111) + chr(100) + '\145')(chr(0b1010011 + 0o42) + '\164' + chr(102) + chr(387 - 342) + '\070'))
+            elif zxQxaVNK_c != h0J2gI7PnA(chr(0b101100 + 0o4) + '\157' + chr(0b10011 + 0o35), 8):
+                if lecxhbCcMa(rP1opCG3tZ, lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), '\x64' + chr(0b1100101) + '\143' + chr(111) + chr(0b1100100) + chr(9780 - 9679))(chr(117) + chr(0b1110100) + '\x66' + '\x2d' + chr(2145 - 2089)))() == lecxhbCcMa(M62917xPfp(b''), chr(4326 - 4226) + '\145' + '\143' + chr(11953 - 11842) + chr(100) + chr(0b1000100 + 0o41))(chr(13395 - 13278) + chr(0b1101 + 0o147) + '\x66' + chr(45) + chr(0b110000 + 0o10)):
+                    WnKu0O1160 = zTPwVy4r78(h0J2gI7PnA(chr(48) + chr(0b110001 + 0o76) + chr(0b110001), 8), h0J2gI7PnA(chr(0b110000) + '\157' + '\061' + chr(610 - 560), 133 - 125))
+                    if WnKu0O1160 < h0J2gI7PnA(chr(725 - 677) + chr(0b110101 + 0o72) + '\x35', 8):
+                        lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b10000 + 0o124) + chr(101) + chr(0b11 + 0o140) + '\157' + chr(0b1100100) + chr(0b1000010 + 0o43))('\x75' + chr(0b1110100) + chr(0b11111 + 0o107) + chr(0b101101) + chr(0b10010 + 0o46)))(lecxhbCcMa(M62917xPfp(b''), chr(100) + '\145' + chr(99) + '\157' + chr(0b1100100) + chr(8592 - 8491))(chr(4630 - 4513) + chr(0b1110100) + '\146' + chr(0b1101 + 0o40) + chr(0b111000)))
+                else:
+                    rP1opCG3tZ = rP1opCG3tZ.strip()
+                    if rP1opCG3tZ[h0J2gI7PnA(chr(0b101000 + 0o10) + '\x6f' + '\x30', 8)] == lecxhbCcMa(M62917xPfp(b'o'), '\x64' + '\x65' + '\x63' + chr(4626 - 4515) + '\144' + chr(8872 - 8771))(chr(10412 - 10295) + chr(116) + chr(0b1100110) + '\055' + '\x38') and rP1opCG3tZ[h0J2gI7PnA(chr(0b110000) + chr(2101 - 1990) + '\061', 8)] == lecxhbCcMa(M62917xPfp(b'o'), chr(0b111010 + 0o52) + '\145' + '\x63' + chr(0b1101111) + '\144' + chr(101))(chr(0b1110101) + chr(116) + chr(6350 - 6248) + chr(0b11101 + 0o20) + '\070'):
+                        lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + '\145' + '\x63' + '\157' + chr(100) + '\145')(chr(117) + '\164' + '\146' + chr(45) + '\x38'))(rP1opCG3tZ)
+                    else:
+                        rP1opCG3tZ = rP1opCG3tZ.lower()
+                        if lecxhbCcMa(M62917xPfp(b'2d*\xe0>'), chr(100) + chr(101) + chr(0b1100011) + chr(111) + '\x64' + '\145')('\165' + chr(11513 - 11397) + chr(0b1100110) + chr(0b1001 + 0o44) + '\070') in rP1opCG3tZ:
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'2d*\xe0>'), chr(787 - 687) + chr(101) + chr(99) + chr(10022 - 9911) + chr(0b100101 + 0o77) + chr(8807 - 8706))('\165' + '\x74' + chr(0b1100110) + chr(0b1111 + 0o36) + chr(765 - 709)), lecxhbCcMa(M62917xPfp(b'3t1\xee'), '\x64' + '\145' + chr(99) + '\157' + chr(0b1100100) + '\145')('\x75' + '\x74' + chr(0b1100110) + chr(1568 - 1523) + '\x38'))
+                            if ibXckSR7j_ == h0J2gI7PnA(chr(0b11011 + 0o25) + chr(111) + chr(0b101001 + 0o7), 8):
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), '\x64' + '\x65' + chr(2122 - 2023) + '\x6f' + chr(0b1100100) + chr(8136 - 8035))(chr(0b1110101) + chr(3676 - 3560) + '\x66' + '\055' + chr(0b101100 + 0o14)))(h0J2gI7PnA('\x30' + chr(111) + '\x31', 8), lecxhbCcMa(M62917xPfp(b'cl-\xf9#\xd7L\x01b\xf1\x98G\x1e\xca\xe2\x06'), '\144' + chr(9658 - 9557) + chr(0b1100011) + chr(0b1101111) + chr(100) + chr(0b101111 + 0o66))(chr(0b1110 + 0o147) + chr(1295 - 1179) + chr(102) + '\x2d' + chr(0b11011 + 0o35)))
+                                ibXckSR7j_ += h0J2gI7PnA('\x30' + '\x6f' + chr(49), 8)
+                        if lecxhbCcMa(M62917xPfp(b'%}3'), chr(0b101 + 0o137) + chr(101) + chr(8105 - 8006) + chr(4714 - 4603) + chr(0b1100100) + '\x65')(chr(117) + '\164' + chr(102) + chr(1057 - 1012) + chr(56)) in rP1opCG3tZ:
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'%}3'), chr(0b1000011 + 0o41) + chr(0b10011 + 0o122) + chr(99) + '\157' + '\x64' + '\145')('\165' + chr(2196 - 2080) + '\146' + chr(0b101101) + chr(247 - 191)), lecxhbCcMa(M62917xPfp(b'0j4'), chr(100) + chr(0b1000100 + 0o41) + chr(5845 - 5746) + chr(111) + chr(9311 - 9211) + chr(220 - 119))(chr(117) + chr(9672 - 9556) + chr(102) + '\055' + chr(1064 - 1008)))
+                            if ibXckSR7j_ == h0J2gI7PnA('\060' + '\x6f' + '\x30', 8):
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), chr(0b1100100) + chr(4564 - 4463) + chr(0b110010 + 0o61) + '\x6f' + chr(0b1100100) + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(102) + chr(0b101101) + chr(0b100111 + 0o21)))(h0J2gI7PnA(chr(48) + chr(0b1010110 + 0o31) + chr(0b101000 + 0o11), 8), lecxhbCcMa(M62917xPfp(b'cl-\xf9#\xd7L\x01b\xf1\x98G\x1e\xca\xe2\x06'), chr(100) + chr(3110 - 3009) + '\x63' + chr(0b1101111) + chr(125 - 25) + chr(101))('\165' + chr(3526 - 3410) + '\146' + chr(1354 - 1309) + chr(0b1001 + 0o57)))
+                                ibXckSR7j_ += h0J2gI7PnA(chr(1026 - 978) + chr(0b1101111) + '\x31', 8)
+                        if lecxhbCcMa(M62917xPfp(b')k7\xff&\xd0G'), '\x64' + chr(101) + '\143' + chr(0b1101111) + chr(100) + chr(9310 - 9209))(chr(117) + '\164' + '\146' + chr(45) + chr(56)) in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'b'), chr(0b1010001 + 0o23) + chr(0b110101 + 0o60) + chr(0b1100011) + chr(0b100110 + 0o111) + chr(6001 - 5901) + chr(0b111010 + 0o53))(chr(0b10010 + 0o143) + '\x74' + chr(0b101101 + 0o71) + chr(0b101101) + '\x38') in rP1opCG3tZ):
+                            if lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(3364 - 3263) + chr(6536 - 6437) + '\157' + chr(0b1100100) + chr(8682 - 8581))(chr(0b1011101 + 0o30) + chr(116) + chr(102) + chr(1634 - 1589) + '\x38') not in rP1opCG3tZ:
+                                rP1opCG3tZ = rP1opCG3tZ.strip()
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b')k7\xba'), chr(100) + chr(0b1100101) + '\x63' + chr(2737 - 2626) + '\144' + chr(7929 - 7828))('\x75' + chr(0b1110100) + chr(102) + '\055' + chr(0b1110 + 0o52)) + rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'z'), '\144' + chr(0b101 + 0o140) + '\x63' + chr(111) + chr(100) + chr(0b1100101))('\165' + chr(12579 - 12463) + '\x66' + chr(655 - 610) + chr(56)), lecxhbCcMa(M62917xPfp(b'{'), chr(100) + chr(101) + '\143' + chr(0b1000111 + 0o50) + chr(100) + chr(4563 - 4462))('\165' + chr(0b101 + 0o157) + '\x66' + chr(0b1010 + 0o43) + chr(0b111000)))
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b')k7\xff&\xd0G'), chr(9969 - 9869) + chr(0b1 + 0o144) + chr(99) + '\157' + chr(7717 - 7617) + chr(2492 - 2391))('\x75' + chr(0b1110100) + chr(5645 - 5543) + chr(0b101101) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(101) + chr(99) + chr(0b1010100 + 0o33) + chr(100) + chr(101))(chr(7193 - 7076) + chr(0b1110100) + '\146' + '\x2d' + chr(1113 - 1057)))
+                                AxW30Kp7UK = AxW30Kp7UK.strip()
+                                bbWb6RlmY6 = GTSN7xvwof(AxW30Kp7UK, lecxhbCcMa(M62917xPfp(b')'), '\144' + chr(0b1000001 + 0o44) + chr(0b1010000 + 0o23) + '\157' + chr(100) + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(102) + chr(290 - 245) + chr(56)))
+                                bbWb6RlmY6 = J0kwOL8W1W(bbWb6RlmY6, lecxhbCcMa(M62917xPfp(b')'), '\144' + chr(0b1001 + 0o134) + chr(4586 - 4487) + '\157' + chr(0b1011111 + 0o5) + chr(9404 - 9303))(chr(7554 - 7437) + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + '\x38'))
+                                for (bR7GNEQt0y, IIWuBukGB_) in lecxhbCcMa(bbWb6RlmY6, lecxhbCcMa(M62917xPfp(b')q&\xf7<'), chr(3176 - 3076) + '\x65' + '\x63' + '\157' + '\144' + '\x65')(chr(0b1000010 + 0o63) + chr(0b1110100) + chr(0b10010 + 0o124) + chr(0b11000 + 0o25) + '\070'))():
+                                    LRA3DcPn3Y[bR7GNEQt0y] = IIWuBukGB_
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + '\145' + chr(99) + chr(0b1101111) + chr(0b10110 + 0o116) + chr(0b1100101))(chr(0b1001011 + 0o52) + chr(617 - 501) + chr(4614 - 4512) + chr(0b101101) + chr(2716 - 2660)))(AxW30Kp7UK)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), '\144' + chr(101) + chr(0b1100011) + chr(111) + chr(0b1100100) + chr(101))('\165' + '\x74' + chr(1723 - 1621) + chr(0b0 + 0o55) + '\070')
                             else:
-                                rg = InfVetor_visualg(line)
-                                if ("X" in rg):
-                                    rg = rg.split("X")
-                                    lax = line.split(":")
-                                    lax2 = lax[0].strip()
-                                    varis[lax2] = r"%d"
-                                    lax2 = "int " + lax2 + "[" + rg[0] + "]"+"[" + rg[1] + "];"
-                                    C_codeSplit.append(lax2)
-                                    lax = ""
-                                    lax2 = "" 
+                                Y7tstDcWjW = ChlnZLX8BQ(rP1opCG3tZ)
+                                if lecxhbCcMa(M62917xPfp(b'\x18'), chr(0b1100100) + chr(0b1100101) + chr(0b1100011) + chr(0b110010 + 0o75) + chr(0b111101 + 0o47) + chr(0b1100101))('\x75' + chr(0b1110100) + '\x66' + chr(1687 - 1642) + '\070') in Y7tstDcWjW:
+                                    Y7tstDcWjW = Y7tstDcWjW.split(lecxhbCcMa(M62917xPfp(b'\x18'), chr(0b1100100) + '\x65' + '\143' + '\x6f' + chr(0b1100100) + '\145')(chr(0b1100111 + 0o16) + chr(0b11011 + 0o131) + chr(102) + chr(0b11 + 0o52) + '\x38'))
+                                    AxW30Kp7UK = rP1opCG3tZ.split(lecxhbCcMa(M62917xPfp(b'z'), chr(100) + chr(0b1011101 + 0o10) + chr(0b1 + 0o142) + '\157' + chr(0b1100100) + chr(101))(chr(0b1101010 + 0o13) + '\x74' + chr(10133 - 10031) + chr(0b101101) + chr(1302 - 1246)))
+                                    d54k1cxsXC = AxW30Kp7UK[h0J2gI7PnA(chr(48) + chr(11425 - 11314) + chr(1470 - 1422), 8)].strip()
+                                    LRA3DcPn3Y[d54k1cxsXC] = lecxhbCcMa(M62917xPfp(b'ea'), chr(0b1100100 + 0o0) + '\145' + chr(99) + chr(0b1101111) + '\x64' + '\145')(chr(117) + chr(0b110111 + 0o75) + '\x66' + chr(0b101101) + '\070')
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b')k7\xba'), chr(4991 - 4891) + chr(101) + chr(0b1100011) + chr(0b1101111) + chr(100) + '\145')('\x75' + chr(0b1011110 + 0o26) + chr(0b101101 + 0o71) + chr(1976 - 1931) + '\x38') + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(101) + chr(0b1100011) + '\x6f' + chr(9179 - 9079) + '\145')(chr(0b1101010 + 0o13) + '\x74' + '\146' + '\055' + chr(0b111000)) + Y7tstDcWjW[h0J2gI7PnA(chr(0b1101 + 0o43) + '\157' + chr(0b10 + 0o56), 8)] + lecxhbCcMa(M62917xPfp(b'\x1d'), chr(100) + chr(738 - 637) + chr(5140 - 5041) + chr(0b1011 + 0o144) + chr(0b1001101 + 0o27) + chr(101))(chr(0b110000 + 0o105) + chr(0b1110100) + chr(0b10011 + 0o123) + '\055' + chr(2039 - 1983)) + lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(4641 - 4540) + chr(1533 - 1434) + chr(111) + '\144' + '\145')('\x75' + chr(116) + chr(102) + '\055' + chr(0b100101 + 0o23)) + Y7tstDcWjW[h0J2gI7PnA(chr(0b110000) + chr(1228 - 1117) + '\061', 8)] + lecxhbCcMa(M62917xPfp(b'\x1d>'), '\144' + '\145' + '\143' + chr(111) + '\144' + chr(0b1011010 + 0o13))(chr(0b1110101) + chr(0b1000011 + 0o61) + chr(0b1100110) + chr(0b10010 + 0o33) + chr(0b100 + 0o64))
+                                    lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(6064 - 5963) + '\x63' + chr(0b1011000 + 0o27) + chr(100) + chr(0b101011 + 0o72))(chr(0b1110101) + chr(116) + '\146' + '\x2d' + chr(56)))(d54k1cxsXC)
+                                    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(9942 - 9842) + chr(0b1010 + 0o133) + '\143' + chr(111) + '\x64' + '\145')(chr(0b1110101 + 0o0) + '\x74' + '\146' + chr(334 - 289) + '\x38')
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(0b101011 + 0o72) + chr(0b1100011) + '\157' + '\x64' + chr(0b1100010 + 0o3))('\165' + chr(0b1110100) + chr(0b100001 + 0o105) + chr(45) + chr(0b111000))
                                 else:
-                                    lax = line.split(":")
-                                    lax2 = lax[0].strip()
-                                    varis[lax2] = r"%d"
-                                    lax2 = "int " + lax2 + "[" + rg + "];"
-                                    C_codeSplit.append(lax2)
-                                    lax = ""
-                                    lax2 = ""
-                                    
-                        if ("real" in line and not '"' in line):
-                            if ("[" not in line):
-                                line = line.strip()
-                                lax = "float " + line.replace(":", ";")
-                                lax = lax.replace("real", "")
-                                lax = lax.strip()
-                                Dx = extract_varName(lax,'f')
-                                Dx = addVarName_DictList(Dx, 'f')
-                                for key, value in Dx.items():
-                                    varis[key] = value
-                                C_codeSplit.append(lax)
-                                lax = ""
-                            
+                                    AxW30Kp7UK = rP1opCG3tZ.split(lecxhbCcMa(M62917xPfp(b'z'), chr(0b1010100 + 0o20) + chr(0b1010110 + 0o17) + chr(2796 - 2697) + chr(0b100010 + 0o115) + '\x64' + '\x65')(chr(117) + chr(0b1110100) + '\146' + chr(45) + chr(2466 - 2410)))
+                                    d54k1cxsXC = AxW30Kp7UK[h0J2gI7PnA(chr(765 - 717) + chr(0b10010 + 0o135) + '\x30', 8)].strip()
+                                    LRA3DcPn3Y[d54k1cxsXC] = lecxhbCcMa(M62917xPfp(b'ea'), chr(7217 - 7117) + '\145' + '\x63' + chr(111) + '\x64' + chr(5222 - 5121))(chr(0b1000001 + 0o64) + '\164' + '\146' + chr(1661 - 1616) + chr(0b101100 + 0o14))
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b')k7\xba'), chr(9777 - 9677) + chr(101) + chr(2161 - 2062) + '\x6f' + chr(7355 - 7255) + '\x65')('\x75' + chr(9655 - 9539) + chr(0b101001 + 0o75) + chr(0b100110 + 0o7) + chr(0b10010 + 0o46)) + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + chr(101) + chr(0b1100011) + chr(0b1101111) + '\144' + '\x65')(chr(117) + chr(0b1100101 + 0o17) + '\146' + chr(0b10 + 0o53) + '\x38') + Y7tstDcWjW + lecxhbCcMa(M62917xPfp(b'\x1d>'), chr(5041 - 4941) + chr(101) + chr(0b1100011) + chr(5145 - 5034) + chr(100) + chr(9980 - 9879))(chr(12743 - 12626) + chr(116) + '\146' + '\055' + chr(233 - 177))
+                                    lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100010 + 0o2) + chr(101) + chr(99) + chr(0b11000 + 0o127) + chr(100) + '\145')(chr(0b1010001 + 0o44) + '\x74' + '\x66' + chr(45) + '\x38'))(d54k1cxsXC)
+                                    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b1011000 + 0o14) + '\145' + chr(0b1100010 + 0o1) + chr(9882 - 9771) + '\144' + chr(101))(chr(12434 - 12317) + chr(116) + chr(0b1100110) + chr(45) + '\x38')
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), '\144' + chr(0b11110 + 0o107) + chr(0b1110 + 0o125) + chr(6504 - 6393) + '\144' + '\145')(chr(0b1110101) + chr(0b101001 + 0o113) + chr(8384 - 8282) + chr(45) + '\070')
+                        if lecxhbCcMa(M62917xPfp(b'2`"\xf6'), '\x64' + chr(101) + chr(0b1100011) + chr(111) + chr(5440 - 5340) + '\x65')('\165' + chr(116) + chr(9986 - 9884) + '\055' + '\x38') in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'b'), chr(100) + chr(0b100001 + 0o104) + chr(0b1100011) + '\x6f' + chr(0b1100100) + chr(0b1000011 + 0o42))(chr(117) + '\164' + '\146' + chr(1549 - 1504) + '\x38') in rP1opCG3tZ):
+                            if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + chr(101) + chr(99) + chr(6787 - 6676) + chr(0b1100100) + chr(0b1100101))(chr(117) + '\x74' + chr(0b1100110) + chr(45) + chr(547 - 491)) not in rP1opCG3tZ:
+                                rP1opCG3tZ = rP1opCG3tZ.strip()
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'&i,\xfb;\x82'), chr(4659 - 4559) + chr(0b100 + 0o141) + '\143' + chr(0b1011111 + 0o20) + chr(0b11010 + 0o112) + chr(0b1000011 + 0o42))(chr(0b1110101) + chr(116) + chr(0b1100110) + chr(45) + chr(0b101101 + 0o13)) + rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'z'), chr(0b1010001 + 0o23) + '\x65' + '\x63' + '\157' + chr(0b1100100) + '\x65')('\165' + chr(0b10111 + 0o135) + chr(102) + chr(0b101101) + chr(0b110 + 0o62)), lecxhbCcMa(M62917xPfp(b'{'), '\x64' + chr(5829 - 5728) + chr(99) + chr(111) + chr(100) + '\145')(chr(0b110010 + 0o103) + chr(0b110011 + 0o101) + chr(102) + chr(288 - 243) + '\x38'))
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'2`"\xf6'), '\x64' + chr(0b110001 + 0o64) + '\x63' + chr(111) + chr(100) + chr(101))(chr(117) + chr(0b1100 + 0o150) + '\x66' + chr(1433 - 1388) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(101) + chr(0b1100011) + chr(111) + chr(0b1100100) + chr(6610 - 6509))(chr(117) + chr(0b1110010 + 0o2) + '\x66' + '\x2d' + chr(0b111000)))
+                                AxW30Kp7UK = AxW30Kp7UK.strip()
+                                bbWb6RlmY6 = GTSN7xvwof(AxW30Kp7UK, lecxhbCcMa(M62917xPfp(b'&'), '\x64' + '\145' + chr(3761 - 3662) + chr(3610 - 3499) + chr(0b1100100) + '\145')(chr(0b1110101) + chr(12445 - 12329) + chr(178 - 76) + chr(0b111 + 0o46) + chr(56)))
+                                bbWb6RlmY6 = J0kwOL8W1W(bbWb6RlmY6, lecxhbCcMa(M62917xPfp(b'&'), '\144' + '\x65' + '\143' + '\157' + '\144' + '\x65')(chr(117) + '\x74' + chr(0b11111 + 0o107) + '\055' + chr(3030 - 2974)))
+                                for (bR7GNEQt0y, IIWuBukGB_) in lecxhbCcMa(bbWb6RlmY6, lecxhbCcMa(M62917xPfp(b')q&\xf7<'), chr(0b1100100) + chr(0b1100101) + chr(0b1100010 + 0o1) + chr(0b11101 + 0o122) + '\144' + '\x65')('\165' + chr(0b1110100) + chr(0b1100110) + chr(472 - 427) + chr(56)))():
+                                    LRA3DcPn3Y[bR7GNEQt0y] = IIWuBukGB_
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b1001010 + 0o33) + chr(99) + chr(5599 - 5488) + chr(2718 - 2618) + '\145')('\x75' + chr(2413 - 2297) + '\146' + chr(0b0 + 0o55) + '\070'))(AxW30Kp7UK)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(2280 - 2180) + '\x65' + chr(0b1100011) + '\157' + chr(0b1000100 + 0o40) + '\145')(chr(0b1110101) + chr(0b1110100) + chr(102) + '\x2d' + chr(396 - 340))
                             else:
-                                rg = InfVetor_visualg(line)
-                                if ("X" in rg):
-                                    rg = rg.split("X")
-                                    lax = line.split(":")
-                                    lax2 = lax[0].strip()
-                                    varis[lax2] = r"%f"
-                                    lax2 = "float " + lax2 + "[" + rg[0] + "]"+"[" + rg[1] + "];"
-                                    C_codeSplit.append(lax2)
-                                    lax = ""
-                                    lax2 = "" 
+                                Y7tstDcWjW = ChlnZLX8BQ(rP1opCG3tZ)
+                                if lecxhbCcMa(M62917xPfp(b'\x18'), chr(976 - 876) + chr(5493 - 5392) + chr(9222 - 9123) + '\x6f' + '\x64' + '\145')('\x75' + '\x74' + chr(0b1100110) + chr(1434 - 1389) + chr(56)) in Y7tstDcWjW:
+                                    Y7tstDcWjW = Y7tstDcWjW.split(lecxhbCcMa(M62917xPfp(b'\x18'), '\144' + chr(101) + chr(0b10111 + 0o114) + chr(0b111110 + 0o61) + chr(0b11010 + 0o112) + chr(8524 - 8423))('\x75' + '\164' + chr(0b1101 + 0o131) + '\x2d' + chr(56)))
+                                    AxW30Kp7UK = rP1opCG3tZ.split(lecxhbCcMa(M62917xPfp(b'z'), chr(9572 - 9472) + chr(101) + '\143' + chr(0b1101111) + chr(0b1010001 + 0o23) + chr(0b1011 + 0o132))(chr(0b1110101) + chr(116) + '\146' + '\055' + chr(0b111000)))
+                                    d54k1cxsXC = AxW30Kp7UK[h0J2gI7PnA(chr(2095 - 2047) + '\x6f' + chr(0b110 + 0o52), 8)].strip()
+                                    LRA3DcPn3Y[d54k1cxsXC] = lecxhbCcMa(M62917xPfp(b'ec'), chr(5820 - 5720) + chr(1408 - 1307) + '\x63' + chr(11752 - 11641) + '\144' + '\x65')(chr(0b10100 + 0o141) + chr(0b100110 + 0o116) + chr(102) + chr(45) + '\070')
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'&i,\xfb;\x82'), '\144' + chr(8518 - 8417) + chr(5504 - 5405) + '\157' + chr(0b11011 + 0o111) + chr(2757 - 2656))(chr(0b101011 + 0o112) + chr(0b1110100) + chr(0b1100110) + '\055' + '\x38') + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'\x1b'), chr(2774 - 2674) + chr(101) + '\143' + chr(0b110000 + 0o77) + '\144' + '\x65')(chr(0b1010001 + 0o44) + chr(0b10111 + 0o135) + chr(0b1010001 + 0o25) + '\x2d' + '\x38') + Y7tstDcWjW[h0J2gI7PnA(chr(0b110000) + chr(111) + '\060', 8)] + lecxhbCcMa(M62917xPfp(b'\x1d'), '\x64' + chr(101) + chr(0b1100011) + chr(111) + chr(100) + chr(101))(chr(117) + '\164' + '\x66' + '\x2d' + '\x38') + lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(0b1100101) + chr(0b11010 + 0o111) + chr(7428 - 7317) + chr(0b1110 + 0o126) + '\x65')('\165' + chr(116) + '\x66' + chr(76 - 31) + chr(0b101100 + 0o14)) + Y7tstDcWjW[h0J2gI7PnA(chr(1191 - 1143) + chr(0b1101111) + '\061', 8)] + lecxhbCcMa(M62917xPfp(b'\x1d>'), '\144' + chr(101) + chr(3357 - 3258) + chr(0b1101111) + chr(0b1000010 + 0o42) + '\145')(chr(0b1110101) + '\164' + chr(585 - 483) + '\x2d' + chr(56))
+                                    lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(9786 - 9685) + chr(99) + chr(9095 - 8984) + chr(0b1100100) + '\x65')('\x75' + '\x74' + chr(0b1100010 + 0o4) + chr(0b101101) + '\x38'))(d54k1cxsXC)
+                                    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(4048 - 3948) + '\x65' + chr(8766 - 8667) + chr(0b1101111) + chr(367 - 267) + '\145')('\165' + chr(116) + '\146' + chr(1072 - 1027) + '\070')
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(0b1100101) + '\x63' + chr(0b1101111) + chr(0b1100100) + chr(4490 - 4389))(chr(0b11010 + 0o133) + chr(0b100100 + 0o120) + chr(5390 - 5288) + '\x2d' + chr(56))
                                 else:
-                                    lax = line.split(":")
-                                    lax2 = lax[0].strip()
-                                    varis[lax2] = r"%f"
-                                    lax2 = "float " + lax2 + "[" + rg + "];"
-                                    C_codeSplit.append(lax2)
-                                    lax = ""
-                                    lax2 = ""
-
-                        if ("caractere" in line  and not '"' in line):
-                            if ("[" not in line):
-                                line = line.strip()
-                                lax = "char " + line.replace(":", "[100];")
-                                lax = lax.replace("caractere", "")
-                                lax = lax.strip()
-                                Dx = extract_varName(lax,'s')
-                                Dx = addVarName_DictList(Dx, 's')
-                                for key, value in Dx.items():
-                                    varis[key] = value
-                                C_codeSplit.append(lax)
-                                lax = ""
-                            
+                                    AxW30Kp7UK = rP1opCG3tZ.split(lecxhbCcMa(M62917xPfp(b'z'), '\x64' + chr(4889 - 4788) + '\143' + chr(0b111111 + 0o60) + '\x64' + chr(0b1100101))('\x75' + chr(9525 - 9409) + chr(0b111111 + 0o47) + chr(0b101101) + chr(3082 - 3026)))
+                                    d54k1cxsXC = AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(9624 - 9513) + chr(842 - 794), 8)].strip()
+                                    LRA3DcPn3Y[d54k1cxsXC] = lecxhbCcMa(M62917xPfp(b'ec'), '\144' + chr(6276 - 6175) + chr(0b1001011 + 0o30) + chr(0b1101111) + '\x64' + '\145')(chr(0b1 + 0o164) + chr(0b100100 + 0o120) + '\x66' + '\055' + '\x38')
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'&i,\xfb;\x82'), chr(100) + '\x65' + chr(0b1100011) + '\x6f' + chr(100) + chr(0b110000 + 0o65))('\x75' + '\164' + chr(102) + '\x2d' + chr(2625 - 2569)) + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'\x1b'), chr(2176 - 2076) + chr(0b111001 + 0o54) + chr(0b1100011) + '\157' + chr(100) + '\145')(chr(117) + chr(116) + '\x66' + chr(1255 - 1210) + chr(0b111000)) + Y7tstDcWjW + lecxhbCcMa(M62917xPfp(b'\x1d>'), chr(0b1100100) + chr(4274 - 4173) + chr(0b10111 + 0o114) + chr(0b1000001 + 0o56) + chr(9475 - 9375) + '\145')('\x75' + chr(12985 - 12869) + '\x66' + chr(0b101101) + chr(56))
+                                    lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(6196 - 6096) + chr(0b1100101) + '\143' + chr(0b1101111) + chr(8216 - 8116) + '\x65')(chr(0b100111 + 0o116) + chr(0b11101 + 0o127) + chr(0b1100110) + chr(1915 - 1870) + '\070'))(d54k1cxsXC)
+                                    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), '\x64' + '\145' + '\x63' + chr(0b1101111) + '\144' + chr(101))('\165' + chr(116) + chr(0b1100110) + '\055' + chr(0b111000))
+                                    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), '\144' + chr(101) + chr(0b1011110 + 0o5) + '\157' + chr(100) + chr(0b1100101))('\165' + chr(0b110010 + 0o102) + '\146' + chr(0b1110 + 0o37) + chr(0b111000))
+                        if lecxhbCcMa(M62917xPfp(b'#d1\xfb,\xd6M\x16;'), '\x64' + chr(0b11001 + 0o114) + chr(0b1000000 + 0o43) + chr(0b110 + 0o151) + chr(100) + chr(101))('\165' + chr(116) + chr(0b1100 + 0o132) + chr(190 - 145) + chr(2631 - 2575)) in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'b'), chr(0b110001 + 0o63) + chr(0b1100101) + chr(1400 - 1301) + '\x6f' + chr(1331 - 1231) + chr(3349 - 3248))(chr(0b101011 + 0o112) + '\x74' + '\146' + chr(0b100101 + 0o10) + chr(56)) in rP1opCG3tZ):
+                            if lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(101) + chr(0b0 + 0o143) + chr(0b1100 + 0o143) + '\x64' + chr(0b1100101))('\x75' + chr(116) + chr(0b1100110) + chr(45) + chr(0b0 + 0o70)) not in rP1opCG3tZ:
+                                rP1opCG3tZ = rP1opCG3tZ.strip()
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'#m"\xe8o'), chr(0b1100100) + chr(0b1000111 + 0o36) + chr(0b1100011) + '\x6f' + chr(0b1100100) + chr(1508 - 1407))(chr(0b1110101) + chr(0b1110100) + chr(3795 - 3693) + chr(0b1001 + 0o44) + chr(0b111000)) + rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'z'), '\144' + chr(0b1100101) + chr(0b111100 + 0o47) + chr(0b1101101 + 0o2) + chr(1021 - 921) + chr(0b1100101))(chr(10968 - 10851) + chr(0b1110100) + chr(102) + chr(0b101101) + chr(2259 - 2203)), lecxhbCcMa(M62917xPfp(b'\x1b4s\xaa\x12\x99'), chr(8656 - 8556) + chr(101) + chr(7442 - 7343) + chr(6566 - 6455) + '\144' + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(102) + '\055' + chr(0b11110 + 0o32)))
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'#d1\xfb,\xd6M\x16;'), chr(9153 - 9053) + '\145' + chr(0b1100011) + chr(0b1010 + 0o145) + '\x64' + chr(101))(chr(117) + '\164' + chr(0b100 + 0o142) + chr(0b101101) + '\x38'), lecxhbCcMa(M62917xPfp(b''), chr(0b1100010 + 0o2) + '\145' + '\143' + chr(111) + chr(0b1100100) + chr(0b1001 + 0o134))('\x75' + chr(0b1011000 + 0o34) + chr(0b1100110) + chr(45) + chr(117 - 61)))
+                                AxW30Kp7UK = AxW30Kp7UK.strip()
+                                bbWb6RlmY6 = GTSN7xvwof(AxW30Kp7UK, lecxhbCcMa(M62917xPfp(b'3'), chr(9684 - 9584) + chr(541 - 440) + '\x63' + chr(111) + chr(100) + '\145')(chr(192 - 75) + chr(0b11001 + 0o133) + chr(102) + chr(45) + '\x38'))
+                                bbWb6RlmY6 = J0kwOL8W1W(bbWb6RlmY6, lecxhbCcMa(M62917xPfp(b'3'), chr(8146 - 8046) + '\145' + '\x63' + chr(0b1101111) + chr(7337 - 7237) + chr(0b111 + 0o136))(chr(0b101000 + 0o115) + chr(116) + chr(0b1100 + 0o132) + chr(713 - 668) + chr(0b111000)))
+                                for (bR7GNEQt0y, IIWuBukGB_) in lecxhbCcMa(bbWb6RlmY6, lecxhbCcMa(M62917xPfp(b')q&\xf7<'), '\x64' + '\x65' + chr(99) + chr(0b1101111) + chr(100) + '\x65')(chr(0b1110101) + chr(116) + '\146' + '\055' + chr(783 - 727)))():
+                                    LRA3DcPn3Y[bR7GNEQt0y] = IIWuBukGB_
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1000001 + 0o43) + '\145' + '\x63' + '\157' + '\144' + chr(6399 - 6298))('\165' + chr(5645 - 5529) + '\146' + chr(45) + chr(2141 - 2085)))(AxW30Kp7UK)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(100) + '\145' + '\143' + chr(9377 - 9266) + chr(0b1100100) + chr(0b100101 + 0o100))('\x75' + '\x74' + chr(4649 - 4547) + chr(1014 - 969) + chr(2954 - 2898))
                             else:
-                                rg = InfVetor_visualg(line)
-                                lax = line.split(":")
-                                lax2 = lax[0].strip()
-                                varis[lax2] = r"%s"
-                                lax2 = "char " + lax2 + "[100]"+"[" + rg + "];"
-                                C_codeSplit.append(lax2)
-                                lax = ""
-                                lax2 = ""
-
-
-                        if (("=" in line or "<>" in line) and line.count('"') >= 2):
-                            lax = unidecode(line)
-                            
-                            lax2 = lax
-                            if "enquanto" in lax:
-                                lax = lax.replace("enquanto" , "")
-                                lax = lax.replace("faca" , "")
-                                typ = "enqt"
-                            if "ate" in lax:
-                                lax = lax.replace("ate", "")
-                                if "<>" in lax:
-                                    lax = lax.replace("<>", "=")
+                                Y7tstDcWjW = ChlnZLX8BQ(rP1opCG3tZ)
+                                AxW30Kp7UK = rP1opCG3tZ.split(lecxhbCcMa(M62917xPfp(b'z'), chr(0b10 + 0o142) + chr(0b10001 + 0o124) + '\x63' + chr(3178 - 3067) + '\x64' + '\145')('\x75' + chr(0b1110100) + chr(0b111100 + 0o52) + chr(0b101101) + chr(0b1101 + 0o53)))
+                                d54k1cxsXC = AxW30Kp7UK[h0J2gI7PnA(chr(48) + '\x6f' + '\x30', 8)].strip()
+                                LRA3DcPn3Y[d54k1cxsXC] = lecxhbCcMa(M62917xPfp(b'ev'), chr(100) + chr(0b1100101) + chr(2686 - 2587) + chr(111) + chr(0b1100100) + chr(0b10100 + 0o121))(chr(0b101111 + 0o106) + chr(0b1110100) + chr(0b1100110) + chr(381 - 336) + '\x38')
+                                d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'#m"\xe8o'), '\x64' + chr(0b1100101) + '\x63' + '\x6f' + chr(0b1100100) + chr(0b1100101))('\165' + '\164' + chr(1785 - 1683) + '\x2d' + '\x38') + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'\x1b4s\xaa\x12'), chr(9315 - 9215) + chr(0b1100101) + '\x63' + '\x6f' + chr(0b1001011 + 0o31) + chr(0b11101 + 0o110))(chr(0b1110101) + chr(0b1100011 + 0o21) + chr(102) + '\x2d' + chr(56)) + lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + '\x65' + chr(6999 - 6900) + chr(2309 - 2198) + chr(0b110111 + 0o55) + chr(0b1000000 + 0o45))(chr(0b1110101) + chr(0b1110100) + '\146' + '\x2d' + '\x38') + Y7tstDcWjW + lecxhbCcMa(M62917xPfp(b'\x1d>'), chr(100) + chr(0b1100100 + 0o1) + chr(0b1100011) + chr(6314 - 6203) + chr(0b1100100) + '\x65')(chr(117) + chr(0b1110100) + '\146' + chr(0b100000 + 0o15) + '\070')
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(4510 - 4409) + chr(0b1010010 + 0o21) + '\x6f' + '\x64' + chr(0b1100101))(chr(0b1110100 + 0o1) + chr(116) + chr(0b1110 + 0o130) + '\055' + '\070'))(d54k1cxsXC)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(1326 - 1226) + chr(0b1100101) + '\143' + chr(111) + '\x64' + '\145')('\165' + chr(7740 - 7624) + '\146' + chr(1638 - 1593) + chr(1124 - 1068))
+                                d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), chr(100) + '\x65' + chr(99) + chr(0b1101111) + '\144' + chr(0b1100101))('\165' + '\x74' + chr(0b1000011 + 0o43) + '\055' + '\x38')
+                        if (lecxhbCcMa(M62917xPfp(b'}'), chr(0b1100100) + chr(4391 - 4290) + '\x63' + chr(0b110101 + 0o72) + chr(100) + chr(7911 - 7810))(chr(11555 - 11438) + '\x74' + chr(0b1011010 + 0o14) + chr(45) + chr(56)) in rP1opCG3tZ or lecxhbCcMa(M62917xPfp(b'|;'), '\144' + '\145' + chr(6589 - 6490) + chr(0b10101 + 0o132) + '\x64' + '\x65')('\x75' + '\164' + '\146' + chr(0b101101) + chr(795 - 739)) in rP1opCG3tZ) and lecxhbCcMa(rP1opCG3tZ, lecxhbCcMa(M62917xPfp(b'#j6\xf4;'), '\x64' + chr(7704 - 7603) + '\x63' + '\157' + chr(0b11001 + 0o113) + chr(0b1001010 + 0o33))(chr(0b1000010 + 0o63) + chr(0b1110100) + '\146' + chr(0b111 + 0o46) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b'b'), '\144' + '\145' + chr(0b1100011) + '\157' + '\144' + chr(2056 - 1955))(chr(117) + '\164' + '\146' + chr(1021 - 976) + chr(56))) >= h0J2gI7PnA(chr(48) + chr(3714 - 3603) + chr(0b110010), 8):
+                            AxW30Kp7UK = jiSsxIKE6_(rP1opCG3tZ)
+                            d54k1cxsXC = AxW30Kp7UK
+                            if lecxhbCcMa(M62917xPfp(b'%k2\xef.\xcc\\\x0b'), '\144' + '\x65' + chr(0b1100011) + chr(7767 - 7656) + '\x64' + '\145')('\165' + chr(0b1110100) + chr(5154 - 5052) + chr(1663 - 1618) + chr(56)) in AxW30Kp7UK:
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'%k2\xef.\xcc\\\x0b'), chr(0b1100100) + chr(0b10110 + 0o117) + '\143' + chr(111) + chr(0b10111 + 0o115) + '\x65')('\x75' + chr(116) + chr(0b1011011 + 0o13) + chr(0b101101) + chr(0b10011 + 0o45)), lecxhbCcMa(M62917xPfp(b''), chr(7518 - 7418) + chr(101) + '\143' + chr(9622 - 9511) + chr(0b1100100) + chr(8615 - 8514))(chr(117) + '\x74' + chr(1797 - 1695) + chr(69 - 24) + chr(56)))
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'&d \xfb'), chr(0b1100100) + '\x65' + '\143' + chr(6648 - 6537) + chr(0b10101 + 0o117) + chr(6744 - 6643))('\x75' + '\x74' + '\x66' + chr(0b101101) + chr(56)), lecxhbCcMa(M62917xPfp(b''), '\144' + '\x65' + chr(99) + chr(0b1101111) + chr(0b1100100) + chr(0b1100101))(chr(117) + chr(0b1110100) + '\146' + chr(1655 - 1610) + chr(0b111000)))
+                                rY_nGNmw83 = lecxhbCcMa(M62917xPfp(b'%k2\xee'), chr(0b100 + 0o140) + chr(101) + chr(99) + chr(0b100010 + 0o115) + chr(6896 - 6796) + '\145')('\x75' + chr(3581 - 3465) + '\x66' + chr(45) + chr(0b110100 + 0o4))
+                            if lecxhbCcMa(M62917xPfp(b'!q&'), chr(0b1100100) + chr(0b1100010 + 0o3) + chr(2770 - 2671) + chr(0b1111 + 0o140) + chr(100) + chr(0b1100101))(chr(2898 - 2781) + chr(116) + chr(102) + chr(45) + '\x38') in AxW30Kp7UK:
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'!q&'), '\x64' + chr(0b110001 + 0o64) + chr(99) + chr(111) + chr(0b1100100) + '\145')(chr(117) + '\164' + chr(0b10000 + 0o126) + '\055' + chr(0b100000 + 0o30)), lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(0b1100101) + chr(0b1000001 + 0o42) + '\157' + '\144' + '\145')(chr(13686 - 13569) + chr(0b1101 + 0o147) + '\146' + chr(0b101100 + 0o1) + '\x38'))
+                                if lecxhbCcMa(M62917xPfp(b'|;'), chr(0b100001 + 0o103) + chr(0b1011101 + 0o10) + chr(0b1100011) + chr(0b1101111) + '\x64' + chr(5718 - 5617))(chr(6801 - 6684) + chr(5388 - 5272) + '\146' + chr(694 - 649) + chr(0b111000)) in AxW30Kp7UK:
+                                    AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'|;'), chr(0b110011 + 0o61) + chr(7163 - 7062) + chr(0b101001 + 0o72) + chr(0b101001 + 0o106) + '\x64' + chr(101))(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(45) + chr(2717 - 2661)), lecxhbCcMa(M62917xPfp(b'}'), chr(0b1100100) + chr(0b110001 + 0o64) + chr(0b101111 + 0o64) + chr(12238 - 12127) + chr(0b1100100) + '\145')(chr(0b101110 + 0o107) + chr(0b1110100) + chr(349 - 247) + chr(1508 - 1463) + chr(56)))
                                 else:
-                                    lax = lax.replace("=", "<>")
-                                typ = "at"
-                            if "entao" in lax:
-                                lax = lax.replace("se", "")
-                                lax = lax.replace("entao", "")
-                                typ = "ent"
-                            
-                            lax = lax.strip()
-                            if not "(" in lax and not ")" in lax:
-                                lax = "(" + lax + ")"
-                            
-                            parent = strBib_ADD(lax)
-
-                            raill = typ
-
-                            if raill == "enqt":
-                                lax = "enquanto " + parent + " faca"
-                            elif raill == "at":
-                                lax = "ate " + parent 
-                            elif raill == "ent":
-                                lax = "se " + parent + "entao"
-
-                            line = lax
-                            
-                            if ttttttttttttttttttttttttt == 0:
-                                C_codeSplit.insert(1, "#include<string.h>")
-                                ttttttttttttttttttttttttt += 1
-
-
-
-
-
-                        if ("inicio" in unidecode(line.strip().lower())):
-                            ale = randrange(0,10)
-                            if (ale%2==0):
-                                C_codeSplit.append("")
-                            C_codeSplit.append("int main(){")
-                        if ("fimalgoritmo" in line):
-                            C_codeSplit.append("}")
-                        
-                        if ("para" in line and "fimpara" not in line):
-                            infs = InfPara_visualg(line)
-                            if len(infs) != 0:
-                                lax = str("for(" + infs[0] + " = ")
-                                if is_number(infs[1]) == True and is_number(infs[2]) == True and is_number(infs[3]) == True:
-                                    if ((int(infs[1])<int(infs[2])) and int(infs[3])>0):
-                                        if infs[1] == "1":
-                                            lax = lax + "0; " + infs[0] +  " < "+ infs[2] + "; "
+                                    AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'}'), '\144' + chr(0b1100011 + 0o2) + chr(0b101110 + 0o65) + '\157' + chr(100) + chr(101))('\x75' + '\164' + '\146' + chr(1663 - 1618) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'|;'), chr(4789 - 4689) + chr(101) + chr(3720 - 3621) + '\x6f' + '\x64' + chr(0b11001 + 0o114))(chr(4129 - 4012) + chr(0b1110100) + '\x66' + '\055' + '\x38'))
+                                rY_nGNmw83 = lecxhbCcMa(M62917xPfp(b'!q'), chr(5428 - 5328) + '\145' + '\x63' + '\157' + '\x64' + chr(101))(chr(0b1110101) + chr(0b1110100) + '\146' + chr(258 - 213) + chr(56))
+                            if lecxhbCcMa(M62917xPfp(b'%k7\xfb '), chr(4544 - 4444) + chr(0b1011 + 0o132) + chr(0b101000 + 0o73) + chr(0b1101111) + '\144' + chr(101))(chr(4557 - 4440) + chr(116) + chr(0b1011 + 0o133) + chr(45) + chr(842 - 786)) in AxW30Kp7UK:
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'3`'), chr(100) + chr(0b1100101) + chr(0b110010 + 0o61) + chr(10950 - 10839) + chr(0b10010 + 0o122) + chr(0b110 + 0o137))('\165' + chr(116) + chr(0b1100110) + '\x2d' + chr(1405 - 1349)), lecxhbCcMa(M62917xPfp(b''), '\x64' + '\x65' + '\x63' + '\157' + chr(7152 - 7052) + '\x65')(chr(117) + chr(0b101011 + 0o111) + chr(102) + chr(441 - 396) + chr(0b110101 + 0o3)))
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'%k7\xfb '), chr(0b1111 + 0o125) + chr(101) + chr(99) + chr(111) + chr(0b1100100) + chr(3296 - 3195))('\x75' + chr(160 - 44) + chr(9678 - 9576) + chr(45) + chr(2418 - 2362)), lecxhbCcMa(M62917xPfp(b''), chr(0b1011111 + 0o5) + chr(101) + chr(99) + chr(111) + chr(0b1100100) + chr(101))('\165' + '\x74' + '\x66' + chr(45) + '\070'))
+                                rY_nGNmw83 = lecxhbCcMa(M62917xPfp(b'%k7'), chr(8414 - 8314) + chr(101) + '\x63' + '\x6f' + chr(4906 - 4806) + chr(101))(chr(13309 - 13192) + chr(0b1110100) + '\146' + chr(45) + chr(0b10000 + 0o50))
+                            AxW30Kp7UK = AxW30Kp7UK.strip()
+                            if not lecxhbCcMa(M62917xPfp(b'h'), '\x64' + '\x65' + chr(99) + chr(4601 - 4490) + '\x64' + '\145')(chr(0b1101100 + 0o11) + '\x74' + chr(9043 - 8941) + '\055' + chr(1242 - 1186)) in AxW30Kp7UK and (not lecxhbCcMa(M62917xPfp(b'i'), chr(100) + chr(0b1010110 + 0o17) + '\x63' + '\157' + chr(100) + chr(0b1100101))(chr(0b1110101) + chr(10519 - 10403) + chr(102) + '\055' + chr(0b11010 + 0o36)) in AxW30Kp7UK):
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'h'), chr(100) + '\x65' + chr(99) + '\x6f' + '\x64' + '\145')('\165' + '\164' + '\x66' + '\055' + '\070') + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), chr(0b1 + 0o143) + '\x65' + chr(2902 - 2803) + chr(0b1010010 + 0o35) + chr(100) + chr(101))(chr(0b1110101) + '\x74' + '\x66' + chr(45) + '\x38')
+                            oTFV5eevoJ = uMA4AeYmXg(AxW30Kp7UK)
+                            lpKy2UQTOt = rY_nGNmw83
+                            if lpKy2UQTOt == lecxhbCcMa(M62917xPfp(b'%k2\xee'), '\144' + chr(101) + chr(0b100101 + 0o76) + '\157' + '\x64' + '\x65')(chr(117) + chr(6477 - 6361) + chr(0b101010 + 0o74) + chr(45) + chr(0b1101 + 0o53)):
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'%k2\xef.\xcc\\\x0b~'), '\144' + chr(7624 - 7523) + chr(5100 - 5001) + '\x6f' + '\144' + '\145')(chr(117) + chr(875 - 759) + chr(0b1100110) + '\055' + '\x38') + oTFV5eevoJ + lecxhbCcMa(M62917xPfp(b'`c"\xf9.'), '\x64' + chr(101) + chr(0b1100011) + chr(111) + chr(0b1100100) + chr(0b1100101))(chr(0b1110101) + chr(0b1110100) + chr(102) + '\x2d' + '\x38')
+                            elif lpKy2UQTOt == lecxhbCcMa(M62917xPfp(b'!q'), '\x64' + chr(0b1011000 + 0o15) + chr(99) + chr(0b1101111) + chr(0b1100100) + chr(8000 - 7899))(chr(0b1110101) + chr(10088 - 9972) + chr(102) + chr(45) + chr(2361 - 2305)):
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'!q&\xba'), chr(8695 - 8595) + chr(0b1100101) + chr(99) + '\157' + '\x64' + '\145')(chr(117) + chr(116) + chr(5235 - 5133) + chr(0b101101) + chr(56)) + oTFV5eevoJ
+                            elif lpKy2UQTOt == lecxhbCcMa(M62917xPfp(b'%k7'), chr(0b110011 + 0o61) + chr(0b10101 + 0o120) + chr(99) + '\157' + chr(9070 - 8970) + chr(0b1100101))(chr(0b1110101) + chr(0b110001 + 0o103) + chr(102) + chr(786 - 741) + '\x38'):
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'3`c'), chr(0b1100100) + '\145' + chr(99) + chr(111) + '\144' + '\145')(chr(10529 - 10412) + '\x74' + chr(0b1100110) + chr(0b101101) + chr(56)) + oTFV5eevoJ + lecxhbCcMa(M62917xPfp(b'%k7\xfb '), chr(0b1100100) + chr(0b1100101) + chr(0b11111 + 0o104) + chr(0b1011101 + 0o22) + '\144' + '\x65')('\x75' + chr(116) + chr(0b1100110) + '\x2d' + chr(0b111000))
+                            rP1opCG3tZ = AxW30Kp7UK
+                            if sJQWWyudf4 == h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(48 - 0), 8):
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), chr(0b1100100) + chr(0b1001011 + 0o32) + '\143' + chr(111) + chr(7377 - 7277) + '\145')('\x75' + chr(0b1110100) + chr(6233 - 6131) + '\x2d' + chr(750 - 694)))(h0J2gI7PnA('\060' + chr(9349 - 9238) + chr(0b110001), 8), lecxhbCcMa(M62917xPfp(b'cl-\xf9#\xd7L\x01b\xef\x8dA\x1f\x8a\xed\x16j\x1c'), '\144' + chr(101) + chr(0b1100011) + chr(0b101110 + 0o101) + '\x64' + chr(0b111001 + 0o54))(chr(9859 - 9742) + '\164' + '\146' + chr(0b101101) + '\070'))
+                                sJQWWyudf4 += h0J2gI7PnA(chr(48) + chr(10756 - 10645) + chr(0b110001), 8)
+                        if lecxhbCcMa(M62917xPfp(b')k*\xf9&\xcd'), '\144' + '\145' + chr(9480 - 9381) + '\157' + '\144' + '\145')('\165' + chr(7635 - 7519) + chr(0b0 + 0o146) + '\055' + '\x38') in jiSsxIKE6_(lecxhbCcMa(rP1opCG3tZ.strip(), lecxhbCcMa(M62917xPfp(b',j4\xff='), '\144' + chr(101) + '\x63' + chr(0b1101111) + chr(0b10 + 0o142) + chr(0b1100101))('\165' + '\x74' + chr(102) + chr(0b100001 + 0o14) + chr(0b1100 + 0o54)))()):
+                            WnKu0O1160 = zTPwVy4r78(h0J2gI7PnA(chr(0b10111 + 0o31) + chr(0b11110 + 0o121) + chr(0b110000), 8), h0J2gI7PnA(chr(0b101101 + 0o3) + chr(0b1101111) + chr(0b10101 + 0o34) + chr(0b110010 + 0o0), 8))
+                            if WnKu0O1160 % h0J2gI7PnA('\x30' + chr(0b1101111) + '\062', 8) == h0J2gI7PnA(chr(1689 - 1641) + '\x6f' + chr(0b10001 + 0o37), 8):
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(400 - 299) + chr(0b1100011) + chr(0b1101111) + '\144' + chr(0b1100101))('\x75' + '\x74' + chr(102) + chr(45) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b''), chr(7604 - 7504) + '\x65' + chr(8541 - 8442) + chr(111) + chr(0b1100100) + chr(0b1011 + 0o132))('\x75' + '\x74' + '\x66' + '\x2d' + '\x38'))
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(7504 - 7403) + '\x63' + chr(0b1101111) + '\144' + chr(7138 - 7037))(chr(0b11010 + 0o133) + chr(116) + '\x66' + chr(45) + chr(0b11000 + 0o40)))(lecxhbCcMa(M62917xPfp(b')k7\xba"\xc3A\nv\xb5\x82'), chr(100) + '\145' + '\x63' + '\x6f' + chr(100) + chr(0b1100101))(chr(0b1100011 + 0o22) + '\164' + chr(0b101011 + 0o73) + chr(0b10100 + 0o31) + chr(0b101101 + 0o13)))
+                        if lecxhbCcMa(M62917xPfp(b'&l.\xfb#\xc5G\x167\xe8\x94\\'), chr(2908 - 2808) + chr(1498 - 1397) + chr(0b1001010 + 0o31) + chr(111) + '\x64' + '\145')(chr(6735 - 6618) + chr(116) + '\x66' + '\x2d' + chr(56)) in rP1opCG3tZ:
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b1100101) + chr(99) + chr(0b1101111) + '\144' + '\145')(chr(0b1110101) + chr(0b1010000 + 0o44) + '\146' + chr(0b11111 + 0o16) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b'='), '\x64' + chr(0b1000001 + 0o44) + chr(0b1100011) + chr(111) + '\x64' + '\x65')(chr(0b1110101) + chr(4686 - 4570) + '\146' + chr(0b100001 + 0o14) + chr(56)))
+                        if lecxhbCcMa(M62917xPfp(b'0d1\xfb'), chr(0b1100100) + '\x65' + '\x63' + '\157' + '\x64' + chr(0b10101 + 0o120))(chr(117) + '\164' + chr(0b1000010 + 0o44) + chr(0b101101) + '\x38') in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'&l.\xea.\xd0I'), chr(280 - 180) + chr(0b1100101) + chr(99) + '\157' + chr(0b1100100) + chr(0b1000110 + 0o37))(chr(117) + chr(116) + '\146' + chr(45) + '\x38') not in rP1opCG3tZ:
+                            mtz7HGd9nB = L3IjhwgM9H(rP1opCG3tZ)
+                            if VBTYL3oeHU(mtz7HGd9nB) != h0J2gI7PnA('\x30' + '\x6f' + chr(413 - 365), 8):
+                                AxW30Kp7UK = TWngu2iXgp(lecxhbCcMa(M62917xPfp(b'&j1\xb2'), chr(0b110001 + 0o63) + chr(0b100000 + 0o105) + chr(4959 - 4860) + chr(10946 - 10835) + '\144' + '\145')('\x75' + chr(8396 - 8280) + chr(0b1010010 + 0o24) + '\x2d' + chr(0b111000)) + mtz7HGd9nB[h0J2gI7PnA(chr(48) + chr(0b1011110 + 0o21) + chr(0b110000), 8)] + lecxhbCcMa(M62917xPfp(b'`8c'), chr(7651 - 7551) + chr(2062 - 1961) + '\x63' + chr(0b1101111) + chr(100) + '\145')(chr(117) + chr(5440 - 5324) + '\146' + '\055' + '\x38'))
+                                if QhjCTS7cjb(mtz7HGd9nB[h0J2gI7PnA(chr(0b11011 + 0o25) + chr(10463 - 10352) + '\061', 8)]) == h0J2gI7PnA('\060' + '\157' + chr(49), 8) and QhjCTS7cjb(mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(0b1101110 + 0o1) + chr(882 - 832), 8)]) == h0J2gI7PnA(chr(48) + '\x6f' + chr(1624 - 1575), 8) and (QhjCTS7cjb(mtz7HGd9nB[h0J2gI7PnA(chr(2141 - 2093) + chr(0b1101111) + chr(51), 8)]) == h0J2gI7PnA(chr(48) + chr(1440 - 1329) + '\x31', 8)):
+                                    if h0J2gI7PnA(mtz7HGd9nB[h0J2gI7PnA(chr(1869 - 1821) + chr(0b1101111) + '\x31', 8)]) < h0J2gI7PnA(mtz7HGd9nB[h0J2gI7PnA(chr(2181 - 2133) + '\x6f' + chr(0b1011 + 0o47), 8)]) and h0J2gI7PnA(mtz7HGd9nB[h0J2gI7PnA(chr(0b100011 + 0o15) + '\157' + '\063', 8)]) > h0J2gI7PnA('\060' + '\x6f' + '\x30', 8):
+                                        if mtz7HGd9nB[h0J2gI7PnA(chr(48) + '\x6f' + chr(49), 8)] == lecxhbCcMa(M62917xPfp(b'q'), chr(0b1100100) + '\x65' + chr(1637 - 1538) + '\157' + '\x64' + chr(0b1100101))('\165' + chr(0b1100000 + 0o24) + chr(5176 - 5074) + '\x2d' + chr(0b11010 + 0o36)):
+                                            AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'p>c'), chr(0b1100100) + chr(101) + chr(2715 - 2616) + '\157' + chr(944 - 844) + chr(0b1100 + 0o131))(chr(0b1110101) + chr(116) + chr(0b1100010 + 0o4) + chr(0b101101) + chr(56)) + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(0b1101111) + chr(1504 - 1456), 8)] + lecxhbCcMa(M62917xPfp(b'`9c'), '\x64' + '\x65' + chr(99) + '\157' + chr(100) + chr(2558 - 2457))(chr(0b100010 + 0o123) + chr(7354 - 7238) + chr(0b111 + 0o137) + '\x2d' + chr(0b1110 + 0o52)) + mtz7HGd9nB[h0J2gI7PnA(chr(48) + chr(0b1101111) + '\062', 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(0b1100100) + '\145' + chr(99) + chr(0b111010 + 0o65) + chr(0b10100 + 0o120) + '\145')('\165' + '\x74' + chr(2325 - 2223) + chr(555 - 510) + chr(56))
                                         else:
-                                            lax = lax + infs[1] +"; " + infs[0] + " <= "+ infs[2] + "; "
-                                        if infs[3] == "1":
-                                            lax = lax + infs[0] + "++){" 
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(111) + chr(0b101010 + 0o7), 8)] + lecxhbCcMa(M62917xPfp(b'{%'), '\x64' + chr(2454 - 2353) + '\x63' + chr(0b1101111) + '\144' + '\145')(chr(0b1010010 + 0o43) + chr(116) + chr(0b110010 + 0o64) + '\x2d' + '\x38') + mtz7HGd9nB[h0J2gI7PnA(chr(48) + chr(111) + chr(0b100111 + 0o11), 8)] + lecxhbCcMa(M62917xPfp(b'`9~\xba'), chr(0b1001101 + 0o27) + chr(6302 - 6201) + chr(99) + chr(9035 - 8924) + chr(3330 - 3230) + chr(101))('\165' + chr(11959 - 11843) + chr(3558 - 3456) + chr(1669 - 1624) + '\070') + mtz7HGd9nB[h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(0b110010), 8)] + lecxhbCcMa(M62917xPfp(b'{%'), '\144' + '\x65' + '\143' + '\157' + '\x64' + '\145')('\165' + chr(116) + chr(0b1100010 + 0o4) + chr(0b101 + 0o50) + chr(477 - 421))
+                                        if mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(4754 - 4643) + chr(51), 8)] == lecxhbCcMa(M62917xPfp(b'q'), '\x64' + chr(101) + chr(99) + chr(5459 - 5348) + chr(4973 - 4873) + chr(0b1100101))(chr(0b1110101) + chr(116) + chr(2513 - 2411) + chr(1636 - 1591) + chr(56)):
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA(chr(0b110000) + chr(208 - 97) + '\060', 8)] + lecxhbCcMa(M62917xPfp(b'k.j\xe1'), chr(0b10001 + 0o123) + '\145' + chr(0b110101 + 0o56) + '\x6f' + chr(5788 - 5688) + chr(101))('\x75' + chr(0b1110100) + chr(0b1001000 + 0o36) + chr(0b101101) + '\070')
                                         else:
-                                            lax = lax + infs[0] + " += " + infs[3]+"){"
-                                    else: 
-                                        infs[3] = str(int(infs[3])*-1)
-                                        lax = lax + infs[1] +"; " + infs[0] + " >= "+ infs[2] + "; "
-                                        if infs[3] == "-1":
-                                            lax = lax + infs[0] + "--){" 
-                                        else:
-                                            lax = lax + infs[0] + " -= " + infs[3]+"){"
-                                else:
-                                    if is_number(infs[3]):
-                                        if int(infs[3])>0:
-                                            lax = lax + infs[1] + "; " + infs[0] + " <= "+ infs[2] + "; "
-                                            if infs[3] == "1":
-                                                lax = lax + infs[0] + "++){" 
-                                            else:
-                                                lax = lax + infs[0] + " += " + infs[3]+"){"
-                                        else:
-                                            infs[3] = str(int(infs[3])*-1)
-                                            lax = lax + infs[1] +"; " + infs[0] + " >= "+ infs[2] + "; "
-                                            if infs[3] == "-1":
-                                                lax = lax + infs[0] + "--){" 
-                                            else:
-                                                lax = lax + infs[0] + " -= " + infs[3]+"){"
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA('\x30' + '\x6f' + '\x30', 8)] + lecxhbCcMa(M62917xPfp(b'`.~\xba'), chr(9904 - 9804) + chr(101) + chr(0b100001 + 0o102) + chr(2572 - 2461) + chr(100) + chr(101))('\165' + '\164' + chr(9475 - 9373) + '\055' + '\070') + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(0b1100111 + 0o10) + '\063', 8)] + lecxhbCcMa(M62917xPfp(b'i~'), chr(100) + chr(0b1100101) + chr(99) + chr(11594 - 11483) + chr(0b1100100) + '\145')(chr(12105 - 11988) + chr(7365 - 7249) + '\x66' + '\055' + chr(0b111000))
                                     else:
-                                        lax = lax + infs[1] + "; " + infs[0] + " <= "+ infs[2] + "; " + infs[0] + " += " + infs[3]+"){"
-                                C_codeSplit.append(lax)
-                                lax = ""
-                            
-                        if ("fimpara" in line):
-                            C_codeSplit.append("}")
-                        if ("enquanto" in line and "fim" not in line):
-                            lax = line.replace("enquanto" , "")
-                            lax = lax.replace("faca" , "")
-                            lax = lax.strip()
-                            if not "(" in lax and not ")" in lax:
-                                lax = "(" + lax + ")"
-                            parent = Conditions_visualg(lax)
-
-                            if ("(" in parent):
-                                C_codeSplit.append("while"+parent+"{")
-                            else:
-                                print("linha " + str(i+1) + ": ERRO, coloque a condição entre parentêses")
-                                C_codeSplit.append("while( -ERRO CONDITION- ){")
-
-                        if ("fimenquanto" in line):
-                            C_codeSplit.append("}")
-                        if ("repita" in line):
-                            C_codeSplit.append("do{")
-                        if ("ate" in unidecode(line) and "se" not in line and "para" not in line):
-                            lax = unidecode(line)
-                            lax = lax.replace("ate", "")
-                            lax = lax.strip()
-                            if not "(" in lax and not ")" in lax:
-                                lax = "(" + lax + ")"
-                           
-                            parent = ate_dW(lax)
-                            if ("(" in parent):
-                                
-                                C_codeSplit.append("}while"+parent+";")
-                            else:
-                                print("linha " + str(i+1) + ": ERRO, coloque a condição entre parentêses")
-                                C_codeSplit.append("}while( -ERRO CONDITION- );")
-                            
-
-                        if ("se" in line and "entao" in unidecode(line) and not "senao" in unidecode(line)):
-                            lax = unidecode(line)
-                            lax = lax.replace("se", "")
-                            lax = lax.replace("entao", "")
-                            lax = lax.strip()
-                            if not "(" in lax and not ")" in lax:
-                                lax = "(" + lax + ")"
-
-                            parent = Conditions_visualg(lax)
-                            if ("(" in parent):
-                                C_codeSplit.append("if"+parent+"{")
-                            else:
-                                print("linha " + str(i+1) + ": ERRO, coloque a condição entre parentêses")
-                                C_codeSplit.append("if( -ERRO CONDITION- ){")
-                        if("senao" in unidecode(line)):
-                            if "entao" in unidecode(line):
-                                lax =  unidecode(line).replace("senao", "")
-                                lax = lax.replace("se", "")
-                                lax = lax.replace("entao", "")
-                                lax = lax.strip()
-                                if not "(" in lax and not ")" in lax:
-                                    lax = "(" + lax + ")"
-                                parent = Conditions_visualg(lax)
-                                if ("(" in parent):
-                                    C_codeSplit.append("} else if "+parent+" {")
-
-                            else:    
-                                C_codeSplit.append("} else{")
-
-                        if ("fimse" in line):
-                            C_codeSplit.append("}")
-                        if ("<-" in line or ":=" in line):
-                            line = line.replace(":=","<-")
-                            lax2 = line.split("<-")
-                            lax3 = str(lax2[1])
-                            lax2 = str(lax2[0])
-                            lax2 = lax2.strip()
-                            lax4 = varis[lax2]
-                            if "s" in lax4 or "c" in lax4:
-                                lax = "strcpy("+ lax2 + ", " + lax3 + ");"
-                                if ttttttttttttttttttttttttt == 0:
-                                    C_codeSplit.insert(1, "#include<string.h>")
-                                    ttttttttttttttttttttttttt += 1
-                                C_codeSplit.append(lax)
-                                lax = ""
-                            else:
-                                lax = line
-                                if ("[" in line and "]" in line):
-                                    keys = espcVetor_visualg(line)
-                                    for k, v in keys.items():
-                                        kKey = str(k)
-                                        vVal = str(v)
-                                        if kKey in lax:
-                                            lax = lax.replace(kKey, vVal)
-                                lax = lax.replace("<-","=")
-                                lax  = lax + ";"
-                                C_codeSplit.append(lax)
-                                lax = ""
-                        if("escreva" in line and "escreval" not in line):
-                            lax = line
-                            if ("[" in line and "]" in line):
-                                keys = espcVetor_visualg(line)
-                                for k, v in keys.items():
-                                    kKey = str(k)
-                                    vVal = str(v)
-                                    if kKey in lax:
-                                        lax = lax.replace(kKey, vVal)
-                            lax = lax.replace("escreva", "printf")
-                            lax = lax +";"
-                            lax = convEsc_forPrint(lax, varis)
-                            C_codeSplit.append(lax)
-                            lax = ""
-                        if("escreval" in line):
-                            lax3 = False
-                            lax = line.replace(")","")
-                            lax = lax.rstrip()
-                            lax = lax + ")"
-                            if "()" in lax:
-                                lax3 = True
-
-
-                            if lax3 == False:
-                                lax = line
-                                if ("[" in line and "]" in line):
-                                    lax = line
-                                if ("[" in line and "]" in line):
-                                    keys = espcVetor_visualg(line)
-                                    for k, v in keys.items():
-                                        kKey = str(k)
-                                        vVal = str(v)
-                                        if kKey in lax:
-                                            lax = lax.replace(kKey, vVal)
-                                lax = lax.replace("escreval", "printf")
-                                lax = lax +";"
-                                lax = convEsc_forPrint(lax, varis)
-                                indice = lax.rfind('"')
-                                if indice != -1:
-                                    lax = lax[:indice] + r'\n"' + lax[indice+1:]
-                                lax = lax.replace('(" ', '("')
-                                C_codeSplit.append(lax)
-                                lax = ""
-                            else:
-                                C_codeSplit.append(r'printf ("\n");')
-                        if ("leia" in line and ")" in line):
-                            lax = line
-                            if ("[" in line and "]" in line):
-                                keys = espcVetor_visualg(line)
-                                for k, v in keys.items():
-                                    kKey = str(k)
-                                    vVal = str(v)
-                                    if kKey in lax:
-                                        lax = lax.replace(kKey, vVal)
-                            parent = Conditions_visualg(lax)
-                            parent = parent.replace("(","")
-                            parent = parent.replace(")","")
-                            parent2 = parent.split("[", 1)[0].strip()
-                            lax  = r'scanf("'+ varis[str(parent2)] +r'",&'+parent+");"
-                            C_codeSplit.append(lax)
-                            lax = ""
-                        if ("interrompa" in line):
-                            C_codeSplit.append("break;")
-                            
-        
-        C_codeSplit = Indent_stripList(C_codeSplit)
-        c_code = "\n".join(C_codeSplit)          
-        return c_code
-    except Exception as erro:
-        print("Seu Código em visualg possui algum erro de Sintaxe, verifique-o, tente tambem colocar suas condições entre parentêses")
-        return ("Seu Código em visualg possui algum erro de Sintaxe, verifique-o, tente tambem colocar suas condições entre parentêses")
-
-def espcVetor_C(string, tipe):
-    if tipe != "caractere":
-        dcl = string.split(",")
-        rtn = [[],[]]
-        lax = ""
-        if len(dcl) == 1:
-            padrao = r'\[[^\]]+\]'
-            resultado = re.findall(padrao, string)
-            
-            tamanhos = []
-            for tamanho in resultado:
-                tamanho = tamanho.strip('[]')
-                tamanhos.append(tamanho)
-            
-            return tamanhos
-        else:
-            
-            for i, item in enumerate(dcl):
-                if "[" in item:
-                    padrao = r'\[[^\]]+\]'
-                    resultado = re.findall(padrao, item)
-                    
-                    tamanhos = []
-                    for tamanho in resultado:
-                        tamanho = tamanho.strip('[]')
-                        tamanhos.append(tamanho)
-                    
-                    if len(tamanhos) == 1:
-                        spt = item.split("[")
-                        spt = str(spt[0].strip())
-                        lax = spt + ": vetor [1.." + tamanhos[0] + "] de " + tipe 
-                        rtn[1].append(lax)
-                        lax = ""
-
-                    elif len(tamanhos) == 2:
-                        spt = item.split("[")
-                        spt = str(spt[0].strip())
-                        lax = spt + ": vetor [1.." + tamanhos[0] + ",1.." + tamanhos[1] +"] de " + tipe 
-                        rtn[1].append(lax)
-                        lax = ""
-                    
-                else:
-                    rtn[0].append(item)
-            
-            if len(rtn[0]) != 0:      
-                lax = ", ".join(rtn[0])
-                lax = lax + ": " + tipe
-                rtn[0].clear()
-                rtn[0].append(lax)
-
-            return rtn
-    else:
-        dcl = string.split(",")
-        rtn = [[],[]]
-        lax = ""
-        if len(dcl) == 1:
-            padrao = r'\[[^\]]+\]'
-            resultado = re.findall(padrao, string)
-            if resultado != []:
-                item = dcl[0]
-                tamanhos = []
-                for tamanho in resultado:
-                    tamanho = tamanho.strip('[]')
-                    tamanhos.append(tamanho)
-
-                if len(tamanhos) == 1:
-                    spt = item.split("[")
-                    spt = str(spt[0].strip())
-                    lax = spt + ": caractere"
-                    rtn[0].append(lax)
-                    lax = ""
-
-                elif len(tamanhos) == 2:
-                    spt = item.split("[")
-                    spt = str(spt[0].strip())
-                    lax = spt + ": vetor [1.." + tamanhos[0] + ",1.." + tamanhos[1] +"] de " + tipe 
-                    rtn[0].append(lax)
-                    lax = ""
-            else:
-                spt = dcl[0].strip()
-                lax = spt + "+ caractere"
-                rtn[0].append(lax)
-            
-        else:
-            
-            for i, item in enumerate(dcl):
-                if "[" in item:
-                    padrao = r'\[[^\]]+\]'
-                    resultado = re.findall(padrao, item)
-                    
-                    tamanhos = []
-                    for tamanho in resultado:
-                        tamanho = tamanho.strip('[]')
-                        tamanhos.append(tamanho)
-                    
-                    if len(tamanhos) == 1:
-                        spt = item.split("[")
-                        spt = str(spt[0].strip())
-                        lax = spt + ": vetor [1.." + tamanhos[0] + "] de " + tipe 
-                        rtn[1].append(lax)
-                        lax = ""
-
-                    elif len(tamanhos) == 2:
-                        spt = item.split("[")
-                        spt = str(spt[0].strip())
-                        lax = spt + ": vetor [1.." + tamanhos[0] + ",1.." + tamanhos[1] +"] de " + tipe 
-                        rtn[1].append(lax)
-                        lax = ""
-                    
-                else:
-                    rtn[0].append(item)
-            
-            if len(rtn[0]) != 0:      
-                lax = ", ".join(rtn[0])
-                lax = lax + ": " + tipe
-                rtn[0].clear()
-                rtn[0].append(lax)
-
-        return rtn
-    
-def substituir_virgula(texto):
-    novo_texto = ""
-    dentro_parenteses = False
-
-    for caractere in texto:
-        if caractere == "(":
-            dentro_parenteses = True
-        elif caractere == ")":
-            dentro_parenteses = False
-
-        if dentro_parenteses and caractere == ",":
-            novo_texto += caractere
-        elif not dentro_parenteses and caractere == ",":
-            novo_texto += "---X3X3x3,,,,,,,    ---"
-        else:
-            novo_texto += caractere
-
-    return novo_texto
-
-def substituir_marcacoes(texto):
-    txt = texto.lstrip('"')
-    txt = txt.split('"')
-    lax = str(txt[0])
-    txt = str(txt[1])
-    txt = txt.lstrip(",")
-    txt = txt.strip()
-    txt = substituir_virgula(txt)
-    palavras = txt.split("---X3X3x3,,,,,,,    ---")
-
-    for i, nm in enumerate(palavras):
-        palavras[i] = nm.strip()
-
-    lax = '"' + lax
-
-
-    padrao = r'%[a-zA-Z]+'
-    correspondencias = re.findall(padrao, lax)
-
-    for marca, palavra in zip(correspondencias, palavras):
-        lax = lax.replace(marca, f'", {palavra}, "', 1)
-
-    return lax
-
-
-def possui_porcentagem_letra(string):
-    padrao = r"%[a-zA-Z]"
-    correspondencia = re.search(padrao, string)
-    if correspondencia:
-        return True
-    else:
-        return False
-
-def sep_Bn (string):
-    if string.strip('"').strip() == "\\n":
-        return ["escreval()"]
-    else:
-
-        linhas = []
-        l2 = []
-
-        lax = string.split("\\n")
-        
-        """ for linha in lax:
-            linha = linha.strip('"')
-            if linha != "":
-                linha = '"' + linha + '"'
-                l2.append(linha) """
-
-
-        if len(lax) == 2:
-            if lax[0] == '"' and lax[1] == '"':
-                linhas.append(("escreval()"))
-            elif len(lax[0])>1 and lax[1] == '"':
-                lax.pop(1)
-
-        
-
-        if len(linhas) != 2:
-            for linha in lax:
-                linha = linha.strip('"')
-                linha = '"' + linha + '"'
-
-                if linha.strip('"') == "" or linha == "":
-                    linhas.append(("escreval()"))
-                else:
-                    linhas.append(("escreval(" + linha + ")"))
-
-        return linhas
-
-
-def correct_aps(string):
-    lax = string
-    lax2 = lax
-    if string.endswith('")'):
-        lax =  string.replace('")', "")
-        lax = lax.strip()
-        if lax.endswith(","):
-            lax = lax.rstrip(",")
-            lax = lax + ")"
-        else:
-            lax = lax + ' ")'
-
-    lax2 = lax
-
-    if lax2.startswith("escreval"):
-        lax2 = lax2.replace("escreval", "")
-        lax2 = lax2.strip()
-        if lax2.startswith('(",'):
-            lax2 = lax2.replace('(",', "(")
-        lax2 = "escreval" + lax2
-    else:
-        lax2 = lax2.replace("escreva", "")
-        lax2 = lax2.strip()
-        if lax2.startswith('(",'):
-            lax2 = lax2.replace('(",', "(")
-        lax2 = "escreva" + lax2
-
-
-    return lax2
-
-
-def Indent_stripList_CtoVG(my_list):
-    lista = my_list
-    qtd = 0
-    tab = "    "
-    stri = ""
-    for i, its in enumerate(lista):
-        if not "inicio" in its:
-            if "senao" in its:
-                stri = str((tab*(qtd-1)) + its)
-                lista[i] = stri
-            else:
-                if (qtd != 0 and not (("}" in its and "{" not in its))):
-                    stri = str((tab*qtd) + its)
-                    lista[i] = stri
-                if ("faca" in its or "var" in its or "entao" in its or "repita" in its):
-                    qtd += 1
-                if ("fim" in its):
-                    qtd -= 1
-                    stri = str((tab*qtd) + its)
-                    lista[i] = stri
-                if ("ate" in its and not "para" in its):
-                    qtd -= 1
-                    stri = str((tab*qtd) + its)
-                    lista[i] = stri
-    
-    return lista
-
-def adicionar_chave(texto):
-    linhas = texto.split("\n")
-    novo_texto = []
-    procurando = False
-    vzs = 0
-
-    for linha in linhas:
-        if procurando:
-            if linha.strip() == "}":
-                novo_texto.append("}")
-                for i in range (1, vzs+2):
-                    novo_texto.append("}")
-                novo_texto.append("")
-                procurando = False
-                vzs = 0
-            else:
-                novo_texto.append(linha)
-        else:
-            novo_texto.append(linha)
-
-        if "else if" in linha.lower():
-            if procurando == True:
-                vzs += 1
-            else:
-                procurando = True
-
-    return "\n".join(novo_texto)
-
-def cmp_PraViG(texto, versao = 0):
-    lax4 = texto
-    if versao == 0:
-        padrao = r"\(?\s*strcmp\s*\((.*?)\)\s*==\s*(\d+)?"  
-
-        troq = []
-
-        txt_novo = []
-        
-        ocorrencias = re.finditer(padrao, texto)
-
-        # Criar uma lista aninhada com os resultados e os índices
-        resultado = [[match.group(1), match.group(2), (match.start(), match.end())] for match in ocorrencias]
-
-        for i in range(len(resultado)):
-            lax = resultado[i][0].strip().split(",")
-            lax2 = lax[1].strip()
-            lax = str(lax[0]).strip()
-            if resultado[i][1] == "0":
-                lax3 =  "(" + lax + " == " + lax2 + ")"
-            else:
-                lax3 = "(" + lax + " != " + lax2 + ")"
-
-            troq.append(lax3)
-
-        
-            itrable = 0
-        
-            for jkl in resultado:
-                t_Range = list(range(jkl[2][0], jkl[2][1] + 1))
-                difernss =  abs(abs(jkl[2][1] - jkl[2][0]) - len(troq[itrable])) + 1
-            
-
-                i = 0
-                while i < len(lax4):
-                
-                    char = lax4[i]
-                
-                    if i == jkl[2][0]:
-                        for char2 in troq[itrable]:
-                            txt_novo.append(char2)
-                        i = jkl[2][1]
-                        for l in range(difernss):
-                            txt_novo.append("¢")
-
-                    else:
-                        txt_novo.append(char) 
-                    
-                    i += 1
-                
-        
-                lax4 = "".join(txt_novo)
-                txt_novo=[]
-            
-                itrable += 1
-
-            
-            lax4 = lax4.replace("¢", " ")
-            lax4 = re.sub(r'\s+', ' ', lax4)
-
-            return lax4
-    else:
-
-        padrao = r"\((.*?)\)"
-
-        troq = []
-        txt_novo = []
-        ocorrencias = re.finditer(padrao, texto)
-
-        for ocorrencia in ocorrencias:
-            item1, item2 = ocorrencia.group(1).split(",")
-            troq.append((item1.strip(), item2.strip()))
-
-        i1, i2 = troq[0][0], troq[0][1]
-        lax2 = f"({i1} = {i2})"
-
-        lax = lax4.split("=")
-        lax = lax[0].strip()
-        lax = f"se {lax2} entao\n     {lax} <- 0\nsenao\n    {lax} <- 1\nfimse"
-
-        return lax
-
-                   
-
-def c_to_visualg(code):
-    textoPrimario = code
-    textoPrimario = adicionar_chave(textoPrimario)
-    splitTxt = textoPrimario.splitlines()
-    VG_codeSplit = []
-    ale = 0
-    lax = ""
-    lax2 = ""
-    lax3 = ""
-    varis = {}
-    ChOp = []
-
-    for i, line in enumerate(splitTxt):
-        if (i == 0):
-            VG_codeSplit.append('algoritmo " programa Visualg "')
-            VG_codeSplit.append('')
-            VG_codeSplit.append('var')
-            VG_codeSplit.append('')
-        elif (i !=0):
-            if line.strip() == "":
-                ale = randrange(1,10)
-                VG_codeSplit.append("")
-                if (ale < 2):
-                    VG_codeSplit.append("")
-
-            else:
-                line = line.strip()
-                if ((line[0] == "/") and (line[1] == "/")):
-                    VG_codeSplit.append(line)
-                else:
-                    line = line.lower()
-                    if ("pow" in line):
-                        line = line.replace("pow","exp")
-                    if ("sqrt" in line):
-                        line = line.replace("sqrt","raizq")
-                    
-
-                    if ("int " in line and '"' not in line and "{" not in line):
-                        if ("[" not in line):
-                            line = line.replace("int ", "")
-                            line = line.replace(";", ": inteiro")
-                            line = line.strip()
-                            VG_codeSplit.append(line)
-                        else:
-                            line = line.replace("int ", "")
-                            line = line.strip()
-                            lax = espcVetor_C(line, "inteiro")
-                            if len(lax[0]) == 0:
-                                for i in lax[1]:
-                                    VG_codeSplit.append(i)
-                            else:
-                                for i in range(0,2):
-                                    for it in lax[i]:
-                                        VG_codeSplit.append(it)
-
-
-                    if ("float " in line):
-                        if ("[" not in line and '"' not in line):
-                            line = line.replace("float ", "")
-                            line = line.replace(";", ": real")
-                            line = line.strip()
-                            VG_codeSplit.append(line)
-                        else:
-                            line = line.replace("float", "")
-                            line = line.strip()
-                            lax = espcVetor_C(line, "real")
-                            if len(lax[0]) == 0:
-                                for i in lax[1]:
-                                    VG_codeSplit.append(i)
-                            else:
-                                for i in range(0,2):
-                                    for it in lax[i]:
-                                        VG_codeSplit.append(it)
-                    if "char " in line:
-                        line = line.replace("char ", "")
-                        line = line.replace(";", "")
-                        line = line.strip()
-                        lax = espcVetor_C(line, "caractere")
-
-                        if not lax[0]:
-                            for item in lax[1]:
-                                item = item.strip()
-                                VG_codeSplit.append()
-                        else:
-                            combined_list = lax[0] + lax[1]
-                            for item in combined_list:
-                                VG_codeSplit.append(item.strip())
-
-                    if ("strcpy" in line):
-                        lax = line.replace("strcpy", "")
-                        lax = lax.replace(";","")
-                        lax = lax.strip()
-                        lax = lax.strip("()")
-                        lax = lax.replace(",", "<-")
-                        VG_codeSplit.append(lax)
-
-                    if ("strcmp" in line):
-                        if " = " in line and not "while" in line and not "if" in line:
-                            parent = cmp_PraViG(line, 1)
-                            line = ""
-                            VG_codeSplit.append(parent)
-                        else:
-                            parent = cmp_PraViG(line)
-                            line = parent
-
-                    if ("main" in line and "{" in line and "(" in line):
-                        VG_codeSplit.append("inicio")
-                        ChOp.insert(0,'fimalgoritmo')
-
-                    if ("for " in line ):
-                        lax = InfFor_C(line)
-                        if lax is not None and len(lax) >= 3 and "0" == lax[1] and "=" not in lax[2] and len(lax[2]) > 0 and is_number(str(lax[2][len(lax[2])-1])):
-                                if "++" in line:
-                                    lax2 = "para " + lax[0] + " de 1 ate " + str(lax[2][(len(lax[2])-1)]) + " faca"
-                                elif "--" in line:
-                                    lax2 = "para " + lax[0] + " de" + lax[1] +  " ate " + str(lax[2][(len(lax[2])-1)]) + " passo -1 faca"
-                        else:
-                            lax3 = None
-                            if lax is not None and len(lax) >= 4:
-                                if "=" in lax[2] and not "==" in lax[2]:
-                                    lax3 = lax[2].split("=")
-                                elif "==" in lax[2]:
-                                    lax3 = lax[2].split("==")
-                                elif "<" in lax[2]:
-                                    lax3 = lax[2].split("<")
-                                elif ">" in lax[2]:
-                                    lax3 = lax[2].split(">")
-                                
-                                  
-                                if lax3 is not None and len(lax3) >= 2:
-                                    lax3 = str(lax3[1])
-                                    lax3 = lax3.strip()
+                                        mtz7HGd9nB[h0J2gI7PnA('\060' + '\x6f' + '\063', 8)] = TWngu2iXgp(h0J2gI7PnA(mtz7HGd9nB[h0J2gI7PnA('\x30' + '\x6f' + chr(0b110011), 8)]) * -h0J2gI7PnA('\060' + chr(4885 - 4774) + '\061', 8))
+                                        AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA(chr(48) + chr(709 - 598) + chr(222 - 173), 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(422 - 322) + '\145' + chr(0b1011010 + 0o11) + chr(111) + chr(0b1100100) + '\145')('\165' + chr(0b110011 + 0o101) + '\146' + chr(1960 - 1915) + '\070') + mtz7HGd9nB[h0J2gI7PnA(chr(940 - 892) + chr(111) + '\x30', 8)] + lecxhbCcMa(M62917xPfp(b'`;~\xba'), chr(100) + '\145' + '\143' + chr(0b1100000 + 0o17) + '\144' + '\x65')(chr(0b101101 + 0o110) + '\x74' + chr(0b101111 + 0o67) + '\x2d' + '\x38') + mtz7HGd9nB[h0J2gI7PnA(chr(0b110000) + '\x6f' + '\x32', 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(0b1100100) + chr(5912 - 5811) + '\143' + chr(0b1001001 + 0o46) + chr(0b1100100) + chr(0b1011001 + 0o14))(chr(0b1110101) + chr(0b1110100) + chr(7839 - 7737) + '\x2d' + chr(0b111000))
+                                        if mtz7HGd9nB[h0J2gI7PnA(chr(0b1101 + 0o43) + '\157' + chr(0b110011), 8)] == lecxhbCcMa(M62917xPfp(b'm4'), chr(100) + '\x65' + '\143' + chr(2190 - 2079) + '\x64' + chr(0b10011 + 0o122))(chr(117) + '\x74' + '\x66' + chr(0b101101) + chr(1985 - 1929)):
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA(chr(0b100 + 0o54) + chr(111) + '\060', 8)] + lecxhbCcMa(M62917xPfp(b'm(j\xe1'), chr(0b1100100) + '\x65' + '\143' + chr(111) + '\144' + chr(0b1100101))('\165' + chr(0b1110100) + '\x66' + '\x2d' + chr(1472 - 1416))
+                                        else:
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA('\060' + '\x6f' + chr(0b10010 + 0o36), 8)] + lecxhbCcMa(M62917xPfp(b'`(~\xba'), chr(0b1100100) + '\145' + '\x63' + chr(0b1 + 0o156) + '\x64' + '\x65')(chr(0b11110 + 0o127) + chr(0b1110100) + chr(0b1010101 + 0o21) + '\x2d' + '\070') + mtz7HGd9nB[h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(51), 8)] + lecxhbCcMa(M62917xPfp(b'i~'), chr(0b1100100) + '\x65' + chr(5723 - 5624) + chr(0b1001010 + 0o45) + chr(8786 - 8686) + chr(0b1001000 + 0o35))(chr(117) + chr(0b10011 + 0o141) + chr(102) + '\055' + '\070')
+                                elif QhjCTS7cjb(mtz7HGd9nB[h0J2gI7PnA('\x30' + '\157' + '\063', 8)]):
+                                    if h0J2gI7PnA(mtz7HGd9nB[h0J2gI7PnA('\060' + chr(1106 - 995) + chr(0b101101 + 0o6), 8)]) > h0J2gI7PnA(chr(0b101000 + 0o10) + chr(5255 - 5144) + '\060', 8):
+                                        AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA(chr(1815 - 1767) + chr(0b101011 + 0o104) + '\061', 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(7436 - 7336) + chr(101) + chr(99) + chr(0b1001000 + 0o47) + chr(0b100100 + 0o100) + chr(101))(chr(117) + chr(0b100100 + 0o120) + chr(102) + chr(0b100 + 0o51) + chr(0b1111 + 0o51)) + mtz7HGd9nB[h0J2gI7PnA(chr(0b1110 + 0o42) + chr(0b1000010 + 0o55) + '\060', 8)] + lecxhbCcMa(M62917xPfp(b'`9~\xba'), chr(3658 - 3558) + chr(101) + chr(0b1110 + 0o125) + chr(234 - 123) + chr(0b1100100) + chr(0b1011110 + 0o7))(chr(0b1110101) + '\x74' + chr(0b1010000 + 0o26) + chr(0b1101 + 0o40) + '\x38') + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(111) + '\062', 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(0b1100100) + chr(0b1100101) + chr(0b1100011) + '\157' + '\144' + chr(0b1100101))(chr(117) + chr(0b11001 + 0o133) + chr(0b1100110) + chr(1950 - 1905) + chr(0b111000))
+                                        if mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(0b1101111) + chr(51), 8)] == lecxhbCcMa(M62917xPfp(b'q'), chr(0b1100100) + '\x65' + '\x63' + chr(0b1011110 + 0o21) + '\144' + '\145')('\165' + '\164' + '\146' + chr(0b101101) + chr(56)):
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA(chr(0b100 + 0o54) + '\x6f' + '\x30', 8)] + lecxhbCcMa(M62917xPfp(b'k.j\xe1'), '\144' + chr(0b101111 + 0o66) + chr(99) + '\x6f' + chr(2249 - 2149) + '\x65')('\165' + chr(0b100001 + 0o123) + chr(0b1100110) + chr(799 - 754) + '\070')
+                                        else:
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA('\x30' + '\x6f' + chr(0b110000), 8)] + lecxhbCcMa(M62917xPfp(b'`.~\xba'), '\144' + chr(6984 - 6883) + '\143' + '\157' + chr(100) + '\x65')('\x75' + '\x74' + chr(0b101001 + 0o75) + chr(45) + chr(0b110111 + 0o1)) + mtz7HGd9nB[h0J2gI7PnA(chr(0b11010 + 0o26) + chr(0b1101111) + '\x33', 8)] + lecxhbCcMa(M62917xPfp(b'i~'), '\x64' + '\x65' + chr(1488 - 1389) + chr(7449 - 7338) + chr(0b1100100) + chr(101))('\x75' + '\164' + '\146' + chr(45) + chr(496 - 440))
+                                    else:
+                                        mtz7HGd9nB[h0J2gI7PnA(chr(156 - 108) + chr(0b1010101 + 0o32) + '\x33', 8)] = TWngu2iXgp(h0J2gI7PnA(mtz7HGd9nB[h0J2gI7PnA(chr(2039 - 1991) + '\157' + chr(1825 - 1774), 8)]) * -h0J2gI7PnA(chr(0b110000) + chr(0b11110 + 0o121) + chr(789 - 740), 8))
+                                        AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(1034 - 923) + chr(49), 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(5613 - 5513) + chr(5683 - 5582) + chr(99) + chr(0b1101111) + chr(4193 - 4093) + chr(0b1000010 + 0o43))(chr(0b1110101) + chr(0b1110100) + chr(102) + chr(0b101101) + chr(56)) + mtz7HGd9nB[h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(48), 8)] + lecxhbCcMa(M62917xPfp(b'`;~\xba'), '\x64' + chr(101) + '\143' + chr(0b110110 + 0o71) + '\x64' + chr(9617 - 9516))(chr(117) + '\x74' + '\146' + chr(0b101101) + chr(572 - 516)) + mtz7HGd9nB[h0J2gI7PnA(chr(48) + '\157' + chr(50), 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(100) + '\x65' + '\143' + chr(3953 - 3842) + chr(0b1100100) + chr(101))('\x75' + chr(7989 - 7873) + chr(102) + '\055' + chr(2304 - 2248))
+                                        if mtz7HGd9nB[h0J2gI7PnA(chr(0b110000) + chr(0b1010010 + 0o35) + chr(0b110011), 8)] == lecxhbCcMa(M62917xPfp(b'm4'), '\x64' + chr(101) + chr(0b1100011) + '\x6f' + chr(7649 - 7549) + chr(101))(chr(0b1011110 + 0o27) + chr(0b101001 + 0o113) + '\x66' + chr(0b10001 + 0o34) + chr(56)):
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA(chr(944 - 896) + chr(5666 - 5555) + '\x30', 8)] + lecxhbCcMa(M62917xPfp(b'm(j\xe1'), chr(9278 - 9178) + chr(0b1100101) + chr(8128 - 8029) + '\x6f' + '\x64' + chr(0b1100101))(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(2156 - 2100))
+                                        else:
+                                            AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA(chr(0b110000) + chr(0b11100 + 0o123) + chr(0b110000), 8)] + lecxhbCcMa(M62917xPfp(b'`(~\xba'), chr(100) + chr(0b1100101) + chr(99) + chr(111) + chr(0b1100100) + '\145')('\165' + chr(0b1010011 + 0o41) + chr(0b1100110) + '\x2d' + chr(56)) + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(0b1101111) + chr(51), 8)] + lecxhbCcMa(M62917xPfp(b'i~'), '\144' + chr(9765 - 9664) + chr(99) + chr(0b1000010 + 0o55) + chr(100) + '\145')('\x75' + '\x74' + '\146' + chr(45) + chr(0b1110 + 0o52))
                                 else:
-                                    lax3 = ""  # Ou qualquer outro valor padrão desejado
-                                    
-                                lax2 = "para " + lax[0] + " de " + lax[1] + " ate " + lax3
-                                
-                                if "++" in lax[3]:
-                                    lax2 = lax2 + " faca"
-                                elif "--" in lax[3]:
-                                    lax2 = lax2 + " passo -1 faca"
-                                else:  
-                                    lax3 = lax[3].split("=")
-                                    lax3 = lax3[1].strip()
-                                    lax2 = lax2 + " passo "+ lax3 + " faca"
-                        
-                        VG_codeSplit.append(lax2)
-                        lax = lax2 = lax3 = ""
-                        ChOp.insert(0,'fimpara')
-
-                    if ("scanf" in line):
-                        lax = line.split("&")
-                        lax = str(lax[1])
-                        lax = lax.replace(");", "")
-                        lax = "leia(" + lax + ")"
-                        lax = lax.strip()
-                        VG_codeSplit.append(lax)
-                        lax = ""
-
-
-                    if ("while" in line and not "}" in line and not '"' in line):
-                        lax = Conditions_C(line)
-                        lax = "enquanto " + lax + "faca"
-                        VG_codeSplit.append(lax)
-                        ChOp.insert(0,"fimenquanto")
-                        lax = ""
-
-                    if ("printf" in line):
-                        line = line.replace(";","")
-                        lax = line.count(r"\n")
-                        if lax == 0:
-                            if possui_porcentagem_letra(line):
-                                line = line.lstrip("printf")
-                                line = line.strip()
-                                line = line.strip("()")
-                                lax  = substituir_marcacoes(line)
-                                lax = "(" + lax + " ) "
-                                lax = parent_printC(lax)
-                                lax = lax.strip("()")
-                                lax = sep_Bn(lax)
-                                for lnhs in lax:
-                                    lnhs = correct_aps(lnhs)
-                                    VG_codeSplit.append(lnhs)
-                                lax = str("")
-
+                                    AxW30Kp7UK = AxW30Kp7UK + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(2786 - 2675) + chr(0b110001), 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(2244 - 2144) + chr(0b11011 + 0o112) + chr(0b100110 + 0o75) + chr(6349 - 6238) + '\144' + '\x65')('\165' + '\x74' + chr(0b1100000 + 0o6) + chr(1089 - 1044) + chr(0b11110 + 0o32)) + mtz7HGd9nB[h0J2gI7PnA(chr(650 - 602) + chr(111) + chr(48), 8)] + lecxhbCcMa(M62917xPfp(b'`9~\xba'), chr(0b1100100) + '\x65' + chr(0b1100011) + chr(0b1011000 + 0o27) + '\144' + chr(6630 - 6529))(chr(0b100111 + 0o116) + '\164' + chr(0b1100110) + chr(162 - 117) + chr(56)) + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(0b1101111) + '\x32', 8)] + lecxhbCcMa(M62917xPfp(b'{%'), chr(0b111001 + 0o53) + '\145' + chr(5198 - 5099) + chr(111) + '\144' + '\x65')('\165' + chr(7724 - 7608) + chr(6230 - 6128) + chr(0b11000 + 0o25) + '\x38') + mtz7HGd9nB[h0J2gI7PnA('\x30' + chr(11932 - 11821) + '\060', 8)] + lecxhbCcMa(M62917xPfp(b'`.~\xba'), chr(100) + '\145' + chr(0b1100011) + '\x6f' + '\144' + chr(101))(chr(11340 - 11223) + '\x74' + chr(2808 - 2706) + chr(0b101101) + '\070') + mtz7HGd9nB[h0J2gI7PnA(chr(0b1100 + 0o44) + chr(0b1001110 + 0o41) + chr(1438 - 1387), 8)] + lecxhbCcMa(M62917xPfp(b'i~'), '\x64' + chr(0b1010001 + 0o24) + chr(0b1100011) + '\x6f' + chr(214 - 114) + chr(4001 - 3900))(chr(0b101001 + 0o114) + '\x74' + chr(0b1100110) + chr(208 - 163) + chr(56))
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(3336 - 3236) + '\x65' + chr(6086 - 5987) + chr(0b1101111) + chr(4757 - 4657) + chr(0b1100101))('\x75' + chr(0b101000 + 0o114) + chr(9605 - 9503) + chr(0b1 + 0o54) + '\070'))(AxW30Kp7UK)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(4759 - 4659) + chr(7730 - 7629) + chr(0b1100011) + chr(0b111110 + 0o61) + '\x64' + '\145')('\x75' + chr(6548 - 6432) + chr(102) + chr(0b101101) + chr(56))
+                        if lecxhbCcMa(M62917xPfp(b'&l.\xea.\xd0I'), chr(0b101100 + 0o70) + '\x65' + chr(99) + chr(111) + chr(0b1000010 + 0o42) + '\x65')('\x75' + '\x74' + chr(0b1100000 + 0o6) + '\055' + '\x38') in rP1opCG3tZ:
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b1100101) + chr(4780 - 4681) + chr(0b1010100 + 0o33) + chr(7235 - 7135) + '\x65')('\165' + chr(8044 - 7928) + '\146' + chr(2017 - 1972) + chr(0b10111 + 0o41)))(lecxhbCcMa(M62917xPfp(b'='), '\x64' + '\145' + '\143' + '\x6f' + chr(100) + chr(0b1100101))(chr(0b1110101) + chr(3272 - 3156) + chr(102) + chr(1091 - 1046) + chr(56)))
+                        if lecxhbCcMa(M62917xPfp(b'%k2\xef.\xcc\\\x0b'), chr(0b10101 + 0o117) + '\145' + '\x63' + chr(111) + chr(0b1100100 + 0o0) + chr(2618 - 2517))(chr(117) + chr(116) + chr(0b1100110) + chr(0b101101) + '\x38') in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'&l.'), chr(0b1100100) + chr(5306 - 5205) + chr(0b1100011) + '\x6f' + '\144' + chr(0b101000 + 0o75))(chr(0b1110101) + '\x74' + '\x66' + chr(510 - 465) + chr(0b111000)) not in rP1opCG3tZ:
+                            AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'%k2\xef.\xcc\\\x0b'), chr(100) + chr(101) + chr(2338 - 2239) + chr(0b1101111) + '\144' + chr(101))('\165' + '\164' + chr(0b1100110) + chr(45) + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(0b101000 + 0o74) + chr(9259 - 9158) + '\143' + '\x6f' + chr(843 - 743) + chr(0b1100101))('\165' + '\164' + '\146' + chr(2012 - 1967) + chr(0b111000)))
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'&d \xfb'), chr(1681 - 1581) + chr(3251 - 3150) + chr(99) + chr(111) + '\144' + chr(8707 - 8606))(chr(0b1110101) + chr(0b1110100) + chr(102) + '\055' + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), '\x64' + '\145' + '\x63' + chr(1290 - 1179) + chr(0b1100100) + '\x65')(chr(2745 - 2628) + '\164' + chr(0b1000010 + 0o44) + '\x2d' + '\x38'))
+                            AxW30Kp7UK = AxW30Kp7UK.strip()
+                            if not lecxhbCcMa(M62917xPfp(b'h'), chr(0b111000 + 0o54) + chr(10029 - 9928) + chr(3434 - 3335) + chr(0b1101111) + '\144' + '\145')(chr(11169 - 11052) + chr(1932 - 1816) + chr(0b1100110) + '\x2d' + '\x38') in AxW30Kp7UK and (not lecxhbCcMa(M62917xPfp(b'i'), chr(0b1000 + 0o134) + chr(0b1010110 + 0o17) + chr(963 - 864) + '\x6f' + chr(0b1100100) + chr(8634 - 8533))('\x75' + chr(0b1010111 + 0o35) + chr(102) + chr(45) + '\070') in AxW30Kp7UK):
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'h'), chr(2270 - 2170) + '\x65' + '\x63' + chr(0b1101111) + chr(0b1100100) + chr(101))(chr(117) + '\164' + '\146' + '\055' + chr(56)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), chr(100) + '\x65' + '\x63' + chr(0b1100001 + 0o16) + chr(2656 - 2556) + chr(0b100000 + 0o105))('\165' + chr(0b111110 + 0o66) + chr(0b1010000 + 0o26) + '\x2d' + chr(405 - 349))
+                            oTFV5eevoJ = kDPlOpYbB4(AxW30Kp7UK)
+                            if lecxhbCcMa(M62917xPfp(b'h'), '\x64' + chr(0b1100101) + '\143' + chr(171 - 60) + chr(4795 - 4695) + '\x65')('\165' + chr(0b1110100) + '\146' + chr(1910 - 1865) + '\x38') in oTFV5eevoJ:
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(709 - 609) + chr(101) + chr(0b111010 + 0o51) + chr(111) + chr(100) + chr(0b1100101))(chr(117) + chr(6832 - 6716) + chr(0b1101 + 0o131) + '\x2d' + '\x38'))(lecxhbCcMa(M62917xPfp(b'7m*\xf6*'), '\x64' + chr(2120 - 2019) + '\x63' + chr(5451 - 5340) + '\x64' + chr(101))(chr(1741 - 1624) + '\164' + chr(0b1100000 + 0o6) + chr(45) + chr(0b111000)) + oTFV5eevoJ + lecxhbCcMa(M62917xPfp(b';'), chr(100) + chr(4941 - 4840) + chr(2317 - 2218) + chr(3579 - 3468) + '\144' + '\145')(chr(0b1110101) + chr(0b101110 + 0o106) + chr(4865 - 4763) + chr(0b1000 + 0o45) + chr(0b111000)))
                             else:
-                                lax = parent_printC(line)
-                                lax = "escreva" + lax
-                                VG_codeSplit.append(lax)
-                                lax = str("")
-
-                        else:
-                            if possui_porcentagem_letra(line):
-                                line = line.lstrip("printf")
-                                line = line.strip()
-                                line = line.strip("()")
-                                lax  = substituir_marcacoes(line)
-                                lax = "(" + lax + " ) "
-                                lax = parent_printC(lax)
-                                lax = lax.strip("()")
-                                lax = sep_Bn(lax)
-                                for lnhs in lax:
-                                    lnhs = correct_aps(lnhs)
-                                    VG_codeSplit.append(lnhs)
-                                lax = str("")
-
+                                jmJZ9U8fzs(lecxhbCcMa(M62917xPfp(b',l-\xf2.\x82'), '\144' + chr(0b1100101) + chr(0b1100001 + 0o2) + '\157' + '\144' + '\x65')(chr(4756 - 4639) + chr(0b1110100) + '\146' + chr(0b101101) + '\070') + TWngu2iXgp(zxQxaVNK_c + h0J2gI7PnA('\x30' + '\157' + chr(0b110001), 8)) + lecxhbCcMa(M62917xPfp(b'z%\x06\xc8\x1d\xed\x04D=\xf3\x95\\\x07\x91\xef\x18c\x02N\x15B\xfd#\xfe\xbe\xac\x7f/\xc5\xc5\x91\x7f\xa9^\xf0kdW\x01\xfd4\xc6\xe9\xe9*\xd1'), chr(0b1100001 + 0o3) + '\145' + chr(0b1000 + 0o133) + chr(0b1101111) + '\144' + chr(4126 - 4025))('\x75' + chr(0b1101100 + 0o10) + '\x66' + chr(0b10100 + 0o31) + chr(56)))
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(101) + '\x63' + '\x6f' + '\x64' + chr(3218 - 3117))(chr(0b110010 + 0o103) + '\164' + chr(6308 - 6206) + '\x2d' + '\x38'))(lecxhbCcMa(M62917xPfp(b'7m*\xf6*\x8a\x08I\x1b\xce\xab|V\xa7\xc5vFky3c\xd7g\x1d0\x14'), chr(100) + '\x65' + '\143' + chr(5895 - 5784) + chr(0b1001001 + 0o33) + '\145')(chr(0b11100 + 0o131) + chr(116) + '\x66' + chr(189 - 144) + chr(2901 - 2845)))
+                        if lecxhbCcMa(M62917xPfp(b'&l.\xff!\xd3]\x050\xe8\x96'), '\x64' + '\145' + '\143' + chr(111) + '\144' + '\x65')(chr(6679 - 6562) + chr(0b1110100) + chr(102) + chr(888 - 843) + chr(0b10000 + 0o50)) in rP1opCG3tZ:
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(5592 - 5492) + chr(101) + '\x63' + chr(0b1101111) + '\144' + chr(101))(chr(0b1110101) + chr(116) + '\x66' + chr(1447 - 1402) + chr(56)))(lecxhbCcMa(M62917xPfp(b'='), chr(0b1100010 + 0o2) + '\145' + chr(6389 - 6290) + '\157' + chr(3680 - 3580) + '\x65')('\x75' + chr(0b100010 + 0o122) + chr(0b1100110) + chr(0b11100 + 0o21) + chr(56)))
+                        if lecxhbCcMa(M62917xPfp(b'2`3\xf3;\xc3'), chr(0b1010011 + 0o21) + chr(0b1100101) + chr(0b111010 + 0o51) + chr(0b1101111) + chr(0b1000000 + 0o44) + chr(5536 - 5435))(chr(0b1110101) + '\164' + chr(102) + chr(0b101101) + chr(1257 - 1201)) in rP1opCG3tZ:
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1100101) + chr(0b1100011) + '\157' + chr(0b1100100) + '\x65')(chr(117) + chr(0b1110100) + '\146' + chr(1027 - 982) + '\070'))(lecxhbCcMa(M62917xPfp(b'$j8'), chr(1238 - 1138) + chr(414 - 313) + chr(0b11110 + 0o105) + '\157' + '\144' + '\145')(chr(5229 - 5112) + chr(0b11001 + 0o133) + '\x66' + chr(307 - 262) + chr(56)))
+                        if lecxhbCcMa(M62917xPfp(b'!q&'), chr(0b1100100) + chr(0b11010 + 0o113) + '\143' + chr(0b1101111) + chr(0b1001111 + 0o25) + chr(0b1000 + 0o135))(chr(0b1100111 + 0o16) + chr(6171 - 6055) + '\x66' + chr(0b101101) + chr(0b111000)) in jiSsxIKE6_(rP1opCG3tZ) and lecxhbCcMa(M62917xPfp(b'3`'), chr(100) + chr(0b101110 + 0o67) + '\143' + '\157' + chr(100) + chr(101))(chr(0b1110101) + chr(0b110001 + 0o103) + chr(0b11111 + 0o107) + '\055' + chr(0b100000 + 0o30)) not in rP1opCG3tZ and (lecxhbCcMa(M62917xPfp(b'0d1\xfb'), chr(9924 - 9824) + chr(101) + chr(0b100 + 0o137) + chr(0b1 + 0o156) + chr(0b1100100) + '\145')(chr(117) + chr(4372 - 4256) + chr(0b1100110) + chr(45) + chr(0b1111 + 0o51)) not in rP1opCG3tZ):
+                            AxW30Kp7UK = jiSsxIKE6_(rP1opCG3tZ)
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'!q&'), '\144' + chr(3841 - 3740) + chr(9598 - 9499) + '\157' + '\x64' + chr(0b1100101))('\165' + chr(116) + chr(102) + chr(1797 - 1752) + chr(0b101100 + 0o14)), lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(101) + chr(99) + chr(10711 - 10600) + chr(9072 - 8972) + '\x65')(chr(117) + chr(0b1110100) + '\146' + '\055' + '\070'))
+                            AxW30Kp7UK = AxW30Kp7UK.strip()
+                            if not lecxhbCcMa(M62917xPfp(b'h'), chr(5490 - 5390) + '\145' + chr(99) + chr(111) + chr(0b101111 + 0o65) + '\x65')(chr(117) + chr(116) + chr(7896 - 7794) + '\x2d' + chr(0b111000)) in AxW30Kp7UK and (not lecxhbCcMa(M62917xPfp(b'i'), chr(0b1100100) + chr(101) + '\x63' + '\157' + chr(0b1100100) + chr(0b1000111 + 0o36))('\165' + '\164' + '\146' + chr(0b101101) + chr(2593 - 2537)) in AxW30Kp7UK):
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'h'), '\x64' + chr(1124 - 1023) + '\x63' + chr(0b101110 + 0o101) + '\x64' + chr(0b101011 + 0o72))(chr(117) + '\x74' + chr(0b1000101 + 0o41) + chr(0b110 + 0o47) + '\070') + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), chr(100) + '\145' + chr(0b111010 + 0o51) + '\x6f' + '\x64' + '\x65')('\x75' + chr(116) + '\146' + chr(0b100110 + 0o7) + '\x38')
+                            oTFV5eevoJ = wqsGYxuHp_(AxW30Kp7UK)
+                            if lecxhbCcMa(M62917xPfp(b'h'), '\144' + chr(0b1010101 + 0o20) + '\x63' + '\x6f' + '\x64' + '\145')('\x75' + chr(116) + chr(102) + chr(1249 - 1204) + chr(56)) in oTFV5eevoJ:
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + '\x65' + chr(0b1100011) + chr(2743 - 2632) + chr(0b1100100) + chr(0b1000111 + 0o36))(chr(0b1110101) + chr(0b1011 + 0o151) + chr(102) + chr(349 - 304) + chr(3038 - 2982)))(lecxhbCcMa(M62917xPfp(b'=r+\xf3#\xc7'), '\144' + chr(9938 - 9837) + chr(0b111111 + 0o44) + '\157' + '\x64' + '\x65')(chr(10452 - 10335) + chr(5863 - 5747) + chr(6110 - 6008) + chr(0b101101) + chr(0b100100 + 0o24)) + oTFV5eevoJ + lecxhbCcMa(M62917xPfp(b'{'), chr(9816 - 9716) + chr(5145 - 5044) + chr(0b100 + 0o137) + chr(0b1101111) + chr(0b1001111 + 0o25) + chr(0b10011 + 0o122))(chr(0b1011100 + 0o31) + chr(1575 - 1459) + chr(9256 - 9154) + chr(0b101101) + '\070'))
                             else:
-                                lax = parent_printC(line)
-                                lax = lax.strip("()")
-                                lax = sep_Bn(lax)
-                                for lnhs in lax:
-                                    VG_codeSplit.append(lnhs)
-                        
-                    if ("do" in line and "{" in line):
-                        VG_codeSplit.append("repita")
+                                jmJZ9U8fzs(lecxhbCcMa(M62917xPfp(b',l-\xf2.\x82'), chr(4419 - 4319) + chr(0b1 + 0o144) + '\143' + chr(111) + chr(0b11010 + 0o112) + chr(0b11110 + 0o107))(chr(0b1110101) + '\x74' + '\146' + '\x2d' + chr(0b1011 + 0o55)) + TWngu2iXgp(zxQxaVNK_c + h0J2gI7PnA(chr(2007 - 1959) + chr(0b1010011 + 0o34) + '\x31', 8)) + lecxhbCcMa(M62917xPfp(b'z%\x06\xc8\x1d\xed\x04D=\xf3\x95\\\x07\x91\xef\x18c\x02N\x15B\xfd#\xfe\xbe\xac\x7f/\xc5\xc5\x91\x7f\xa9^\xf0kdW\x01\xfd4\xc6\xe9\xe9*\xd1'), '\x64' + chr(2375 - 2274) + chr(0b1100011) + '\x6f' + '\144' + chr(0b1100101))(chr(5706 - 5589) + chr(0b1110100) + '\x66' + chr(470 - 425) + chr(0b1110 + 0o52)))
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1100101) + '\x63' + chr(111) + '\144' + '\x65')(chr(117) + chr(0b1110100) + chr(5518 - 5416) + '\055' + chr(0b101000 + 0o20)))(lecxhbCcMa(M62917xPfp(b'=r+\xf3#\xc7\x00Ds\xd9\xaba9\xc4\xc9wLfd.e\xd6\x04\x109F\xe7'), '\x64' + chr(101) + '\x63' + '\157' + chr(0b1100100) + '\x65')('\x75' + chr(4844 - 4728) + chr(0b0 + 0o146) + '\x2d' + chr(56)))
+                        if lecxhbCcMa(M62917xPfp(b'3`'), '\144' + chr(4631 - 4530) + '\143' + chr(111) + '\144' + chr(0b1100101))(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(1142 - 1097) + chr(56)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'%k7\xfb '), chr(8126 - 8026) + chr(752 - 651) + '\x63' + chr(0b1101111) + chr(0b1100100) + '\x65')('\165' + chr(0b1011 + 0o151) + chr(102) + chr(0b101101) + chr(56)) in jiSsxIKE6_(rP1opCG3tZ) and (not lecxhbCcMa(M62917xPfp(b'3`-\xfb '), chr(100) + chr(8018 - 7917) + chr(99) + '\157' + chr(100) + chr(6644 - 6543))(chr(117) + '\164' + chr(102) + chr(0b100011 + 0o12) + '\070') in jiSsxIKE6_(rP1opCG3tZ)):
+                            AxW30Kp7UK = jiSsxIKE6_(rP1opCG3tZ)
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'3`'), '\144' + '\145' + chr(0b111000 + 0o53) + chr(0b1101111) + '\x64' + chr(1169 - 1068))('\x75' + chr(116) + '\x66' + chr(0b101101) + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(0b101010 + 0o72) + chr(8518 - 8417) + '\143' + chr(4644 - 4533) + chr(0b1100100) + chr(101))(chr(117) + '\164' + '\x66' + '\x2d' + '\x38'))
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'%k7\xfb '), '\144' + chr(3706 - 3605) + chr(0b1100011) + '\157' + chr(100) + '\x65')(chr(117) + chr(3588 - 3472) + '\x66' + chr(860 - 815) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(9507 - 9406) + chr(0b1100011) + chr(0b1101111) + '\144' + chr(101))(chr(0b1110101) + chr(0b1111 + 0o145) + '\146' + '\055' + chr(0b111000)))
+                            AxW30Kp7UK = AxW30Kp7UK.strip()
+                            if not lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + '\x65' + chr(0b1100011) + '\157' + '\144' + chr(775 - 674))('\165' + '\x74' + '\146' + chr(45) + chr(0b1010 + 0o56)) in AxW30Kp7UK and (not lecxhbCcMa(M62917xPfp(b'i'), chr(100) + '\x65' + chr(99) + chr(111) + chr(3934 - 3834) + chr(0b0 + 0o145))('\165' + chr(0b1100 + 0o150) + chr(102) + '\x2d' + '\x38') in AxW30Kp7UK):
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'h'), '\x64' + '\x65' + chr(0b1111 + 0o124) + chr(111) + '\x64' + chr(1349 - 1248))('\x75' + chr(0b1101000 + 0o14) + chr(0b1100110) + '\x2d' + chr(883 - 827)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), '\144' + '\145' + '\x63' + chr(2569 - 2458) + '\x64' + '\x65')('\165' + '\164' + chr(3114 - 3012) + chr(45) + chr(56))
+                            oTFV5eevoJ = kDPlOpYbB4(AxW30Kp7UK)
+                            if lecxhbCcMa(M62917xPfp(b'h'), chr(100) + chr(101) + chr(99) + chr(0b111 + 0o150) + '\144' + '\x65')('\x75' + chr(0b1110100) + chr(0b1001111 + 0o27) + chr(0b10010 + 0o33) + '\070') in oTFV5eevoJ:
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1100101) + '\143' + chr(0b1 + 0o156) + chr(6202 - 6102) + chr(101))('\x75' + chr(116) + '\x66' + '\x2d' + chr(257 - 201)))(lecxhbCcMa(M62917xPfp(b')c'), '\x64' + chr(101) + chr(0b1100011) + chr(111) + chr(0b110110 + 0o56) + chr(0b1100101))(chr(2756 - 2639) + chr(0b101 + 0o157) + chr(0b1010110 + 0o20) + chr(0b101101) + chr(0b11100 + 0o34)) + oTFV5eevoJ + lecxhbCcMa(M62917xPfp(b';'), chr(6253 - 6153) + chr(0b1011111 + 0o6) + chr(0b1000001 + 0o42) + chr(0b100110 + 0o111) + chr(0b1100100) + '\145')(chr(117) + chr(116) + '\x66' + '\055' + chr(56)))
+                            else:
+                                jmJZ9U8fzs(lecxhbCcMa(M62917xPfp(b',l-\xf2.\x82'), chr(100) + chr(8604 - 8503) + chr(99) + '\x6f' + chr(5615 - 5515) + chr(101))(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + chr(0b101000 + 0o5) + chr(0b10011 + 0o45)) + TWngu2iXgp(zxQxaVNK_c + h0J2gI7PnA(chr(1523 - 1475) + chr(1983 - 1872) + chr(0b1101 + 0o44), 8)) + lecxhbCcMa(M62917xPfp(b'z%\x06\xc8\x1d\xed\x04D=\xf3\x95\\\x07\x91\xef\x18c\x02N\x15B\xfd#\xfe\xbe\xac\x7f/\xc5\xc5\x91\x7f\xa9^\xf0kdW\x01\xfd4\xc6\xe9\xe9*\xd1'), chr(100) + chr(101) + chr(0b1100011) + chr(0b1100010 + 0o15) + chr(100) + '\145')(chr(0b1110101) + chr(0b1100110 + 0o16) + chr(0b1100110) + chr(269 - 224) + '\x38'))
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1100101) + '\143' + chr(111) + chr(0b1100 + 0o130) + '\x65')(chr(7806 - 7689) + '\164' + '\146' + chr(45) + '\070'))(lecxhbCcMa(M62917xPfp(b')ck\xbab\xe7z6\x11\xbc\xba|8\xa0\xc3lKmcW\x0c\xb01'), chr(100) + chr(0b10011 + 0o122) + '\x63' + '\x6f' + '\x64' + '\145')('\x75' + chr(0b1010111 + 0o35) + chr(102) + chr(0b101001 + 0o4) + '\070'))
+                        if lecxhbCcMa(M62917xPfp(b'3`-\xfb '), chr(100) + '\145' + chr(99) + chr(111) + '\x64' + '\145')(chr(12796 - 12679) + '\x74' + chr(0b1100110) + chr(45) + chr(0b110001 + 0o7)) in jiSsxIKE6_(rP1opCG3tZ):
+                            if lecxhbCcMa(M62917xPfp(b'%k7\xfb '), '\x64' + chr(101) + '\x63' + '\157' + chr(100) + chr(0b100001 + 0o104))('\165' + chr(0b1101111 + 0o5) + chr(0b11010 + 0o114) + chr(45) + chr(56)) in jiSsxIKE6_(rP1opCG3tZ):
+                                AxW30Kp7UK = jiSsxIKE6_(rP1opCG3tZ).replace(lecxhbCcMa(M62917xPfp(b'3`-\xfb '), chr(3250 - 3150) + chr(0b1010 + 0o133) + chr(99) + chr(0b101 + 0o152) + chr(100) + '\x65')(chr(0b1110101) + chr(0b110000 + 0o104) + '\x66' + chr(1934 - 1889) + chr(2736 - 2680)), lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(2107 - 2006) + chr(0b111011 + 0o50) + chr(0b1010110 + 0o31) + '\x64' + chr(0b111110 + 0o47))(chr(0b1011010 + 0o33) + chr(116) + chr(0b1100110) + '\055' + chr(0b111000)))
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'3`'), chr(7692 - 7592) + '\145' + chr(0b1100011) + chr(0b1100111 + 0o10) + chr(0b101100 + 0o70) + chr(101))('\x75' + '\164' + chr(0b1100110) + chr(171 - 126) + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(5402 - 5302) + chr(101) + chr(6339 - 6240) + '\157' + chr(110 - 10) + '\x65')('\x75' + chr(0b1110100) + '\146' + '\x2d' + chr(1286 - 1230)))
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'%k7\xfb '), '\144' + chr(101) + '\x63' + chr(0b1101111) + chr(2144 - 2044) + '\145')(chr(117) + chr(7219 - 7103) + chr(0b11011 + 0o113) + '\x2d' + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(0b1100101) + chr(0b1100011) + '\157' + '\144' + '\145')('\x75' + chr(0b11000 + 0o134) + chr(0b1011 + 0o133) + chr(45) + '\x38'))
+                                AxW30Kp7UK = AxW30Kp7UK.strip()
+                                if not lecxhbCcMa(M62917xPfp(b'h'), '\144' + chr(607 - 506) + chr(99) + chr(0b11 + 0o154) + chr(0b1100100) + '\145')(chr(0b110000 + 0o105) + '\164' + '\146' + chr(0b100001 + 0o14) + '\070') in AxW30Kp7UK and (not lecxhbCcMa(M62917xPfp(b'i'), chr(0b1101 + 0o127) + chr(101) + chr(0b1100011) + chr(0b101000 + 0o107) + '\x64' + chr(0b101010 + 0o73))('\x75' + '\164' + '\146' + chr(45) + '\x38') in AxW30Kp7UK):
+                                    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + '\x65' + chr(0b1100011) + chr(0b111111 + 0o60) + '\x64' + '\145')(chr(117) + chr(0b1101111 + 0o5) + chr(102) + chr(904 - 859) + '\070') + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), chr(0b111000 + 0o54) + '\x65' + '\x63' + chr(111) + '\x64' + chr(0b1100101))(chr(3352 - 3235) + chr(11510 - 11394) + '\x66' + '\055' + chr(0b10 + 0o66))
+                                oTFV5eevoJ = kDPlOpYbB4(AxW30Kp7UK)
+                                if lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + '\x65' + chr(0b1100011) + chr(0b1010001 + 0o36) + chr(1459 - 1359) + chr(0b1011000 + 0o15))('\x75' + chr(116) + '\146' + chr(1250 - 1205) + chr(345 - 289)) in oTFV5eevoJ:
+                                    lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(3300 - 3200) + '\145' + '\x63' + chr(0b110100 + 0o73) + chr(7739 - 7639) + '\x65')(chr(12643 - 12526) + chr(0b1100010 + 0o22) + chr(7399 - 7297) + chr(1743 - 1698) + '\x38'))(lecxhbCcMa(M62917xPfp(b'=%&\xf6<\xc7\x08\r8\xbc'), chr(3853 - 3753) + chr(0b1100101) + '\143' + '\157' + '\x64' + chr(0b1100101))(chr(9167 - 9050) + '\x74' + '\x66' + '\055' + chr(1917 - 1861)) + oTFV5eevoJ + lecxhbCcMa(M62917xPfp(b'`~'), '\x64' + '\145' + chr(0b1000100 + 0o37) + '\x6f' + chr(7034 - 6934) + '\145')(chr(117) + chr(0b1110100) + chr(2697 - 2595) + '\055' + chr(2151 - 2095)))
+                            else:
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(5163 - 5062) + chr(5099 - 5000) + '\157' + '\144' + '\x65')(chr(117) + chr(0b1110100) + chr(0b1011100 + 0o12) + chr(0b1010 + 0o43) + '\x38'))(lecxhbCcMa(M62917xPfp(b'=%&\xf6<\xc7S'), chr(0b1100100) + chr(101) + '\x63' + chr(0b1101111) + chr(3375 - 3275) + '\145')(chr(0b1001111 + 0o46) + '\164' + '\146' + chr(45) + chr(56)))
+                        if lecxhbCcMa(M62917xPfp(b'&l.\xe9*'), chr(0b11100 + 0o110) + chr(0b111 + 0o136) + chr(0b11100 + 0o107) + chr(5506 - 5395) + '\144' + '\145')(chr(0b1000101 + 0o60) + '\x74' + '\x66' + chr(1457 - 1412) + chr(0b111000)) in rP1opCG3tZ:
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(5475 - 5374) + chr(0b1100011) + chr(111) + chr(0b111110 + 0o46) + chr(342 - 241))(chr(117) + chr(116) + chr(0b1001111 + 0o27) + '\x2d' + chr(1101 - 1045)))(lecxhbCcMa(M62917xPfp(b'='), '\x64' + chr(0b1100101) + '\x63' + chr(111) + chr(100) + chr(0b1000100 + 0o41))(chr(0b1110101) + '\164' + chr(0b1100110) + chr(0b100010 + 0o13) + chr(0b111000)))
+                        if lecxhbCcMa(M62917xPfp(b'|('), '\x64' + '\x65' + '\143' + chr(0b11001 + 0o126) + chr(0b1100100) + chr(101))(chr(1496 - 1379) + chr(0b1110100) + chr(0b101011 + 0o73) + '\055' + chr(0b101011 + 0o15)) in rP1opCG3tZ or lecxhbCcMa(M62917xPfp(b'z8'), chr(100) + chr(101) + chr(0b1100011) + '\x6f' + chr(100) + '\145')('\165' + chr(0b1100101 + 0o17) + chr(0b1100110) + '\055' + '\x38') in rP1opCG3tZ:
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'z8'), chr(100) + chr(101) + '\143' + chr(0b110001 + 0o76) + chr(100) + '\x65')(chr(117) + chr(1539 - 1423) + '\146' + chr(361 - 316) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b'|('), chr(9363 - 9263) + chr(0b11111 + 0o106) + chr(0b1100011) + chr(11832 - 11721) + '\144' + '\145')(chr(7270 - 7153) + chr(0b1110100) + '\x66' + chr(0b11111 + 0o16) + '\x38'))
+                            d54k1cxsXC = rP1opCG3tZ.split(lecxhbCcMa(M62917xPfp(b'|('), chr(100) + chr(101) + chr(9158 - 9059) + '\157' + chr(100) + '\x65')('\x75' + chr(116) + chr(7231 - 7129) + chr(0b100001 + 0o14) + chr(2521 - 2465)))
+                            gxjlnudR0x = TWngu2iXgp(d54k1cxsXC[h0J2gI7PnA('\060' + '\157' + chr(49), 8)])
+                            d54k1cxsXC = TWngu2iXgp(d54k1cxsXC[h0J2gI7PnA(chr(915 - 867) + chr(111) + chr(1375 - 1327), 8)])
+                            d54k1cxsXC = d54k1cxsXC.strip()
+                            f_bLRvglqg = LRA3DcPn3Y[d54k1cxsXC]
+                            if lecxhbCcMa(M62917xPfp(b'3'), chr(4255 - 4155) + '\x65' + chr(0b1100011) + chr(7196 - 7085) + chr(2019 - 1919) + chr(8896 - 8795))('\165' + chr(0b1101100 + 0o10) + chr(102) + chr(0b101101) + chr(56)) in f_bLRvglqg or lecxhbCcMa(M62917xPfp(b'#'), chr(0b1100100) + '\x65' + chr(0b1100000 + 0o3) + chr(0b1101111) + '\x64' + '\x65')(chr(117) + chr(116) + chr(0b1101 + 0o131) + '\x2d' + '\070') in f_bLRvglqg:
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'3q1\xf9?\xdb\x00'), chr(0b100101 + 0o77) + chr(7731 - 7630) + '\143' + '\x6f' + chr(100) + chr(0b11 + 0o142))('\165' + '\164' + '\x66' + chr(45) + '\x38') + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'l%'), chr(100) + chr(0b1100101) + chr(0b1100011) + '\157' + '\x64' + chr(9692 - 9591))(chr(0b1110101) + chr(0b1000111 + 0o55) + '\146' + '\055' + '\x38') + gxjlnudR0x + lecxhbCcMa(M62917xPfp(b'i>'), chr(0b1100100) + '\x65' + chr(99) + chr(0b1101111) + chr(100) + chr(0b100010 + 0o103))(chr(6000 - 5883) + chr(603 - 487) + chr(0b1100110) + chr(0b101101) + chr(0b11111 + 0o31))
+                                if sJQWWyudf4 == h0J2gI7PnA(chr(48) + chr(0b1101111) + '\x30', 8):
+                                    lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), chr(100) + '\x65' + chr(99) + chr(0b11000 + 0o127) + '\144' + chr(101))(chr(5535 - 5418) + chr(5734 - 5618) + chr(0b11110 + 0o110) + chr(0b11011 + 0o22) + '\x38'))(h0J2gI7PnA('\060' + '\157' + chr(0b110000 + 0o1), 8), lecxhbCcMa(M62917xPfp(b'cl-\xf9#\xd7L\x01b\xef\x8dA\x1f\x8a\xed\x16j\x1c'), chr(1339 - 1239) + chr(0b100 + 0o141) + chr(8605 - 8506) + chr(111) + chr(0b1100100) + chr(0b1100101))('\x75' + chr(0b1100011 + 0o21) + chr(4637 - 4535) + chr(0b101000 + 0o5) + '\x38'))
+                                    sJQWWyudf4 += h0J2gI7PnA(chr(48) + chr(6382 - 6271) + chr(0b110001), 8)
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b11010 + 0o113) + chr(99) + chr(111) + chr(0b11001 + 0o113) + chr(0b1100101))(chr(117) + chr(0b1110100) + '\x66' + chr(0b101101) + chr(0b111000)))(AxW30Kp7UK)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(101) + chr(0b111 + 0o134) + '\x6f' + '\x64' + '\x65')(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(1876 - 1831) + '\x38')
+                            else:
+                                AxW30Kp7UK = rP1opCG3tZ
+                                if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + chr(7369 - 7268) + chr(0b1100011) + chr(0b1101111) + chr(0b1101 + 0o127) + chr(101))(chr(0b1110101) + chr(0b10101 + 0o137) + chr(102) + chr(1067 - 1022) + chr(0b111000)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'\x1d'), chr(100) + chr(101) + chr(6778 - 6679) + chr(0b1101111) + '\x64' + '\145')(chr(0b1100000 + 0o25) + chr(116) + '\146' + chr(0b101101) + chr(731 - 675)) in rP1opCG3tZ:
+                                    gQPi4JDqqS = dGS0VJ1Il2(rP1opCG3tZ)
+                                    for (WYDXkaCRAa, h0JnTSQnsV) in lecxhbCcMa(gQPi4JDqqS, lecxhbCcMa(M62917xPfp(b')q&\xf7<'), chr(0b1100100) + chr(101) + chr(0b1100011) + chr(111) + chr(1941 - 1841) + chr(6886 - 6785))(chr(117) + '\164' + chr(7745 - 7643) + chr(45) + chr(0b110011 + 0o5)))():
+                                        MgT5SK4QUd = TWngu2iXgp(WYDXkaCRAa)
+                                        NTXvcoOOAe = TWngu2iXgp(h0JnTSQnsV)
+                                        if MgT5SK4QUd in AxW30Kp7UK:
+                                            AxW30Kp7UK = AxW30Kp7UK.replace(MgT5SK4QUd, NTXvcoOOAe)
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'|('), chr(0b1100100) + chr(8597 - 8496) + '\x63' + chr(10362 - 10251) + chr(7622 - 7522) + chr(1317 - 1216))('\165' + chr(0b1101000 + 0o14) + chr(102) + chr(407 - 362) + '\070'), lecxhbCcMa(M62917xPfp(b'}'), chr(7906 - 7806) + chr(101) + chr(0b11001 + 0o112) + '\x6f' + chr(0b1100100) + '\145')(chr(0b1110101) + '\x74' + '\x66' + '\055' + '\x38'))
+                                AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'{'), '\x64' + chr(4748 - 4647) + chr(0b1100011) + chr(0b1101111) + chr(1581 - 1481) + chr(6047 - 5946))(chr(0b111000 + 0o75) + '\x74' + chr(0b100110 + 0o100) + chr(0b101101) + chr(56))
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1000010 + 0o42) + '\145' + '\x63' + chr(111) + chr(0b1100100) + '\145')('\165' + chr(0b1110100) + '\146' + '\x2d' + chr(0b111000)))(AxW30Kp7UK)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(454 - 354) + '\145' + chr(99) + chr(0b1101111) + chr(2408 - 2308) + chr(0b1100101))(chr(0b110 + 0o157) + '\x74' + chr(4903 - 4801) + '\x2d' + chr(0b11001 + 0o37))
+                        if lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I'), '\x64' + chr(9569 - 9468) + chr(99) + chr(0b1101111) + chr(0b10110 + 0o116) + chr(1777 - 1676))(chr(0b1110101) + '\x74' + chr(102) + chr(0b1100 + 0o41) + '\070') in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08'), chr(100) + chr(0b1100101) + '\143' + chr(0b111010 + 0o65) + '\144' + chr(101))(chr(117) + '\164' + '\146' + chr(0b10 + 0o53) + chr(0b101010 + 0o16)) not in rP1opCG3tZ:
+                            AxW30Kp7UK = rP1opCG3tZ
+                            if lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + '\x65' + '\143' + chr(0b11111 + 0o120) + chr(1886 - 1786) + '\145')('\165' + chr(0b1011000 + 0o34) + '\146' + chr(0b101101) + chr(0b11 + 0o65)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'\x1d'), '\144' + chr(5206 - 5105) + '\143' + chr(0b101000 + 0o107) + chr(100) + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + chr(0b0 + 0o55) + chr(0b111000)) in rP1opCG3tZ:
+                                gQPi4JDqqS = dGS0VJ1Il2(rP1opCG3tZ)
+                                for (WYDXkaCRAa, h0JnTSQnsV) in lecxhbCcMa(gQPi4JDqqS, lecxhbCcMa(M62917xPfp(b')q&\xf7<'), chr(0b1100100) + '\x65' + '\143' + chr(111) + '\144' + '\x65')(chr(0b1001000 + 0o55) + chr(116) + chr(0b1000100 + 0o42) + '\055' + chr(0b111000)))():
+                                    MgT5SK4QUd = TWngu2iXgp(WYDXkaCRAa)
+                                    NTXvcoOOAe = TWngu2iXgp(h0JnTSQnsV)
+                                    if MgT5SK4QUd in AxW30Kp7UK:
+                                        AxW30Kp7UK = AxW30Kp7UK.replace(MgT5SK4QUd, NTXvcoOOAe)
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I'), chr(0b1100100) + '\x65' + chr(99) + chr(111) + '\x64' + '\145')(chr(117) + chr(0b111 + 0o155) + '\x66' + chr(0b101101) + chr(0b11100 + 0o34)), lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4'), chr(6699 - 6599) + chr(0b1100101) + chr(169 - 70) + chr(111) + chr(0b11011 + 0o111) + '\x65')('\x75' + '\x74' + chr(0b1100110) + chr(0b11 + 0o52) + chr(1487 - 1431)))
+                            AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'{'), '\144' + chr(101) + chr(99) + '\x6f' + '\144' + '\x65')('\165' + '\x74' + chr(0b1100110) + chr(0b101101) + chr(0b1 + 0o67))
+                            AxW30Kp7UK = Ri3aewR_xE(AxW30Kp7UK, LRA3DcPn3Y)
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + '\x65' + chr(99) + chr(6606 - 6495) + '\x64' + chr(101))(chr(11027 - 10910) + chr(8426 - 8310) + chr(0b1100110) + '\x2d' + chr(0b111000)))(AxW30Kp7UK)
+                            AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), '\x64' + '\x65' + '\x63' + '\x6f' + chr(4770 - 4670) + chr(1506 - 1405))('\x75' + '\x74' + chr(102) + chr(0b101101) + chr(56))
+                        if lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08'), chr(4384 - 4284) + chr(8497 - 8396) + '\x63' + '\157' + chr(0b1100100) + chr(101))(chr(0b110001 + 0o104) + '\164' + chr(0b1100110) + chr(929 - 884) + chr(0b11 + 0o65)) in rP1opCG3tZ:
+                            gxjlnudR0x = h0J2gI7PnA('\060' + '\157' + '\x30', 8)
+                            AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'i'), '\144' + chr(101) + '\143' + chr(0b1101111) + chr(0b1100100) + chr(0b1100101))(chr(0b1101010 + 0o13) + chr(116) + '\x66' + '\x2d' + chr(56)), lecxhbCcMa(M62917xPfp(b''), chr(8722 - 8622) + chr(0b1101 + 0o130) + chr(99) + chr(2721 - 2610) + chr(0b1100100) + chr(0b110001 + 0o64))(chr(5136 - 5019) + chr(0b1110100) + chr(0b101001 + 0o75) + '\x2d' + chr(0b11100 + 0o34)))
+                            AxW30Kp7UK = AxW30Kp7UK.rstrip()
+                            AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), chr(0b1100100) + chr(0b1100101) + chr(243 - 144) + chr(111) + chr(0b1100100) + chr(101))(chr(0b110010 + 0o103) + chr(0b1001010 + 0o52) + '\x66' + chr(0b1001 + 0o44) + chr(0b111000))
+                            if lecxhbCcMa(M62917xPfp(b'h,'), chr(6902 - 6802) + '\145' + '\143' + '\157' + chr(0b1100100) + chr(0b10100 + 0o121))(chr(12713 - 12596) + chr(0b1110010 + 0o2) + chr(102) + chr(0b101 + 0o50) + '\070') in AxW30Kp7UK:
+                                gxjlnudR0x = h0J2gI7PnA(chr(48) + chr(111) + chr(0b110001), 8)
+                            if gxjlnudR0x == h0J2gI7PnA(chr(0b11001 + 0o27) + '\x6f' + chr(927 - 879), 8):
+                                AxW30Kp7UK = rP1opCG3tZ
+                                if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b101110 + 0o66) + chr(0b1100101) + '\x63' + chr(6249 - 6138) + '\144' + '\x65')(chr(0b1110101) + chr(0b1010111 + 0o35) + chr(768 - 666) + '\x2d' + '\070') in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'\x1d'), '\x64' + chr(9255 - 9154) + chr(0b1010 + 0o131) + chr(1512 - 1401) + chr(0b110101 + 0o57) + chr(9663 - 9562))(chr(0b101110 + 0o107) + chr(0b1110100) + chr(4131 - 4029) + chr(45) + '\070') in rP1opCG3tZ:
+                                    AxW30Kp7UK = rP1opCG3tZ
+                                if lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + chr(9646 - 9545) + chr(99) + chr(0b1101111) + '\x64' + chr(7800 - 7699))(chr(0b1110101) + chr(116) + chr(102) + chr(0b101101) + chr(326 - 270)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'\x1d'), '\144' + chr(0b100101 + 0o100) + chr(99) + chr(111) + chr(0b101000 + 0o74) + chr(0b1100101))(chr(10769 - 10652) + chr(10588 - 10472) + chr(0b1100110) + chr(1015 - 970) + chr(0b110101 + 0o3)) in rP1opCG3tZ:
+                                    gQPi4JDqqS = dGS0VJ1Il2(rP1opCG3tZ)
+                                    for (WYDXkaCRAa, h0JnTSQnsV) in lecxhbCcMa(gQPi4JDqqS, lecxhbCcMa(M62917xPfp(b')q&\xf7<'), chr(2465 - 2365) + chr(101) + chr(0b1100011) + chr(10183 - 10072) + chr(0b1 + 0o143) + chr(955 - 854))(chr(0b0 + 0o165) + chr(116) + chr(102) + chr(0b1100 + 0o41) + chr(231 - 175)))():
+                                        MgT5SK4QUd = TWngu2iXgp(WYDXkaCRAa)
+                                        NTXvcoOOAe = TWngu2iXgp(h0JnTSQnsV)
+                                        if MgT5SK4QUd in AxW30Kp7UK:
+                                            AxW30Kp7UK = AxW30Kp7UK.replace(MgT5SK4QUd, NTXvcoOOAe)
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08'), chr(0b1100100) + chr(0b1100101) + chr(99) + '\157' + '\144' + '\145')(chr(0b1110101) + chr(0b1101110 + 0o6) + chr(205 - 103) + chr(0b101101) + '\x38'), lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4'), chr(100) + chr(8800 - 8699) + chr(0b1100011) + chr(8303 - 8192) + chr(0b1100100) + chr(0b1011 + 0o132))(chr(0b10100 + 0o141) + chr(0b100100 + 0o120) + '\146' + chr(45) + '\070'))
+                                AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'{'), chr(100) + '\145' + '\143' + chr(6658 - 6547) + chr(9132 - 9032) + chr(0b1100101))('\x75' + chr(116) + chr(2952 - 2850) + '\x2d' + chr(2725 - 2669))
+                                AxW30Kp7UK = Ri3aewR_xE(AxW30Kp7UK, LRA3DcPn3Y)
+                                hP1EOi7PhV = AxW30Kp7UK.rfind(lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + chr(181 - 80) + '\143' + chr(590 - 479) + chr(100) + '\145')(chr(0b11001 + 0o134) + '\164' + '\x66' + chr(1217 - 1172) + '\x38'))
+                                if hP1EOi7PhV != -h0J2gI7PnA(chr(169 - 121) + chr(0b1011100 + 0o23) + chr(486 - 437), 8):
+                                    AxW30Kp7UK = AxW30Kp7UK[:hP1EOi7PhV] + lecxhbCcMa(M62917xPfp(b'\x1cka'), chr(635 - 535) + '\145' + '\143' + chr(866 - 755) + chr(5283 - 5183) + '\145')(chr(0b1110101) + chr(0b1110100) + '\x66' + chr(0b101101) + chr(56)) + AxW30Kp7UK[hP1EOi7PhV + h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + '\x31', 8):]
+                                AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b"h'c"), '\x64' + '\x65' + chr(0b1100011) + '\x6f' + '\x64' + chr(7698 - 7597))(chr(0b1110101) + chr(0b1100101 + 0o17) + chr(102) + chr(0b101101) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b"h'"), chr(6824 - 6724) + chr(0b1100101) + '\x63' + '\157' + chr(100) + '\x65')(chr(1470 - 1353) + chr(0b11110 + 0o126) + '\x66' + '\x2d' + '\070'))
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(3243 - 3143) + chr(0b1100101) + chr(99) + '\157' + '\144' + chr(0b100010 + 0o103))(chr(7392 - 7275) + '\164' + chr(0b1100110) + chr(0b101101) + '\x38'))(AxW30Kp7UK)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + '\x65' + chr(99) + chr(8490 - 8379) + chr(0b1100100) + '\x65')(chr(0b10101 + 0o140) + chr(116) + '\x66' + chr(0b10011 + 0o32) + chr(2817 - 2761))
+                            else:
+                                lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(798 - 697) + chr(8488 - 8389) + '\157' + chr(100) + '\145')(chr(117) + chr(0b1110100) + chr(2990 - 2888) + chr(1652 - 1607) + '\x38'))(lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4\x08L|\xc0\x97\x11_\xdf'), '\144' + chr(0b100 + 0o141) + chr(9590 - 9491) + chr(8289 - 8178) + chr(9112 - 9012) + chr(0b1100101))('\x75' + chr(0b11100 + 0o130) + '\x66' + '\055' + chr(0b100100 + 0o24)))
+                        if lecxhbCcMa(M62917xPfp(b',`*\xfb'), '\144' + chr(1318 - 1217) + '\x63' + chr(0b1101111) + '\144' + '\145')(chr(117) + '\x74' + '\146' + chr(0b101101) + chr(0b100000 + 0o30)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'i'), chr(4085 - 3985) + chr(0b1100101) + chr(99) + chr(0b1110 + 0o141) + chr(0b100110 + 0o76) + chr(343 - 242))('\165' + chr(0b1110100) + chr(9188 - 9086) + chr(45) + chr(0b111000)) in rP1opCG3tZ:
+                            AxW30Kp7UK = rP1opCG3tZ
+                            if lecxhbCcMa(M62917xPfp(b'\x1b'), '\144' + chr(0b1010111 + 0o16) + chr(99) + '\157' + chr(0b1 + 0o143) + chr(101))(chr(0b1110101) + '\x74' + chr(102) + chr(0b100001 + 0o14) + '\070') in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'\x1d'), chr(4654 - 4554) + chr(5578 - 5477) + chr(8447 - 8348) + chr(0b1101111) + chr(0b1100100) + '\145')(chr(117) + chr(0b1110100) + chr(8124 - 8022) + '\055' + '\070') in rP1opCG3tZ:
+                                gQPi4JDqqS = dGS0VJ1Il2(rP1opCG3tZ)
+                                for (WYDXkaCRAa, h0JnTSQnsV) in lecxhbCcMa(gQPi4JDqqS, lecxhbCcMa(M62917xPfp(b')q&\xf7<'), chr(100) + '\x65' + chr(99) + chr(0b1101111) + chr(0b11001 + 0o113) + '\x65')('\x75' + '\x74' + '\146' + chr(1483 - 1438) + chr(0b1100 + 0o54)))():
+                                    MgT5SK4QUd = TWngu2iXgp(WYDXkaCRAa)
+                                    NTXvcoOOAe = TWngu2iXgp(h0JnTSQnsV)
+                                    if MgT5SK4QUd in AxW30Kp7UK:
+                                        AxW30Kp7UK = AxW30Kp7UK.replace(MgT5SK4QUd, NTXvcoOOAe)
+                            oTFV5eevoJ = kDPlOpYbB4(AxW30Kp7UK)
+                            oTFV5eevoJ = oTFV5eevoJ.replace(lecxhbCcMa(M62917xPfp(b'h'), chr(100) + '\x65' + chr(0b11111 + 0o104) + '\x6f' + chr(100) + chr(0b1100011 + 0o2))(chr(117) + chr(0b1110100) + chr(0b1100110) + '\055' + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(101) + chr(0b111101 + 0o46) + chr(0b111010 + 0o65) + chr(9154 - 9054) + chr(3015 - 2914))('\x75' + '\x74' + '\146' + chr(0b10111 + 0o26) + chr(56)))
+                            oTFV5eevoJ = oTFV5eevoJ.replace(lecxhbCcMa(M62917xPfp(b'i'), chr(8477 - 8377) + chr(6376 - 6275) + chr(0b10100 + 0o117) + chr(9033 - 8922) + '\x64' + chr(101))(chr(117) + '\x74' + chr(5483 - 5381) + chr(0b100011 + 0o12) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(2552 - 2452) + chr(101) + '\143' + '\157' + chr(9503 - 9403) + '\x65')('\165' + chr(116) + chr(0b1100110) + chr(0b101101) + chr(56)))
+                            FdzvolDP5Z = oTFV5eevoJ.split(lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + chr(0b11111 + 0o106) + chr(0b110011 + 0o60) + chr(111) + chr(3205 - 3105) + chr(101))(chr(117) + '\x74' + chr(0b1100110) + chr(0b101101) + '\070'), h0J2gI7PnA('\x30' + '\x6f' + chr(49), 8))[h0J2gI7PnA('\060' + chr(8985 - 8874) + '\060', 8)].strip()
+                            AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'3f"\xf4)\x8a\n'), chr(0b1011011 + 0o11) + '\145' + chr(0b1101 + 0o126) + '\x6f' + chr(0b1100100) + chr(101))('\x75' + chr(0b1110100) + chr(0b110000 + 0o66) + '\055' + '\x38') + LRA3DcPn3Y[TWngu2iXgp(FdzvolDP5Z)] + lecxhbCcMa(M62917xPfp(b'b)e'), '\144' + '\145' + chr(0b1100011) + '\x6f' + chr(0b111111 + 0o45) + '\145')('\165' + '\x74' + '\146' + chr(0b10101 + 0o30) + chr(0b1000 + 0o60)) + oTFV5eevoJ + lecxhbCcMa(M62917xPfp(b'i>'), chr(0b10110 + 0o116) + chr(101) + chr(0b1100011) + chr(111) + chr(0b101010 + 0o72) + chr(101))(chr(3266 - 3149) + chr(0b1110100) + '\x66' + chr(45) + chr(56))
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + '\145' + chr(7297 - 7198) + chr(0b1101111) + chr(0b1100100) + chr(2307 - 2206))('\165' + chr(0b1101000 + 0o14) + '\x66' + chr(0b10111 + 0o26) + chr(0b100010 + 0o26)))(AxW30Kp7UK)
+                            AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b1000101 + 0o37) + '\x65' + chr(4371 - 4272) + '\x6f' + chr(0b1100100) + '\145')(chr(117) + '\x74' + chr(0b1100110) + chr(0b101101) + chr(0b1101 + 0o53))
+                        if lecxhbCcMa(M62917xPfp(b')k7\xff=\xd0G\t.\xfd'), chr(100) + chr(101) + chr(0b11100 + 0o107) + chr(0b1101111) + chr(5467 - 5367) + chr(0b1001110 + 0o27))(chr(0b1110101) + chr(0b1110100) + chr(102) + chr(0b100001 + 0o14) + chr(56)) in rP1opCG3tZ:
+                            lecxhbCcMa(OezffZzZS8, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(8894 - 8794) + '\145' + '\x63' + chr(0b1001110 + 0o41) + chr(0b110010 + 0o62) + chr(0b11001 + 0o114))(chr(0b1110101) + chr(6355 - 6239) + chr(0b1100110) + chr(0b11001 + 0o24) + chr(56)))(lecxhbCcMa(M62917xPfp(b'"w&\xfb$\x99'), chr(1168 - 1068) + chr(7293 - 7192) + '\143' + chr(11677 - 11566) + chr(0b1000100 + 0o40) + chr(7291 - 7190))(chr(0b10111 + 0o136) + chr(6889 - 6773) + chr(2121 - 2019) + '\055' + chr(2946 - 2890)))
+        OezffZzZS8 = kDnx05JmTP(OezffZzZS8)
+        XwbQt9XT2C = lecxhbCcMa(M62917xPfp(b'J'), chr(100) + '\145' + '\x63' + chr(111) + chr(9940 - 9840) + '\x65')(chr(10179 - 10062) + '\164' + '\146' + chr(0b1110 + 0o37) + chr(0b111000)).join(OezffZzZS8)
+        return XwbQt9XT2C
+    except G5wmNJFqxf as erro:
+        jmJZ9U8fzs(lecxhbCcMa(M62917xPfp(b'\x13`6\xba\x0ca\x9b\x007\xfb\x96\x13\x13\x89\xaaNkQX\x1b@\xfejMv\x1c\xaf5\x8c\x80\x9eg\xbcN\xbd;`W\x16\xfc`a&\xba\x1c\xcbF\x10?\xe4\x9c\x1fV\x92\xefJkDD\x0bY\xfcgR5O\xa8%\x8b\xd4\x9a+\xafZ\xbdy`HD\xf0/i,\xf9.\xd0\x08\x17+\xfd\x8a\x13\x15\x8b\xe4\\k\xe1\x8a\xb9\x99\xfc9\x1d|\x01\xa82\x80\x80\x8fj\xa9^\xbeo\xc6\x8f\x17\xf63'), chr(306 - 206) + chr(0b11111 + 0o106) + chr(0b10000 + 0o123) + '\x6f' + '\144' + chr(101))('\x75' + '\x74' + chr(0b11010 + 0o114) + chr(0b101101) + '\070'))
+        return lecxhbCcMa(M62917xPfp(b'\x13`6\xba\x0ca\x9b\x007\xfb\x96\x13\x13\x89\xaaNkQX\x1b@\xfejMv\x1c\xaf5\x8c\x80\x9eg\xbcN\xbd;`W\x16\xfc`a&\xba\x1c\xcbF\x10?\xe4\x9c\x1fV\x92\xefJkDD\x0bY\xfcgR5O\xa8%\x8b\xd4\x9a+\xafZ\xbdy`HD\xf0/i,\xf9.\xd0\x08\x17+\xfd\x8a\x13\x15\x8b\xe4\\k\xe1\x8a\xb9\x99\xfc9\x1d|\x01\xa82\x80\x80\x8fj\xa9^\xbeo\xc6\x8f\x17\xf63'), chr(0b1100100) + '\x65' + chr(0b1100011) + chr(3546 - 3435) + chr(0b110000 + 0o64) + chr(10015 - 9914))('\165' + chr(0b110101 + 0o77) + '\146' + '\055' + '\070')
 
-                    if ("while" in line and "}" in line):
-                        lax = line.replace("while", "")
-                        lax = lax.replace("}", "")
-                        lax = lax.replace(";","")
-                        lax = lax.strip()
-                        lax = do_repita(lax)
-                        lax = "ate " + lax 
-                        VG_codeSplit.append(lax)
+def ae2NyB9LXX(YTJZ_Dpsgt, L7b1lgZ2gD):
+    if L7b1lgZ2gD != lecxhbCcMa(M62917xPfp(b'#d1\xfb,\xd6M\x16;'), '\x64' + '\145' + '\143' + chr(0b1101111) + chr(0b1100100) + chr(101))(chr(6241 - 6124) + chr(0b1110100) + chr(0b1100110) + chr(0b1 + 0o54) + '\x38'):
+        q7YQVbBb7I = YTJZ_Dpsgt.split(lecxhbCcMa(M62917xPfp(b'l'), '\144' + chr(6696 - 6595) + chr(99) + '\157' + chr(0b1010000 + 0o24) + '\x65')(chr(117) + chr(0b1000100 + 0o60) + chr(0b1001100 + 0o32) + chr(0b11011 + 0o22) + '\x38'))
+        EQ1PGQ77NK = [[], []]
+        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), '\x64' + '\145' + chr(8651 - 8552) + '\x6f' + chr(0b1100100) + '\x65')(chr(117) + chr(0b10100 + 0o140) + '\x66' + chr(0b101101) + '\070')
+        if VBTYL3oeHU(q7YQVbBb7I) == h0J2gI7PnA(chr(0b10001 + 0o37) + chr(0b1001001 + 0o46) + '\x31', 8):
+            UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'\x1c^\x18\xc4\x13\xffuO\x02\xc1'), '\x64' + chr(101) + chr(0b101000 + 0o73) + chr(0b110110 + 0o71) + '\x64' + '\145')(chr(1289 - 1172) + chr(1785 - 1669) + '\x66' + chr(1265 - 1220) + '\x38')
+            dvITu_nL2M = C2IYYDqj9b.findall(UeKExNlk91, YTJZ_Dpsgt)
+            fmi2FnzSXH = []
+            for Y_DBseKGi2 in dvITu_nL2M:
+                Y_DBseKGi2 = Y_DBseKGi2.strip(lecxhbCcMa(M62917xPfp(b'\x1bX'), chr(100) + '\x65' + chr(5656 - 5557) + chr(7916 - 7805) + '\x64' + chr(4764 - 4663))('\x75' + '\164' + chr(0b1010110 + 0o20) + '\055' + '\070'))
+                lecxhbCcMa(fmi2FnzSXH, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + '\x65' + chr(5319 - 5220) + chr(0b10011 + 0o134) + chr(100) + '\145')(chr(0b1110101) + chr(0b1110100) + chr(0b1010000 + 0o26) + chr(264 - 219) + chr(0b111000)))(Y_DBseKGi2)
+            return fmi2FnzSXH
+        else:
+            for (zxQxaVNK_c, hhCwIOoWey) in _af9rRqIly(q7YQVbBb7I):
+                if lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + chr(101) + chr(0b1011111 + 0o4) + chr(0b110110 + 0o71) + chr(0b1011000 + 0o14) + chr(0b110000 + 0o65))('\x75' + chr(116) + '\x66' + chr(1968 - 1923) + '\070') in hhCwIOoWey:
+                    UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'\x1c^\x18\xc4\x13\xffuO\x02\xc1'), chr(3555 - 3455) + chr(0b10011 + 0o122) + chr(0b110010 + 0o61) + chr(1704 - 1593) + '\144' + chr(0b1100101))(chr(117) + '\x74' + '\x66' + '\x2d' + '\070')
+                    dvITu_nL2M = C2IYYDqj9b.findall(UeKExNlk91, hhCwIOoWey)
+                    fmi2FnzSXH = []
+                    for Y_DBseKGi2 in dvITu_nL2M:
+                        Y_DBseKGi2 = Y_DBseKGi2.strip(lecxhbCcMa(M62917xPfp(b'\x1bX'), chr(100) + chr(0b10100 + 0o121) + chr(0b1100011) + chr(111) + chr(4920 - 4820) + chr(0b100101 + 0o100))('\x75' + chr(0b1010111 + 0o35) + '\146' + '\055' + chr(0b111000)))
+                        lecxhbCcMa(fmi2FnzSXH, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(101) + chr(0b1100011) + chr(0b1101111) + chr(0b1100100) + chr(1736 - 1635))(chr(13643 - 13526) + chr(0b110101 + 0o77) + chr(0b1100110) + chr(1768 - 1723) + '\070'))(Y_DBseKGi2)
+                    if VBTYL3oeHU(fmi2FnzSXH) == h0J2gI7PnA(chr(0b10101 + 0o33) + chr(111) + '\x31', 8):
+                        onKAuentow = hhCwIOoWey.split(lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b11000 + 0o114) + chr(101) + chr(2643 - 2544) + chr(0b1101 + 0o142) + chr(100) + chr(0b1100101))(chr(0b1110101) + '\x74' + chr(102) + chr(1570 - 1525) + '\x38'))
+                        onKAuentow = TWngu2iXgp(onKAuentow[h0J2gI7PnA('\x30' + '\157' + '\060', 8)].strip())
+                        AxW30Kp7UK = onKAuentow + lecxhbCcMa(M62917xPfp(b'z%5\xff;\xcdZD\x05\xad\xd7\x1d'), chr(100) + chr(0b1100101) + '\x63' + chr(111) + chr(0b1010011 + 0o21) + chr(0b1000001 + 0o44))(chr(0b101100 + 0o111) + chr(3333 - 3217) + chr(5292 - 5190) + '\055' + chr(0b111000)) + fmi2FnzSXH[h0J2gI7PnA(chr(0b110000) + '\157' + '\060', 8)] + lecxhbCcMa(M62917xPfp(b"\x1d%'\xffo"), chr(0b1100100) + chr(2076 - 1975) + '\x63' + chr(5112 - 5001) + '\x64' + '\145')(chr(117) + '\x74' + chr(2596 - 2494) + chr(0b11001 + 0o24) + chr(0b111000)) + L7b1lgZ2gD
+                        lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA('\060' + '\157' + '\x31', 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(2570 - 2470) + '\x65' + chr(7552 - 7453) + chr(111) + chr(100) + chr(417 - 316))(chr(10286 - 10169) + '\164' + chr(102) + chr(954 - 909) + chr(1821 - 1765)))(AxW30Kp7UK)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(0b1100101) + '\143' + chr(111) + chr(0b101010 + 0o72) + chr(101))('\x75' + '\x74' + '\146' + '\x2d' + '\070')
+                    elif VBTYL3oeHU(fmi2FnzSXH) == h0J2gI7PnA(chr(48) + chr(111) + chr(0b10000 + 0o42), 8):
+                        onKAuentow = hhCwIOoWey.split(lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + '\145' + '\x63' + chr(0b110 + 0o151) + chr(100) + chr(0b1100101))('\165' + chr(5621 - 5505) + chr(0b1100110) + chr(515 - 470) + chr(0b101000 + 0o20)))
+                        onKAuentow = TWngu2iXgp(onKAuentow[h0J2gI7PnA(chr(0b110000) + chr(10689 - 10578) + chr(1089 - 1041), 8)].strip())
+                        AxW30Kp7UK = onKAuentow + lecxhbCcMa(M62917xPfp(b'z%5\xff;\xcdZD\x05\xad\xd7\x1d'), chr(0b1100100) + chr(0b101111 + 0o66) + chr(5985 - 5886) + '\157' + '\x64' + chr(0b1100101))('\165' + chr(0b1110100) + '\x66' + '\055' + chr(0b110111 + 0o1)) + fmi2FnzSXH[h0J2gI7PnA(chr(0b10101 + 0o33) + chr(0b1101111) + '\x30', 8)] + lecxhbCcMa(M62917xPfp(b'l4m\xb4'), chr(100) + chr(8176 - 8075) + '\143' + chr(111) + chr(5176 - 5076) + chr(101))(chr(0b1101101 + 0o10) + chr(10246 - 10130) + chr(1361 - 1259) + '\055' + chr(0b11111 + 0o31)) + fmi2FnzSXH[h0J2gI7PnA(chr(1953 - 1905) + chr(4019 - 3908) + chr(49), 8)] + lecxhbCcMa(M62917xPfp(b"\x1d%'\xffo"), chr(100) + chr(101) + chr(1955 - 1856) + '\157' + chr(100) + '\145')(chr(117) + chr(0b1110100) + chr(0b100011 + 0o103) + chr(0b10101 + 0o30) + chr(56)) + L7b1lgZ2gD
+                        lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA('\x30' + chr(8007 - 7896) + chr(559 - 510), 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b10101 + 0o120) + chr(0b1100011) + chr(0b1101111) + chr(0b1100100) + chr(0b1100101))(chr(2178 - 2061) + chr(565 - 449) + chr(0b100110 + 0o100) + '\055' + chr(373 - 317)))(AxW30Kp7UK)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(4111 - 4011) + '\145' + '\143' + '\x6f' + '\144' + chr(0b1 + 0o144))('\165' + '\x74' + chr(0b1100110) + chr(0b101101) + '\070')
+                else:
+                    lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA('\x30' + chr(111) + '\060', 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(7300 - 7199) + chr(1303 - 1204) + chr(111) + '\144' + chr(8440 - 8339))('\x75' + chr(10621 - 10505) + '\146' + '\055' + chr(56)))(hhCwIOoWey)
+            if VBTYL3oeHU(EQ1PGQ77NK[h0J2gI7PnA('\x30' + chr(0b101 + 0o152) + '\060', 8)]) != h0J2gI7PnA(chr(0b1100 + 0o44) + chr(0b110010 + 0o75) + '\060', 8):
+                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'l%'), chr(100) + '\145' + chr(0b111100 + 0o47) + chr(0b1101111) + chr(0b1100100) + '\145')('\165' + chr(0b1110100) + '\x66' + chr(0b101101) + chr(0b111000)).join(EQ1PGQ77NK[h0J2gI7PnA(chr(0b101110 + 0o2) + '\157' + '\060', 8)])
+                AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'z%'), chr(2116 - 2016) + chr(0b1100101) + chr(0b1110 + 0o125) + chr(0b1101111) + chr(0b110000 + 0o64) + chr(0b1010011 + 0o22))('\165' + '\x74' + chr(1142 - 1040) + '\x2d' + chr(0b111 + 0o61)) + L7b1lgZ2gD
+                lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA('\x30' + chr(0b1101101 + 0o2) + chr(48), 8)], lecxhbCcMa(M62917xPfp(b'#i&\xfb='), chr(0b1100100) + chr(6909 - 6808) + chr(0b1100011) + chr(111) + '\x64' + chr(101))(chr(117) + '\x74' + '\146' + chr(267 - 222) + chr(1764 - 1708)))()
+                lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + '\x30', 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(4442 - 4342) + chr(0b1100101) + '\x63' + chr(0b1101111) + chr(0b1100100) + chr(101))(chr(117) + '\x74' + '\x66' + '\055' + '\x38'))(AxW30Kp7UK)
+            return EQ1PGQ77NK
+    else:
+        q7YQVbBb7I = YTJZ_Dpsgt.split(lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100100) + chr(0b1100101) + '\x63' + chr(0b1000101 + 0o52) + chr(9732 - 9632) + chr(720 - 619))(chr(10352 - 10235) + chr(0b1100011 + 0o21) + chr(102) + chr(0b101011 + 0o2) + '\x38'))
+        EQ1PGQ77NK = [[], []]
+        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), '\144' + '\x65' + chr(99) + chr(6630 - 6519) + chr(0b101011 + 0o71) + chr(0b1100101))('\x75' + chr(3255 - 3139) + chr(0b11 + 0o143) + '\055' + chr(0b101110 + 0o12))
+        if VBTYL3oeHU(q7YQVbBb7I) == h0J2gI7PnA(chr(0b1010 + 0o46) + chr(0b1101111) + chr(49), 8):
+            UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'\x1c^\x18\xc4\x13\xffuO\x02\xc1'), chr(5830 - 5730) + chr(0b1100101) + '\x63' + '\157' + '\x64' + '\x65')(chr(117) + '\x74' + chr(102) + '\x2d' + '\070')
+            dvITu_nL2M = C2IYYDqj9b.findall(UeKExNlk91, YTJZ_Dpsgt)
+            if dvITu_nL2M != []:
+                hhCwIOoWey = q7YQVbBb7I[h0J2gI7PnA(chr(0b110000) + '\157' + chr(1590 - 1542), 8)]
+                fmi2FnzSXH = []
+                for Y_DBseKGi2 in dvITu_nL2M:
+                    Y_DBseKGi2 = Y_DBseKGi2.strip(lecxhbCcMa(M62917xPfp(b'\x1bX'), '\144' + '\145' + '\x63' + '\x6f' + chr(0b1001101 + 0o27) + chr(5149 - 5048))('\165' + chr(0b110110 + 0o76) + chr(0b1100110) + chr(0b101101) + chr(0b11 + 0o65)))
+                    lecxhbCcMa(fmi2FnzSXH, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(101) + chr(0b11000 + 0o113) + '\x6f' + chr(100) + chr(0b1111 + 0o126))(chr(0b1110101) + '\x74' + chr(102) + chr(45) + chr(0b111000)))(Y_DBseKGi2)
+                if VBTYL3oeHU(fmi2FnzSXH) == h0J2gI7PnA('\060' + chr(111) + chr(2139 - 2090), 8):
+                    onKAuentow = hhCwIOoWey.split(lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + chr(101) + chr(0b1100011) + '\x6f' + chr(100) + chr(0b1010000 + 0o25))('\165' + '\x74' + chr(0b1100110) + chr(0b101101) + chr(0b10101 + 0o43)))
+                    onKAuentow = TWngu2iXgp(onKAuentow[h0J2gI7PnA(chr(0b110000) + chr(9275 - 9164) + chr(0b111 + 0o51), 8)].strip())
+                    AxW30Kp7UK = onKAuentow + lecxhbCcMa(M62917xPfp(b'z% \xfb=\xc3K\x10;\xee\x9c'), chr(100) + chr(0b1100101) + chr(99) + '\x6f' + '\x64' + '\145')(chr(0b1110101) + chr(0b1001010 + 0o52) + '\x66' + chr(755 - 710) + '\x38')
+                    lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(2072 - 2024) + chr(0b101001 + 0o106) + chr(0b110000), 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(9702 - 9601) + chr(0b10000 + 0o123) + chr(0b1101111) + chr(3787 - 3687) + '\x65')(chr(1150 - 1033) + '\x74' + chr(9158 - 9056) + chr(0b101101) + chr(56)))(AxW30Kp7UK)
+                    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), '\144' + chr(101) + chr(99) + '\157' + '\x64' + '\x65')(chr(10016 - 9899) + '\164' + chr(0b11100 + 0o112) + '\055' + chr(56))
+                elif VBTYL3oeHU(fmi2FnzSXH) == h0J2gI7PnA(chr(1527 - 1479) + chr(0b1101111) + chr(330 - 280), 8):
+                    onKAuentow = hhCwIOoWey.split(lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + '\145' + '\x63' + chr(0b1101111) + chr(100) + '\145')(chr(12420 - 12303) + chr(0b111001 + 0o73) + '\x66' + '\055' + chr(568 - 512)))
+                    onKAuentow = TWngu2iXgp(onKAuentow[h0J2gI7PnA(chr(0b101 + 0o53) + chr(0b1100110 + 0o11) + chr(0b100110 + 0o12), 8)].strip())
+                    AxW30Kp7UK = onKAuentow + lecxhbCcMa(M62917xPfp(b'z%5\xff;\xcdZD\x05\xad\xd7\x1d'), chr(100) + chr(101) + chr(8378 - 8279) + chr(5442 - 5331) + chr(0b1100100) + '\x65')(chr(0b1100001 + 0o24) + chr(0b1100011 + 0o21) + '\x66' + '\055' + chr(1976 - 1920)) + fmi2FnzSXH[h0J2gI7PnA(chr(1536 - 1488) + '\x6f' + chr(48), 8)] + lecxhbCcMa(M62917xPfp(b'l4m\xb4'), chr(7030 - 6930) + '\145' + '\143' + chr(111) + chr(0b1100100) + chr(0b1100101))('\165' + chr(0b1110100) + chr(102) + '\x2d' + '\x38') + fmi2FnzSXH[h0J2gI7PnA(chr(0b110000) + chr(0b1011 + 0o144) + '\x31', 8)] + lecxhbCcMa(M62917xPfp(b"\x1d%'\xffo"), chr(0b111001 + 0o53) + chr(101) + chr(99) + chr(0b11001 + 0o126) + '\x64' + chr(0b1000011 + 0o42))(chr(7565 - 7448) + '\164' + chr(0b1100110) + '\x2d' + chr(0b110100 + 0o4)) + L7b1lgZ2gD
+                    lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(1985 - 1937) + chr(0b1101111) + '\x30', 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b1000 + 0o135) + chr(99) + chr(0b111111 + 0o60) + '\x64' + chr(0b1100101))(chr(0b1000 + 0o155) + chr(0b111001 + 0o73) + chr(102) + '\055' + chr(2885 - 2829)))(AxW30Kp7UK)
+                    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(101) + chr(99) + chr(0b1101111) + chr(0b100111 + 0o75) + chr(0b1100101))('\165' + chr(0b1101 + 0o147) + chr(378 - 276) + chr(45) + chr(0b100010 + 0o26))
+            else:
+                onKAuentow = q7YQVbBb7I[h0J2gI7PnA('\060' + chr(111) + '\x30', 8)].strip()
+                AxW30Kp7UK = onKAuentow + lecxhbCcMa(M62917xPfp(b'k% \xfb=\xc3K\x10;\xee\x9c'), chr(0b1100100) + '\145' + chr(99) + chr(111) + '\x64' + chr(0b1100101))('\165' + chr(13345 - 13229) + '\146' + '\x2d' + '\x38')
+                lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + '\060', 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(9955 - 9854) + chr(0b1100011) + '\157' + chr(8905 - 8805) + '\x65')('\x75' + chr(0b1110100) + chr(2981 - 2879) + '\055' + chr(0b111000)))(AxW30Kp7UK)
+        else:
+            for (zxQxaVNK_c, hhCwIOoWey) in _af9rRqIly(q7YQVbBb7I):
+                if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + chr(2815 - 2714) + '\x63' + chr(10182 - 10071) + chr(6803 - 6703) + '\x65')('\165' + '\x74' + chr(106 - 4) + '\055' + chr(56)) in hhCwIOoWey:
+                    UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'\x1c^\x18\xc4\x13\xffuO\x02\xc1'), chr(0b111101 + 0o47) + '\x65' + chr(0b110011 + 0o60) + chr(0b1101111) + chr(0b101000 + 0o74) + '\145')('\165' + '\x74' + '\x66' + chr(45) + chr(56))
+                    dvITu_nL2M = C2IYYDqj9b.findall(UeKExNlk91, hhCwIOoWey)
+                    fmi2FnzSXH = []
+                    for Y_DBseKGi2 in dvITu_nL2M:
+                        Y_DBseKGi2 = Y_DBseKGi2.strip(lecxhbCcMa(M62917xPfp(b'\x1bX'), chr(0b11110 + 0o106) + chr(7291 - 7190) + chr(0b1100011) + '\157' + chr(3133 - 3033) + chr(101))('\x75' + chr(0b1110100) + chr(3590 - 3488) + chr(0b1111 + 0o36) + '\070'))
+                        lecxhbCcMa(fmi2FnzSXH, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(0b1100101) + chr(5291 - 5192) + chr(111) + chr(0b10010 + 0o122) + '\x65')(chr(117) + '\164' + chr(0b11111 + 0o107) + chr(461 - 416) + '\070'))(Y_DBseKGi2)
+                    if VBTYL3oeHU(fmi2FnzSXH) == h0J2gI7PnA('\x30' + chr(0b1101111) + chr(1298 - 1249), 8):
+                        onKAuentow = hhCwIOoWey.split(lecxhbCcMa(M62917xPfp(b'\x1b'), '\x64' + chr(7574 - 7473) + chr(0b1100011) + chr(3099 - 2988) + chr(0b100001 + 0o103) + chr(8055 - 7954))(chr(0b100101 + 0o120) + chr(0b11010 + 0o132) + '\x66' + '\055' + '\070'))
+                        onKAuentow = TWngu2iXgp(onKAuentow[h0J2gI7PnA('\x30' + chr(8982 - 8871) + chr(0b110000), 8)].strip())
+                        AxW30Kp7UK = onKAuentow + lecxhbCcMa(M62917xPfp(b'z%5\xff;\xcdZD\x05\xad\xd7\x1d'), chr(0b110100 + 0o60) + chr(2266 - 2165) + chr(0b1100011) + chr(925 - 814) + chr(3968 - 3868) + '\x65')('\165' + chr(9506 - 9390) + '\x66' + chr(45) + chr(0b111000)) + fmi2FnzSXH[h0J2gI7PnA(chr(0b110000) + '\x6f' + '\x30', 8)] + lecxhbCcMa(M62917xPfp(b"\x1d%'\xffo"), '\x64' + chr(0b1000 + 0o135) + chr(99) + chr(111) + chr(0b1100100) + '\x65')('\x75' + '\x74' + chr(9664 - 9562) + chr(45) + chr(2708 - 2652)) + L7b1lgZ2gD
+                        lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(0b100100 + 0o14) + '\x6f' + chr(897 - 848), 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(7256 - 7156) + chr(969 - 868) + '\143' + chr(8362 - 8251) + chr(0b101 + 0o137) + '\x65')(chr(0b1110101) + chr(0b1011111 + 0o25) + '\146' + '\x2d' + chr(0b111000)))(AxW30Kp7UK)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(100) + '\x65' + '\143' + '\157' + '\144' + chr(101))('\165' + chr(8226 - 8110) + chr(0b10111 + 0o117) + chr(45) + chr(326 - 270))
+                    elif VBTYL3oeHU(fmi2FnzSXH) == h0J2gI7PnA(chr(1390 - 1342) + chr(0b1010010 + 0o35) + chr(50), 8):
+                        onKAuentow = hhCwIOoWey.split(lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1010100 + 0o20) + '\x65' + '\x63' + chr(0b1101111) + '\144' + '\145')('\165' + chr(0b1110100) + '\x66' + chr(0b100000 + 0o15) + chr(0b110010 + 0o6)))
+                        onKAuentow = TWngu2iXgp(onKAuentow[h0J2gI7PnA(chr(1329 - 1281) + chr(0b1101111) + chr(48), 8)].strip())
+                        AxW30Kp7UK = onKAuentow + lecxhbCcMa(M62917xPfp(b'z%5\xff;\xcdZD\x05\xad\xd7\x1d'), '\144' + '\145' + '\143' + chr(1027 - 916) + chr(8491 - 8391) + chr(0b1100101))(chr(117) + chr(6294 - 6178) + chr(0b1100110) + chr(1072 - 1027) + chr(0b111000)) + fmi2FnzSXH[h0J2gI7PnA(chr(48) + '\157' + '\x30', 8)] + lecxhbCcMa(M62917xPfp(b'l4m\xb4'), chr(0b1000110 + 0o36) + '\x65' + chr(5330 - 5231) + chr(709 - 598) + chr(5016 - 4916) + chr(0b1100101))('\165' + chr(0b110101 + 0o77) + chr(7395 - 7293) + chr(358 - 313) + chr(1470 - 1414)) + fmi2FnzSXH[h0J2gI7PnA(chr(483 - 435) + chr(0b1101111) + '\x31', 8)] + lecxhbCcMa(M62917xPfp(b"\x1d%'\xffo"), chr(0b1100100) + chr(0b111011 + 0o52) + '\x63' + chr(0b1101111) + chr(100) + chr(4134 - 4033))('\x75' + chr(0b1001 + 0o153) + '\x66' + '\x2d' + '\x38') + L7b1lgZ2gD
+                        lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(48) + chr(111) + chr(1872 - 1823), 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(2307 - 2206) + chr(0b1011100 + 0o7) + chr(111) + chr(0b1100100) + chr(101))(chr(0b1110101) + chr(0b1101000 + 0o14) + chr(102) + chr(0b1111 + 0o36) + chr(56)))(AxW30Kp7UK)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b1100001 + 0o3) + '\145' + chr(0b1100011) + '\x6f' + '\x64' + chr(101))(chr(8693 - 8576) + chr(116) + chr(0b1100110) + chr(1886 - 1841) + chr(660 - 604))
+                else:
+                    lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA('\060' + chr(0b1101111) + chr(48), 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + '\145' + chr(0b1100011) + '\x6f' + chr(0b111111 + 0o45) + chr(101))(chr(117) + chr(1976 - 1860) + chr(102) + chr(0b110 + 0o47) + chr(2954 - 2898)))(hhCwIOoWey)
+            if VBTYL3oeHU(EQ1PGQ77NK[h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + '\060', 8)]) != h0J2gI7PnA(chr(0b11011 + 0o25) + chr(0b1101111) + '\060', 8):
+                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'l%'), chr(8998 - 8898) + '\x65' + chr(0b1100011) + chr(8693 - 8582) + chr(100) + chr(0b1100101))('\165' + chr(3479 - 3363) + chr(0b1111 + 0o127) + '\x2d' + chr(2424 - 2368)).join(EQ1PGQ77NK[h0J2gI7PnA('\060' + chr(111) + chr(48), 8)])
+                AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'z%'), '\144' + chr(101) + chr(1434 - 1335) + chr(0b111011 + 0o64) + '\x64' + chr(3258 - 3157))('\x75' + '\164' + chr(0b10011 + 0o123) + '\055' + chr(469 - 413)) + L7b1lgZ2gD
+                lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(48) + chr(0b1101111) + '\060', 8)], lecxhbCcMa(M62917xPfp(b'#i&\xfb='), chr(8653 - 8553) + chr(7243 - 7142) + chr(99) + chr(111) + chr(0b1100100) + chr(101))('\x75' + chr(0b1110 + 0o146) + chr(0b0 + 0o146) + chr(1167 - 1122) + chr(0b111000 + 0o0)))()
+                lecxhbCcMa(EQ1PGQ77NK[h0J2gI7PnA(chr(0b1011 + 0o45) + '\x6f' + chr(48), 8)], lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(332 - 232) + chr(101) + chr(0b1100011) + '\x6f' + chr(8488 - 8388) + chr(0b1010011 + 0o22))(chr(0b1110101) + '\x74' + '\146' + '\x2d' + chr(56)))(AxW30Kp7UK)
+        return EQ1PGQ77NK
 
-                    if (("++" in line or "--" in line ) and not "(" in line):
-                        if ("++" in line):
-                            lax = line.replace("++","")
-                            lax = lax.replace(";","")
-                            lax = lax.strip()
-                            lax =  lax + " <- " + lax + " + 1"
+def nnhXIPbYjk(PDrfJnVmIF):
+    XSOpMTn2or = lecxhbCcMa(M62917xPfp(b''), chr(0b110101 + 0o57) + '\145' + chr(0b1100011) + chr(0b11100 + 0o123) + chr(0b1100100) + chr(101))('\165' + chr(116) + chr(0b111 + 0o137) + chr(45) + chr(0b110011 + 0o5))
+    uVnweWtdP8 = h0J2gI7PnA(chr(1973 - 1925) + chr(111) + '\060', 8)
+    for faWc_BGe3P in PDrfJnVmIF:
+        if faWc_BGe3P == lecxhbCcMa(M62917xPfp(b'h'), chr(0b1000000 + 0o44) + chr(0b1100101) + chr(0b1100011) + '\x6f' + chr(100) + '\145')(chr(0b1010001 + 0o44) + chr(6352 - 6236) + '\146' + chr(0b100 + 0o51) + '\x38'):
+            uVnweWtdP8 = h0J2gI7PnA('\060' + '\x6f' + '\061', 8)
+        elif faWc_BGe3P == lecxhbCcMa(M62917xPfp(b'i'), '\144' + chr(5568 - 5467) + '\x63' + '\x6f' + '\144' + chr(4292 - 4191))(chr(12305 - 12188) + chr(6392 - 6276) + '\x66' + chr(45) + chr(0b10011 + 0o45)):
+            uVnweWtdP8 = h0J2gI7PnA(chr(773 - 725) + chr(0b1101111) + chr(48), 8)
+        if uVnweWtdP8 and faWc_BGe3P == lecxhbCcMa(M62917xPfp(b'l'), '\x64' + chr(2072 - 1971) + '\143' + '\x6f' + '\x64' + chr(0b1001100 + 0o31))('\x75' + chr(0b1001000 + 0o54) + chr(0b101000 + 0o76) + '\055' + chr(913 - 857)):
+            XSOpMTn2or += faWc_BGe3P
+        elif not uVnweWtdP8 and faWc_BGe3P == lecxhbCcMa(M62917xPfp(b'l'), chr(2958 - 2858) + chr(0b111001 + 0o54) + '\x63' + '\x6f' + chr(0b11111 + 0o105) + chr(101))(chr(0b1101001 + 0o14) + '\164' + chr(3143 - 3041) + chr(0b101011 + 0o2) + chr(2103 - 2047)):
+            XSOpMTn2or += lecxhbCcMa(M62917xPfp(b'm(n\xc2|\xfa\x1b\x1cm\xb0\xd5\x1fZ\xc8\xa6\x14"\x02\rZ\x01\xb4g'), '\x64' + chr(0b111011 + 0o52) + '\143' + '\157' + chr(0b111001 + 0o53) + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + '\055' + '\070')
+        else:
+            XSOpMTn2or += faWc_BGe3P
+    return XSOpMTn2or
+
+def YR7QwOCftL(PDrfJnVmIF):
+    DbJV37wwm1 = PDrfJnVmIF.lstrip(lecxhbCcMa(M62917xPfp(b'b'), chr(100) + '\x65' + chr(99) + '\157' + chr(3825 - 3725) + chr(6313 - 6212))(chr(0b1110101) + chr(116) + chr(0b0 + 0o146) + '\055' + chr(0b111000)))
+    DbJV37wwm1 = DbJV37wwm1.split(lecxhbCcMa(M62917xPfp(b'b'), '\144' + chr(101) + chr(0b111111 + 0o44) + chr(111) + '\144' + chr(1110 - 1009))(chr(117) + chr(0b1011100 + 0o30) + chr(0b1000111 + 0o37) + chr(45) + chr(2527 - 2471)))
+    AxW30Kp7UK = TWngu2iXgp(DbJV37wwm1[h0J2gI7PnA(chr(48) + '\x6f' + chr(1727 - 1679), 8)])
+    DbJV37wwm1 = TWngu2iXgp(DbJV37wwm1[h0J2gI7PnA(chr(50 - 2) + chr(111) + chr(0b110001), 8)])
+    DbJV37wwm1 = DbJV37wwm1.lstrip(lecxhbCcMa(M62917xPfp(b'l'), '\x64' + chr(677 - 576) + chr(99) + chr(5145 - 5034) + '\144' + chr(7758 - 7657))(chr(7350 - 7233) + chr(0b1000000 + 0o64) + chr(0b101010 + 0o74) + chr(845 - 800) + chr(0b111000 + 0o0)))
+    DbJV37wwm1 = DbJV37wwm1.strip()
+    DbJV37wwm1 = nnhXIPbYjk(DbJV37wwm1)
+    bgJRssi5Ge = DbJV37wwm1.split(lecxhbCcMa(M62917xPfp(b'm(n\xc2|\xfa\x1b\x1cm\xb0\xd5\x1fZ\xc8\xa6\x14"\x02\rZ\x01\xb4g'), '\x64' + '\x65' + '\143' + chr(0b1101111) + chr(5565 - 5465) + '\145')(chr(117) + chr(0b11011 + 0o131) + chr(102) + chr(0b0 + 0o55) + chr(0b1101 + 0o53)))
+    for (zxQxaVNK_c, cwd2Xnygzm) in _af9rRqIly(bgJRssi5Ge):
+        bgJRssi5Ge[zxQxaVNK_c] = cwd2Xnygzm.strip()
+    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'b'), chr(6254 - 6154) + chr(0b1100101) + chr(0b11000 + 0o113) + chr(0b1100100 + 0o13) + chr(9368 - 9268) + '\x65')('\x75' + chr(0b1110100) + '\146' + chr(0b100011 + 0o12) + chr(0b111000)) + AxW30Kp7UK
+    UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'e^"\xb75\xe3\x05>\x03\xb7'), chr(100) + chr(0b1100101) + chr(0b1100011) + chr(10346 - 10235) + chr(3245 - 3145) + '\x65')(chr(0b10001 + 0o144) + chr(0b1110100) + chr(102) + chr(45) + chr(0b10001 + 0o47))
+    JaQ4NsNvcn = C2IYYDqj9b.findall(UeKExNlk91, AxW30Kp7UK)
+    for (DtBY72WCuw, UJOuBnBBnV) in nJ8oL8MMLN(JaQ4NsNvcn, bgJRssi5Ge):
+        AxW30Kp7UK = AxW30Kp7UK.replace(DtBY72WCuw, f'", {UJOuBnBBnV}, "', h0J2gI7PnA('\x30' + chr(0b1101111) + chr(0b101100 + 0o5), 8))
+    return AxW30Kp7UK
+
+def q1lTJuMEEL(YTJZ_Dpsgt):
+    UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'e^"\xb75\xe3\x05>\x03'), chr(0b1100100) + '\x65' + chr(99) + chr(0b1101111) + '\144' + '\x65')(chr(0b1110101) + chr(584 - 468) + '\x66' + chr(0b101101) + chr(0b111000))
+    aPZXkb1F75 = C2IYYDqj9b.search(UeKExNlk91, YTJZ_Dpsgt)
+    if aPZXkb1F75:
+        return h0J2gI7PnA('\060' + chr(6245 - 6134) + '\x31', 8)
+    else:
+        return h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + '\x30', 8)
+
+def IXEFFW2iDL(YTJZ_Dpsgt):
+    if lecxhbCcMa(YTJZ_Dpsgt.strip(lecxhbCcMa(M62917xPfp(b'b'), '\144' + chr(6476 - 6375) + chr(662 - 563) + chr(2803 - 2692) + chr(100) + chr(0b1010000 + 0o25))(chr(0b1110101) + chr(1499 - 1383) + '\146' + chr(45) + chr(0b100111 + 0o21))), lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), chr(0b1011101 + 0o7) + chr(785 - 684) + '\x63' + '\157' + chr(100) + chr(0b1111 + 0o126))(chr(7343 - 7226) + '\164' + '\146' + chr(0b111 + 0o46) + chr(1858 - 1802)))() == lecxhbCcMa(M62917xPfp(b'\x1ck'), chr(0b1100100) + chr(101) + chr(99) + '\157' + '\x64' + chr(0b101111 + 0o66))('\165' + chr(2106 - 1990) + chr(102) + chr(45) + chr(0b100 + 0o64)):
+        return [lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08v\xb5'), chr(2265 - 2165) + chr(0b1100101) + '\x63' + '\157' + '\144' + chr(5819 - 5718))(chr(1387 - 1270) + chr(116) + chr(8468 - 8366) + chr(45) + chr(0b111000))]
+    else:
+        DFQUd0nnAq = []
+        A67JyzXX93 = []
+        AxW30Kp7UK = YTJZ_Dpsgt.split(lecxhbCcMa(M62917xPfp(b'\x1ck'), chr(3380 - 3280) + '\145' + chr(0b1100011) + '\x6f' + chr(6167 - 6067) + chr(6060 - 5959))('\165' + chr(0b1110100) + chr(2453 - 2351) + chr(1769 - 1724) + chr(0b1110 + 0o52)))
+        lecxhbCcMa(M62917xPfp(b'`c,\xe8o\xceA\n6\xfd\xd9Z\x18\xc4\xe6Yz\x18\'Z\x0c\xb9j\x1d9O\xfc`\xc5\x80\xdfg\xb2U\xb8z%\x18D\xff)k+\xfba\xd1\\\x167\xec\xd1\x14T\xc3\xa32"\x02\rZ\x0c\xb9j\x1d9O\xfc`\x8c\xc6\xdfg\xb2U\xb8z%\x04Y\xb3b\'y\x90o\x82\x08D~\xbc\xd9\x13V\xc4\xaa\x18"\x02\rZ@\xf0$UxO\xe1`\xc2\x82\xd8+\xf0\x1b\xbcrkM\x05\xb3k%d\xb8h\xa8\x08D~\xbc\xd9\x13V\xc4\xaa\x18"\x02\rZ\x0c\xb9&\x0f7\x0e\xac0\x80\xce\x9b#\xb7R\xbesd\x0cD'), chr(0b1100100) + chr(217 - 116) + chr(0b111 + 0o134) + '\157' + chr(2540 - 2440) + chr(0b1100001 + 0o4))(chr(0b111001 + 0o74) + chr(0b1110100) + chr(2028 - 1926) + chr(0b101101) + chr(1677 - 1621))
+        if VBTYL3oeHU(AxW30Kp7UK) == h0J2gI7PnA('\x30' + chr(0b11011 + 0o124) + chr(0b110010), 8):
+            if AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + '\157' + chr(0b110000), 8)] == lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + chr(0b1100101) + chr(8013 - 7914) + chr(0b1010110 + 0o31) + chr(100) + chr(10108 - 10007))(chr(117) + '\164' + chr(0b100110 + 0o100) + '\055' + '\070') and AxW30Kp7UK[h0J2gI7PnA(chr(48) + '\x6f' + '\x31', 8)] == lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + chr(101) + chr(3093 - 2994) + chr(0b1101111) + chr(9662 - 9562) + chr(2435 - 2334))(chr(117) + '\x74' + '\146' + chr(0b10101 + 0o30) + chr(56)):
+                lecxhbCcMa(DFQUd0nnAq, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b1100101) + chr(0b1111 + 0o124) + chr(5798 - 5687) + '\144' + '\145')('\165' + chr(0b1110100) + '\146' + chr(0b101101) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08v\xb5'), chr(0b1100100) + '\145' + chr(0b10001 + 0o122) + '\x6f' + chr(100) + '\x65')('\165' + chr(4602 - 4486) + '\146' + '\x2d' + '\x38'))
+            elif VBTYL3oeHU(AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + chr(111) + chr(48), 8)]) > h0J2gI7PnA(chr(0b1010 + 0o46) + chr(0b1010 + 0o145) + '\x31', 8) and AxW30Kp7UK[h0J2gI7PnA(chr(1624 - 1576) + '\x6f' + chr(1276 - 1227), 8)] == lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + '\145' + chr(0b1011100 + 0o7) + '\x6f' + chr(5776 - 5676) + chr(0b1100101))('\165' + chr(7789 - 7673) + chr(102) + '\055' + '\x38'):
+                lecxhbCcMa(AxW30Kp7UK, lecxhbCcMa(M62917xPfp(b'0j3'), chr(2882 - 2782) + chr(7180 - 7079) + chr(0b1100011) + chr(0b1001000 + 0o47) + chr(7764 - 7664) + chr(0b1111 + 0o126))(chr(0b1001001 + 0o54) + chr(116) + chr(2501 - 2399) + '\055' + chr(56)))(h0J2gI7PnA(chr(0b1011 + 0o45) + chr(0b1011011 + 0o24) + chr(49), 8))
+        if VBTYL3oeHU(DFQUd0nnAq) != h0J2gI7PnA(chr(0b110000) + chr(111) + '\x32', 8):
+            for HcGmXszSOg in AxW30Kp7UK:
+                HcGmXszSOg = HcGmXszSOg.strip(lecxhbCcMa(M62917xPfp(b'b'), chr(0b111110 + 0o46) + chr(5214 - 5113) + chr(0b10101 + 0o116) + chr(111) + chr(2912 - 2812) + '\145')('\x75' + chr(116) + '\146' + chr(0b10 + 0o53) + chr(1184 - 1128)))
+                HcGmXszSOg = lecxhbCcMa(M62917xPfp(b'b'), '\x64' + chr(101) + chr(99) + chr(1770 - 1659) + chr(0b1100100) + '\145')('\x75' + chr(0b1110100) + '\146' + '\x2d' + '\070') + HcGmXszSOg + lecxhbCcMa(M62917xPfp(b'b'), chr(0b110100 + 0o60) + chr(101) + chr(99) + chr(0b111000 + 0o67) + chr(4419 - 4319) + chr(0b1010011 + 0o22))('\x75' + '\x74' + chr(102) + chr(45) + '\x38')
+                if lecxhbCcMa(HcGmXszSOg, lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), chr(0b1100100) + chr(101) + chr(1312 - 1213) + chr(0b1101111) + chr(100) + chr(0b10110 + 0o117))(chr(117) + '\164' + chr(4097 - 3995) + chr(0b10111 + 0o26) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b'b'), '\144' + chr(1357 - 1256) + chr(1486 - 1387) + '\x6f' + chr(0b1100100) + '\145')('\165' + chr(0b1110100) + '\x66' + chr(45) + chr(2732 - 2676))) == lecxhbCcMa(M62917xPfp(b''), '\144' + '\x65' + chr(0b110100 + 0o57) + '\157' + chr(100) + chr(0b11100 + 0o111))(chr(1949 - 1832) + chr(116) + chr(0b1100110) + chr(0b101101) + chr(0b111000)) or HcGmXszSOg == lecxhbCcMa(M62917xPfp(b''), '\144' + chr(1258 - 1157) + '\x63' + chr(0b110100 + 0o73) + chr(0b1100100) + '\145')('\165' + chr(9872 - 9756) + chr(0b1100000 + 0o6) + '\055' + '\x38'):
+                    lecxhbCcMa(DFQUd0nnAq, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(101) + '\143' + chr(0b1000011 + 0o54) + chr(0b101 + 0o137) + chr(0b110 + 0o137))(chr(13143 - 13026) + chr(116) + '\x66' + '\x2d' + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08v\xb5'), chr(100) + chr(0b1100101) + chr(8675 - 8576) + chr(0b1101111) + '\x64' + '\145')('\165' + '\x74' + chr(6652 - 6550) + '\x2d' + chr(0b111000)))
+                else:
+                    lecxhbCcMa(DFQUd0nnAq, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(4446 - 4346) + chr(0b1100101) + chr(99) + chr(0b11111 + 0o120) + chr(100) + chr(0b1100101))('\x75' + chr(116) + '\146' + chr(766 - 721) + '\070'))(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08v'), chr(0b111101 + 0o47) + '\x65' + chr(0b10010 + 0o121) + '\x6f' + chr(5670 - 5570) + '\x65')('\x75' + chr(116) + chr(102) + '\x2d' + chr(0b111000)) + HcGmXszSOg + lecxhbCcMa(M62917xPfp(b'i'), '\144' + chr(0b101 + 0o140) + chr(6407 - 6308) + chr(0b11100 + 0o123) + '\x64' + chr(0b1000100 + 0o41))('\165' + chr(0b1011111 + 0o25) + '\x66' + chr(0b10100 + 0o31) + chr(2154 - 2098)))
+        return DFQUd0nnAq
+
+def dvJgoSZdC1(YTJZ_Dpsgt):
+    AxW30Kp7UK = YTJZ_Dpsgt
+    d54k1cxsXC = AxW30Kp7UK
+    if lecxhbCcMa(YTJZ_Dpsgt, lecxhbCcMa(M62917xPfp(b"%k'\xe98\xcb\\\x0c"), chr(0b1001110 + 0o26) + chr(0b1100101) + chr(5072 - 4973) + chr(0b1101111) + '\x64' + '\145')(chr(117) + chr(0b1110100) + '\146' + chr(0b101101) + chr(72 - 16)))(lecxhbCcMa(M62917xPfp(b'b,'), chr(100) + chr(0b1100101) + chr(99) + '\x6f' + chr(0b1011111 + 0o5) + chr(0b100110 + 0o77))(chr(0b1110101) + '\x74' + chr(102) + chr(1166 - 1121) + '\x38')):
+        AxW30Kp7UK = YTJZ_Dpsgt.replace(lecxhbCcMa(M62917xPfp(b'b,'), chr(100) + chr(101) + '\x63' + chr(111) + '\x64' + chr(101))(chr(5963 - 5846) + chr(5566 - 5450) + chr(0b10010 + 0o124) + chr(45) + '\070'), lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(0b1000111 + 0o36) + chr(0b1100011) + chr(111) + chr(0b1100100) + chr(7926 - 7825))(chr(0b1010001 + 0o44) + '\x74' + chr(102) + chr(45) + chr(604 - 548)))
+        AxW30Kp7UK = AxW30Kp7UK.strip()
+        if lecxhbCcMa(AxW30Kp7UK, lecxhbCcMa(M62917xPfp(b"%k'\xe98\xcb\\\x0c"), chr(0b1001 + 0o133) + '\x65' + chr(0b0 + 0o143) + '\157' + '\x64' + chr(1100 - 999))('\165' + chr(10008 - 9892) + '\x66' + '\x2d' + chr(56)))(lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100100) + chr(101) + '\x63' + chr(1676 - 1565) + chr(3641 - 3541) + chr(0b1111 + 0o126))(chr(117) + '\164' + chr(0b1100110) + chr(0b10100 + 0o31) + '\x38')):
+            AxW30Kp7UK = AxW30Kp7UK.rstrip(lecxhbCcMa(M62917xPfp(b'l'), chr(100) + chr(101) + chr(8207 - 8108) + chr(3476 - 3365) + chr(0b1100100) + chr(0b1100101))(chr(651 - 534) + chr(0b1110100) + chr(0b1100110) + '\055' + chr(0b110111 + 0o1)))
+            AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), chr(100) + chr(1216 - 1115) + '\x63' + chr(0b1101111) + chr(0b1100100) + '\x65')('\x75' + chr(116) + chr(0b1100110) + chr(0b101101) + chr(0b111000))
+        else:
+            AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b"`'j"), chr(0b111101 + 0o47) + chr(0b11001 + 0o114) + chr(99) + '\x6f' + chr(0b1010010 + 0o22) + '\145')(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + chr(1832 - 1787) + chr(0b100000 + 0o30))
+    d54k1cxsXC = AxW30Kp7UK
+    if lecxhbCcMa(d54k1cxsXC, lecxhbCcMa(M62917xPfp(b'3q"\xe8;\xd1_\r*\xf4'), chr(0b100101 + 0o77) + '\x65' + '\143' + chr(111) + '\x64' + '\145')(chr(117) + chr(4443 - 4327) + '\x66' + chr(0b101101) + '\070'))(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08'), '\144' + '\x65' + chr(2124 - 2025) + chr(1430 - 1319) + chr(0b1100100) + chr(101))('\x75' + chr(11583 - 11467) + chr(0b1100110) + chr(1325 - 1280) + '\x38')):
+        d54k1cxsXC = d54k1cxsXC.replace(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08'), '\x64' + chr(0b1000000 + 0o45) + chr(0b10111 + 0o114) + chr(0b1101111) + chr(4986 - 4886) + chr(101))('\165' + chr(116) + chr(8714 - 8612) + chr(1037 - 992) + chr(0b10001 + 0o47)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(0b1100101) + chr(99) + '\157' + '\144' + '\x65')(chr(117) + chr(116) + '\x66' + chr(0b101101) + '\x38'))
+        d54k1cxsXC = d54k1cxsXC.strip()
+        if lecxhbCcMa(d54k1cxsXC, lecxhbCcMa(M62917xPfp(b'3q"\xe8;\xd1_\r*\xf4'), chr(0b110100 + 0o60) + chr(101) + chr(99) + chr(111) + chr(100) + '\145')(chr(117) + '\x74' + '\146' + chr(289 - 244) + chr(2407 - 2351)))(lecxhbCcMa(M62917xPfp(b"h'o"), chr(0b1100100) + chr(0b1100101) + '\143' + '\x6f' + '\x64' + chr(0b1100101))(chr(117) + chr(0b1110100) + chr(4723 - 4621) + chr(1141 - 1096) + chr(56))):
+            d54k1cxsXC = d54k1cxsXC.replace(lecxhbCcMa(M62917xPfp(b"h'o"), '\144' + chr(0b1100101) + '\x63' + chr(0b1100000 + 0o17) + chr(0b1000001 + 0o43) + chr(101))(chr(0b1110 + 0o147) + chr(0b1110100) + chr(3549 - 3447) + chr(0b101101) + chr(0b110010 + 0o6)), lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + '\x65' + chr(99) + chr(111) + chr(6543 - 6443) + chr(101))(chr(117) + '\x74' + '\x66' + chr(45) + chr(0b111000)))
+        d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I\x08'), chr(0b1000110 + 0o36) + chr(1264 - 1163) + chr(0b1100011) + chr(0b1101111) + chr(4282 - 4182) + '\x65')(chr(0b1110101) + chr(116) + chr(102) + '\x2d' + chr(3080 - 3024)) + d54k1cxsXC
+    else:
+        d54k1cxsXC = d54k1cxsXC.replace(lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I'), chr(0b1100100) + chr(101) + chr(6948 - 6849) + chr(0b1101111) + chr(9772 - 9672) + chr(0b10010 + 0o123))('\165' + '\x74' + chr(0b1100110) + chr(747 - 702) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(0b101 + 0o137) + '\x65' + '\143' + '\x6f' + '\x64' + '\x65')(chr(11547 - 11430) + '\x74' + chr(102) + chr(686 - 641) + '\x38'))
+        d54k1cxsXC = d54k1cxsXC.strip()
+        if lecxhbCcMa(d54k1cxsXC, lecxhbCcMa(M62917xPfp(b'3q"\xe8;\xd1_\r*\xf4'), '\144' + '\x65' + chr(1860 - 1761) + chr(111) + '\144' + '\145')(chr(7836 - 7719) + chr(116) + chr(102) + chr(0b101101) + '\070'))(lecxhbCcMa(M62917xPfp(b"h'o"), chr(0b1100100) + chr(372 - 271) + chr(4581 - 4482) + chr(0b1101000 + 0o7) + chr(2908 - 2808) + chr(101))(chr(6711 - 6594) + '\x74' + chr(0b1100110) + '\x2d' + chr(0b111000))):
+            d54k1cxsXC = d54k1cxsXC.replace(lecxhbCcMa(M62917xPfp(b"h'o"), chr(0b101010 + 0o72) + chr(9540 - 9439) + chr(0b100100 + 0o77) + chr(3280 - 3169) + chr(2493 - 2393) + chr(101))('\x75' + chr(0b10010 + 0o142) + chr(7557 - 7455) + chr(0b101101) + chr(0b100101 + 0o23)), lecxhbCcMa(M62917xPfp(b'h'), chr(100) + '\145' + '\143' + chr(5362 - 5251) + chr(0b1100100) + chr(3830 - 3729))(chr(3401 - 3284) + '\x74' + '\x66' + '\055' + '\070'))
+        d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I'), '\x64' + chr(0b1100101) + '\143' + '\157' + chr(3349 - 3249) + chr(0b11011 + 0o112))(chr(13009 - 12892) + '\164' + '\x66' + chr(926 - 881) + chr(56)) + d54k1cxsXC
+    return d54k1cxsXC
+
+def uTqo5XerFX(dslxukukeF):
+    FlU0MumZPU = dslxukukeF
+    xKUpPZc_Jz = h0J2gI7PnA(chr(0b100100 + 0o14) + '\x6f' + '\060', 8)
+    hzg_zOXWDn = lecxhbCcMa(M62917xPfp(b'`%c\xba'), chr(100) + '\145' + chr(0b101001 + 0o72) + chr(0b1101111) + '\144' + '\x65')(chr(117) + chr(0b1110100) + chr(9941 - 9839) + chr(45) + chr(2771 - 2715))
+    JiqYRRD3ln = lecxhbCcMa(M62917xPfp(b''), chr(4461 - 4361) + '\145' + chr(99) + chr(0b11011 + 0o124) + '\x64' + chr(0b1001111 + 0o26))(chr(0b1110101) + chr(0b1110100) + '\146' + chr(45) + '\070')
+    for (zxQxaVNK_c, LS4gjLX2yp) in _af9rRqIly(FlU0MumZPU):
+        if not lecxhbCcMa(M62917xPfp(b')k*\xf9&\xcd'), chr(0b1111 + 0o125) + chr(0b101 + 0o140) + chr(2381 - 2282) + '\157' + '\144' + '\145')('\x75' + '\x74' + chr(0b100001 + 0o105) + chr(1171 - 1126) + chr(0b10011 + 0o45)) in LS4gjLX2yp:
+            if lecxhbCcMa(M62917xPfp(b'3`-\xfb '), chr(100) + chr(7167 - 7066) + '\x63' + chr(111) + '\x64' + chr(0b11011 + 0o112))(chr(117) + '\164' + chr(0b1111 + 0o127) + chr(45) + '\x38') in LS4gjLX2yp:
+                JiqYRRD3ln = TWngu2iXgp(hzg_zOXWDn * (xKUpPZc_Jz - h0J2gI7PnA(chr(0b110000) + chr(111) + '\061', 8)) + LS4gjLX2yp)
+                FlU0MumZPU[zxQxaVNK_c] = JiqYRRD3ln
+            else:
+                if xKUpPZc_Jz != h0J2gI7PnA('\060' + chr(5615 - 5504) + chr(0b110000), 8) and (not (lecxhbCcMa(M62917xPfp(b'='), chr(8207 - 8107) + chr(0b1100101) + chr(99) + chr(111) + '\x64' + chr(0b1001010 + 0o33))(chr(0b1001100 + 0o51) + '\x74' + '\x66' + chr(367 - 322) + chr(2427 - 2371)) in LS4gjLX2yp and lecxhbCcMa(M62917xPfp(b';'), chr(0b1100100) + '\x65' + chr(0b1100011) + chr(0b1101111) + chr(1216 - 1116) + '\145')(chr(12992 - 12875) + chr(116) + chr(102) + '\x2d' + chr(1499 - 1443)) not in LS4gjLX2yp)):
+                    JiqYRRD3ln = TWngu2iXgp(hzg_zOXWDn * xKUpPZc_Jz + LS4gjLX2yp)
+                    FlU0MumZPU[zxQxaVNK_c] = JiqYRRD3ln
+                if lecxhbCcMa(M62917xPfp(b'&d \xfb'), chr(0b11111 + 0o105) + '\145' + '\x63' + '\x6f' + '\144' + chr(5168 - 5067))(chr(0b1110101) + '\164' + '\146' + chr(45) + chr(0b111000)) in LS4gjLX2yp or lecxhbCcMa(M62917xPfp(b'6d1'), '\144' + '\145' + chr(4306 - 4207) + '\157' + chr(0b10011 + 0o121) + chr(101))(chr(1356 - 1239) + chr(0b1110100) + chr(102) + '\055' + '\x38') in LS4gjLX2yp or lecxhbCcMa(M62917xPfp(b'%k7\xfb '), '\x64' + chr(0b111000 + 0o55) + chr(795 - 696) + chr(5126 - 5015) + chr(8305 - 8205) + '\x65')(chr(0b1110101) + chr(116) + chr(0b11011 + 0o113) + chr(45) + chr(0b111000)) in LS4gjLX2yp or (lecxhbCcMa(M62917xPfp(b'2`3\xf3;\xc3'), chr(100) + chr(101) + chr(0b1011110 + 0o5) + '\157' + chr(100) + '\x65')(chr(0b1110101) + chr(0b1101000 + 0o14) + chr(0b1100110) + '\055' + '\070') in LS4gjLX2yp):
+                    xKUpPZc_Jz += h0J2gI7PnA('\060' + chr(0b1101111) + '\061', 8)
+                if lecxhbCcMa(M62917xPfp(b'&l.'), chr(4129 - 4029) + chr(9563 - 9462) + chr(0b1100011) + chr(0b110101 + 0o72) + chr(9296 - 9196) + chr(0b10100 + 0o121))(chr(0b1000100 + 0o61) + chr(0b1110100) + '\146' + chr(1471 - 1426) + '\x38') in LS4gjLX2yp:
+                    xKUpPZc_Jz -= h0J2gI7PnA(chr(48) + '\157' + '\061', 8)
+                    JiqYRRD3ln = TWngu2iXgp(hzg_zOXWDn * xKUpPZc_Jz + LS4gjLX2yp)
+                    FlU0MumZPU[zxQxaVNK_c] = JiqYRRD3ln
+                if lecxhbCcMa(M62917xPfp(b'!q&'), '\144' + chr(101) + chr(1037 - 938) + chr(11598 - 11487) + chr(9380 - 9280) + chr(0b101001 + 0o74))(chr(117) + chr(11941 - 11825) + chr(0b1100110) + '\x2d' + chr(56)) in LS4gjLX2yp and (not lecxhbCcMa(M62917xPfp(b'0d1\xfb'), chr(100) + '\x65' + chr(2845 - 2746) + '\157' + '\144' + chr(101))(chr(117) + chr(0b110 + 0o156) + chr(0b1001100 + 0o32) + '\055' + chr(0b1100 + 0o54)) in LS4gjLX2yp):
+                    xKUpPZc_Jz -= h0J2gI7PnA('\060' + chr(8984 - 8873) + chr(0b110001), 8)
+                    JiqYRRD3ln = TWngu2iXgp(hzg_zOXWDn * xKUpPZc_Jz + LS4gjLX2yp)
+                    FlU0MumZPU[zxQxaVNK_c] = JiqYRRD3ln
+    return FlU0MumZPU
+
+def qMZP1Mg6dv(PDrfJnVmIF):
+    DFQUd0nnAq = PDrfJnVmIF.split(lecxhbCcMa(M62917xPfp(b'J'), '\x64' + chr(4102 - 4001) + chr(4970 - 4871) + chr(111) + '\144' + chr(101))(chr(0b10111 + 0o136) + chr(116) + chr(0b110000 + 0o66) + chr(45) + chr(0b11 + 0o65)))
+    XSOpMTn2or = []
+    E9D8wuke_k = h0J2gI7PnA(chr(0b110000) + '\157' + chr(48), 8)
+    QJtLU7p37u = h0J2gI7PnA('\x30' + chr(0b10 + 0o155) + chr(1231 - 1183), 8)
+    for HcGmXszSOg in DFQUd0nnAq:
+        if E9D8wuke_k:
+            if lecxhbCcMa(HcGmXszSOg, lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), '\x64' + '\x65' + chr(99) + chr(0b1101111) + chr(0b1100100) + '\x65')('\165' + chr(0b111111 + 0o65) + chr(0b1100110) + chr(0b101101) + chr(0b111000)))() == lecxhbCcMa(M62917xPfp(b'='), chr(0b1100100) + chr(0b1001111 + 0o26) + chr(0b1100011) + chr(0b1101111) + chr(9131 - 9031) + chr(0b1011100 + 0o11))(chr(10003 - 9886) + chr(9477 - 9361) + chr(2189 - 2087) + chr(207 - 162) + chr(1153 - 1097)):
+                lecxhbCcMa(XSOpMTn2or, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b1001011 + 0o32) + '\143' + chr(7781 - 7670) + chr(186 - 86) + chr(0b1100101))(chr(1237 - 1120) + chr(0b1110100) + chr(2246 - 2144) + '\055' + '\070'))(lecxhbCcMa(M62917xPfp(b'='), '\144' + chr(0b1100101) + '\143' + chr(111) + chr(1683 - 1583) + chr(0b1101 + 0o130))('\165' + '\x74' + '\146' + '\055' + '\070'))
+                for zxQxaVNK_c in Hd1GczuPJt(h0J2gI7PnA(chr(0b110000) + chr(111) + chr(1607 - 1558), 8), QJtLU7p37u + h0J2gI7PnA('\060' + chr(0b11000 + 0o127) + chr(0b110010), 8)):
+                    lecxhbCcMa(XSOpMTn2or, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1100101) + chr(99) + chr(0b1101111) + '\x64' + '\145')(chr(8273 - 8156) + chr(116) + chr(830 - 728) + '\055' + chr(2649 - 2593)))(lecxhbCcMa(M62917xPfp(b'='), '\144' + chr(2923 - 2822) + '\x63' + chr(0b1101111) + chr(0b1 + 0o143) + chr(0b1100101))(chr(0b1110101) + chr(0b1110100) + chr(102) + chr(470 - 425) + '\070'))
+                lecxhbCcMa(XSOpMTn2or, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(5517 - 5417) + '\145' + chr(99) + chr(4059 - 3948) + '\144' + chr(560 - 459))(chr(117) + '\164' + chr(7597 - 7495) + chr(45) + chr(3001 - 2945)))(lecxhbCcMa(M62917xPfp(b''), chr(100) + '\145' + '\143' + '\x6f' + chr(0b10000 + 0o124) + chr(5964 - 5863))('\x75' + chr(3956 - 3840) + chr(0b1100110) + chr(1240 - 1195) + chr(0b10111 + 0o41)))
+                E9D8wuke_k = h0J2gI7PnA(chr(0b110000) + chr(10860 - 10749) + chr(48), 8)
+                QJtLU7p37u = h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(48), 8)
+            else:
+                lecxhbCcMa(XSOpMTn2or, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1001100 + 0o30) + chr(101) + '\x63' + chr(0b11111 + 0o120) + chr(3427 - 3327) + chr(0b1011000 + 0o15))(chr(0b1110101) + chr(7104 - 6988) + chr(3884 - 3782) + chr(0b101101) + '\x38'))(HcGmXszSOg)
+        else:
+            lecxhbCcMa(XSOpMTn2or, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b101000 + 0o74) + chr(101) + chr(99) + chr(111) + '\x64' + '\x65')(chr(117) + chr(0b1110100) + '\146' + chr(86 - 41) + '\x38'))(HcGmXszSOg)
+        if lecxhbCcMa(M62917xPfp(b'%i0\xffo\xcbN'), '\x64' + '\x65' + chr(0b1100011) + chr(9956 - 9845) + '\x64' + chr(0b1100101))(chr(0b1110101) + chr(0b1110100) + '\x66' + '\x2d' + '\070') in lecxhbCcMa(HcGmXszSOg, lecxhbCcMa(M62917xPfp(b',j4\xff='), chr(1280 - 1180) + '\x65' + '\143' + chr(0b1001 + 0o146) + chr(0b1011001 + 0o13) + chr(0b1010100 + 0o21))('\165' + '\x74' + chr(0b1100110) + '\x2d' + chr(0b101001 + 0o17)))():
+            if E9D8wuke_k == h0J2gI7PnA('\x30' + chr(111) + chr(49), 8):
+                QJtLU7p37u += h0J2gI7PnA(chr(0b11110 + 0o22) + chr(0b1101111) + chr(0b101010 + 0o7), 8)
+            else:
+                E9D8wuke_k = h0J2gI7PnA('\060' + chr(0b1101111) + chr(886 - 837), 8)
+    return lecxhbCcMa(lecxhbCcMa(M62917xPfp(b'J'), chr(6959 - 6859) + '\145' + '\143' + '\157' + '\x64' + chr(3891 - 3790))(chr(0b1110101) + '\164' + chr(0b1100110) + chr(45) + chr(0b10111 + 0o41)), lecxhbCcMa(M62917xPfp(b'*j*\xf4'), chr(0b11100 + 0o110) + '\145' + '\x63' + chr(0b1101111) + '\144' + chr(101))(chr(0b1110101) + '\164' + chr(0b1100110) + chr(45) + '\x38'))(XSOpMTn2or)
+
+def sUetRJjMbr(PDrfJnVmIF, EuNAFvt5Vd=h0J2gI7PnA(chr(48) + chr(111) + '\060', 8)):
+    f_bLRvglqg = PDrfJnVmIF
+    if EuNAFvt5Vd == h0J2gI7PnA('\060' + chr(0b100111 + 0o110) + chr(0b110000), 8):
+        UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'\x1c-|\xc6<\x88[\x10,\xff\x94C*\x97\xa0d*\n\x03P\x13\xb0\x16\x14E\x1c\xf6}\xd8\xfc\x8c!\xf3g\xb40,\x1a'), chr(100) + '\x65' + chr(99) + chr(111) + chr(100) + chr(8956 - 8855))(chr(1599 - 1482) + chr(116) + chr(9081 - 8979) + '\055' + chr(0b10110 + 0o42))
+        oY6jSVYiU0 = []
+        SGmZhIbHE0 = []
+        ocKjlqpv_l = C2IYYDqj9b.finditer(UeKExNlk91, PDrfJnVmIF)
+        dvITu_nL2M = [[myBrHmuNZQ.group(h0J2gI7PnA('\x30' + chr(4515 - 4404) + chr(0b110001), 8)), myBrHmuNZQ.group(h0J2gI7PnA('\x30' + '\157' + '\x32', 8)), (myBrHmuNZQ.start(), myBrHmuNZQ.end())] for myBrHmuNZQ in ocKjlqpv_l]
+        for zxQxaVNK_c in Hd1GczuPJt(VBTYL3oeHU(dvITu_nL2M)):
+            AxW30Kp7UK = dvITu_nL2M[zxQxaVNK_c][h0J2gI7PnA('\060' + chr(111) + chr(0b110000), 8)].strip().split(lecxhbCcMa(M62917xPfp(b'l'), chr(0b1000101 + 0o37) + '\x65' + chr(99) + chr(0b100011 + 0o114) + chr(3061 - 2961) + chr(5437 - 5336))(chr(0b1101001 + 0o14) + chr(116) + '\146' + chr(0b101101) + '\070'))
+            d54k1cxsXC = AxW30Kp7UK[h0J2gI7PnA('\060' + '\157' + chr(49), 8)].strip()
+            AxW30Kp7UK = TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + chr(0b110100 + 0o73) + chr(1529 - 1481), 8)]).strip()
+            if dvITu_nL2M[zxQxaVNK_c][h0J2gI7PnA(chr(48) + '\157' + '\x31', 8)] == lecxhbCcMa(M62917xPfp(b'p'), '\x64' + '\x65' + '\143' + chr(111) + '\x64' + chr(8664 - 8563))(chr(117) + chr(5371 - 5255) + chr(0b111110 + 0o50) + '\055' + chr(1779 - 1723)):
+                gxjlnudR0x = lecxhbCcMa(M62917xPfp(b'h'), chr(0b10111 + 0o115) + chr(0b1100101) + '\x63' + chr(111) + chr(0b110110 + 0o56) + '\145')(chr(3928 - 3811) + chr(116) + chr(0b1010100 + 0o22) + chr(0b101101) + chr(1514 - 1458)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`8~\xba'), chr(100) + chr(101) + '\x63' + '\x6f' + chr(0b1001100 + 0o30) + chr(0b1000101 + 0o40))(chr(0b11011 + 0o132) + chr(0b1110011 + 0o1) + chr(102) + chr(0b101101) + chr(0b111000)) + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'i'), chr(0b1100100) + '\x65' + chr(0b1100011) + '\157' + chr(100) + chr(101))('\165' + '\164' + chr(3327 - 3225) + chr(0b101101) + chr(0b111000))
+            else:
+                gxjlnudR0x = lecxhbCcMa(M62917xPfp(b'h'), chr(2927 - 2827) + chr(1868 - 1767) + '\143' + chr(1261 - 1150) + chr(6541 - 6441) + '\145')('\x75' + chr(116) + chr(0b110010 + 0o64) + '\x2d' + chr(56)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`$~\xba'), '\144' + '\x65' + '\143' + chr(10630 - 10519) + '\144' + chr(0b1100101))(chr(117) + chr(116) + '\x66' + '\x2d' + chr(0b100100 + 0o24)) + d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'i'), chr(0b0 + 0o144) + chr(101) + chr(0b101111 + 0o64) + chr(0b1101111) + chr(0b1001101 + 0o27) + chr(0b1100101))(chr(0b1101000 + 0o15) + chr(116) + '\x66' + chr(45) + '\x38')
+            lecxhbCcMa(oY6jSVYiU0, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(4984 - 4884) + chr(101) + chr(7864 - 7765) + chr(111) + '\x64' + '\145')('\x75' + chr(5478 - 5362) + '\146' + '\055' + '\070'))(gxjlnudR0x)
+            OJAcRdn1Yp = h0J2gI7PnA(chr(48) + chr(0b1101111) + '\060', 8)
+            for _SH5Cqdoz4 in dvITu_nL2M:
+                aNYFEFGI5O = IHl904fV7W(Hd1GczuPJt(_SH5Cqdoz4[h0J2gI7PnA(chr(0b111 + 0o51) + chr(0b1011010 + 0o25) + '\x32', 8)][h0J2gI7PnA(chr(0b110000) + chr(0b1101 + 0o142) + chr(48), 8)], _SH5Cqdoz4[h0J2gI7PnA('\x30' + '\x6f' + chr(1398 - 1348), 8)][h0J2gI7PnA(chr(48) + '\157' + '\x31', 8)] + h0J2gI7PnA(chr(0b100110 + 0o12) + chr(111) + chr(49), 8)))
+                RExPGymuHB = lEFf3I8aJm(lEFf3I8aJm(_SH5Cqdoz4[h0J2gI7PnA(chr(1140 - 1092) + chr(0b1101111) + chr(2048 - 1998), 8)][h0J2gI7PnA(chr(0b110000) + chr(111) + chr(0b110001), 8)] - _SH5Cqdoz4[h0J2gI7PnA('\x30' + '\x6f' + chr(0b110010), 8)][h0J2gI7PnA('\x30' + chr(0b1000 + 0o147) + chr(0b101100 + 0o4), 8)]) - VBTYL3oeHU(oY6jSVYiU0[OJAcRdn1Yp])) + h0J2gI7PnA('\x30' + '\157' + '\061', 8)
+                zxQxaVNK_c = h0J2gI7PnA(chr(0b100101 + 0o13) + '\x6f' + chr(0b10101 + 0o33), 8)
+                while zxQxaVNK_c < VBTYL3oeHU(f_bLRvglqg):
+                    oy2MRwQTzA = f_bLRvglqg[zxQxaVNK_c]
+                    if zxQxaVNK_c == _SH5Cqdoz4[h0J2gI7PnA('\060' + '\x6f' + '\062', 8)][h0J2gI7PnA(chr(0b101110 + 0o2) + '\x6f' + '\060', 8)]:
+                        for YkCxr9rkt7 in oY6jSVYiU0[OJAcRdn1Yp]:
+                            lecxhbCcMa(SGmZhIbHE0, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + '\145' + '\143' + '\x6f' + chr(8267 - 8167) + chr(9175 - 9074))('\165' + '\x74' + chr(6783 - 6681) + chr(0b101101) + chr(0b111000)))(YkCxr9rkt7)
+                        zxQxaVNK_c = _SH5Cqdoz4[h0J2gI7PnA(chr(1620 - 1572) + chr(0b11100 + 0o123) + chr(50), 8)][h0J2gI7PnA(chr(0b101101 + 0o3) + chr(0b1100110 + 0o11) + '\x31', 8)]
+                        for m5ZYL2gtSB in Hd1GczuPJt(RExPGymuHB):
+                            lecxhbCcMa(SGmZhIbHE0, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b110011 + 0o62) + chr(0b111110 + 0o45) + '\x6f' + chr(4526 - 4426) + chr(0b10100 + 0o121))(chr(117) + '\x74' + chr(0b1100110) + '\x2d' + '\x38'))(lecxhbCcMa(M62917xPfp(b'\x82\xa7'), chr(0b1100100) + chr(0b1100101) + chr(99) + chr(0b1011011 + 0o24) + '\x64' + chr(101))('\x75' + chr(0b1011000 + 0o34) + '\146' + chr(1886 - 1841) + chr(0b111000)))
+                    else:
+                        lecxhbCcMa(SGmZhIbHE0, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(7922 - 7822) + chr(3324 - 3223) + chr(0b1100011) + chr(0b1101111) + chr(5857 - 5757) + chr(101))(chr(0b1110101) + chr(0b110011 + 0o101) + '\146' + chr(45) + chr(0b11111 + 0o31)))(oy2MRwQTzA)
+                    zxQxaVNK_c += h0J2gI7PnA(chr(48) + '\157' + chr(0b110001), 8)
+                f_bLRvglqg = lecxhbCcMa(M62917xPfp(b''), chr(0b1001110 + 0o26) + chr(101) + chr(99) + chr(0b1101111) + chr(0b1100100) + chr(101))(chr(0b1001010 + 0o53) + '\164' + chr(0b1100110) + chr(0b101101) + chr(0b111000)).join(SGmZhIbHE0)
+                SGmZhIbHE0 = []
+                OJAcRdn1Yp += h0J2gI7PnA('\060' + '\x6f' + chr(49), 8)
+            f_bLRvglqg = f_bLRvglqg.replace(lecxhbCcMa(M62917xPfp(b'\x82\xa7'), chr(0b100000 + 0o104) + chr(4441 - 4340) + '\x63' + chr(0b1101111) + chr(100) + '\145')('\165' + '\164' + chr(5323 - 5221) + '\055' + chr(56)), lecxhbCcMa(M62917xPfp(b'`'), chr(9588 - 9488) + chr(4101 - 4000) + chr(0b1100011) + '\x6f' + chr(0b110110 + 0o56) + chr(101))(chr(5871 - 5754) + '\164' + chr(0b1100110) + chr(0b1111 + 0o36) + '\070'))
+            f_bLRvglqg = C2IYYDqj9b.sub(lecxhbCcMa(M62917xPfp(b'\x1cvh'), chr(100) + chr(0b1011 + 0o132) + chr(1473 - 1374) + chr(0b1101111) + chr(0b1001101 + 0o27) + chr(0b1100101))(chr(0b11100 + 0o131) + chr(0b1001 + 0o153) + chr(102) + chr(0b101011 + 0o2) + '\070'), lecxhbCcMa(M62917xPfp(b'`'), chr(100) + '\145' + '\x63' + chr(111) + chr(0b1100100) + chr(8556 - 8455))(chr(117) + '\x74' + chr(0b11111 + 0o107) + chr(45) + '\070'), f_bLRvglqg)
+            return f_bLRvglqg
+    else:
+        UeKExNlk91 = lecxhbCcMa(M62917xPfp(b'\x1c-k\xb4e\x9d\x018w'), chr(100) + chr(1596 - 1495) + chr(0b1001101 + 0o26) + chr(111) + chr(100) + chr(9346 - 9245))(chr(117) + chr(116) + '\x66' + chr(0b100111 + 0o6) + chr(0b111000))
+        oY6jSVYiU0 = []
+        SGmZhIbHE0 = []
+        ocKjlqpv_l = C2IYYDqj9b.finditer(UeKExNlk91, PDrfJnVmIF)
+        for P2BnGks1zT in ocKjlqpv_l:
+            (i03frRRo6t, bpF89mfmpR) = P2BnGks1zT.group(h0J2gI7PnA('\060' + '\x6f' + chr(0b110001), 8)).split(lecxhbCcMa(M62917xPfp(b'l'), chr(0b1100000 + 0o4) + chr(4997 - 4896) + chr(0b111111 + 0o44) + chr(7660 - 7549) + chr(0b1000111 + 0o35) + chr(0b1100101))('\165' + '\x74' + '\x66' + chr(45) + chr(0b111000)))
+            lecxhbCcMa(oY6jSVYiU0, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(5048 - 4948) + '\x65' + chr(9583 - 9484) + chr(111) + chr(100) + chr(101))(chr(117) + '\164' + chr(5021 - 4919) + '\x2d' + '\x38'))((lecxhbCcMa(i03frRRo6t, lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), '\144' + chr(0b1100101) + '\143' + chr(4178 - 4067) + chr(5567 - 5467) + chr(8355 - 8254))(chr(0b1110101) + chr(9232 - 9116) + '\x66' + '\x2d' + '\x38'))(), lecxhbCcMa(bpF89mfmpR, lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), chr(1838 - 1738) + '\145' + chr(0b1100011 + 0o0) + chr(2442 - 2331) + '\x64' + '\x65')('\x75' + chr(4199 - 4083) + chr(0b1100110) + '\055' + '\x38'))()))
+        (qVaZQSuK4A, AF_FCQprUc) = (oY6jSVYiU0[h0J2gI7PnA(chr(48) + chr(111) + chr(48), 8)][h0J2gI7PnA(chr(0b1100 + 0o44) + chr(0b1010001 + 0o36) + chr(0b110000), 8)], oY6jSVYiU0[h0J2gI7PnA(chr(48) + '\157' + chr(0b100 + 0o54), 8)][h0J2gI7PnA(chr(48) + chr(0b1001110 + 0o41) + '\x31', 8)])
+        d54k1cxsXC = f'({qVaZQSuK4A} = {AF_FCQprUc})'
+        AxW30Kp7UK = f_bLRvglqg.split(lecxhbCcMa(M62917xPfp(b'}'), chr(0b1100100) + chr(8068 - 7967) + '\x63' + chr(0b1101111) + chr(100) + '\x65')(chr(0b1110101) + '\x74' + chr(0b111110 + 0o50) + chr(0b101101) + chr(0b111000)))
+        AxW30Kp7UK = AxW30Kp7UK[h0J2gI7PnA('\060' + chr(12067 - 11956) + '\060', 8)].strip()
+        AxW30Kp7UK = f'se {d54k1cxsXC} entao\n     {AxW30Kp7UK} <- 0\nsenao\n    {AxW30Kp7UK} <- 1\nfimse'
+        return AxW30Kp7UK
+
+def ff7946(xKASdJAvJP):
+    Icu4itraMD = xKASdJAvJP
+    Icu4itraMD = qMZP1Mg6dv(Icu4itraMD)
+    YYh1K_zOub = Icu4itraMD.splitlines()
+    yh_g1bdPPl = []
+    WnKu0O1160 = h0J2gI7PnA('\x30' + chr(10102 - 9991) + '\060', 8)
+    AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b1011101 + 0o7) + chr(101) + chr(0b1000101 + 0o36) + chr(0b1101100 + 0o3) + '\144' + '\x65')(chr(12013 - 11896) + chr(116) + '\x66' + '\x2d' + '\070')
+    d54k1cxsXC = lecxhbCcMa(M62917xPfp(b''), chr(8637 - 8537) + chr(0b1100101) + chr(0b100111 + 0o74) + '\157' + chr(100) + '\x65')('\165' + '\164' + '\x66' + '\x2d' + chr(2477 - 2421))
+    gxjlnudR0x = lecxhbCcMa(M62917xPfp(b''), chr(6720 - 6620) + chr(0b111000 + 0o55) + '\x63' + chr(0b1101010 + 0o5) + '\144' + chr(0b10000 + 0o125))(chr(117) + chr(116) + chr(102) + chr(0b101011 + 0o2) + '\070')
+    LRA3DcPn3Y = {}
+    H246BtV67b = []
+    for (zxQxaVNK_c, rP1opCG3tZ) in _af9rRqIly(YYh1K_zOub):
+        if zxQxaVNK_c == h0J2gI7PnA('\060' + '\157' + chr(0b110000 + 0o0), 8):
+            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(5418 - 5318) + '\x65' + chr(0b1001110 + 0o25) + chr(111) + '\x64' + chr(0b1011000 + 0o15))(chr(117) + chr(0b1001001 + 0o53) + chr(102) + chr(0b1010 + 0o43) + chr(0b110110 + 0o2)))(lecxhbCcMa(M62917xPfp(b"!i$\xf5=\xcb\\\t1\xbc\xdb\x13\x06\x96\xe5_pC@\x1b\x0c\xcf#Nl\x0e\xb0'\xc5\x82"), chr(100) + '\x65' + '\x63' + chr(11091 - 10980) + chr(100) + chr(101))(chr(0b1110101) + '\x74' + '\x66' + '\x2d' + chr(2753 - 2697)))
+            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(1677 - 1577) + chr(0b1100101) + chr(0b1001000 + 0o33) + '\x6f' + chr(7000 - 6900) + '\x65')('\x75' + chr(116) + chr(10233 - 10131) + chr(0b101101) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b''), '\144' + chr(583 - 482) + '\143' + chr(111) + chr(0b100110 + 0o76) + chr(101))('\x75' + chr(116) + '\146' + chr(0b101001 + 0o4) + chr(0b111000)))
+            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + '\x65' + chr(980 - 881) + '\x6f' + chr(0b10011 + 0o121) + chr(101))('\x75' + chr(0b1110100) + '\146' + '\x2d' + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b'6d1'), chr(0b1100100) + chr(0b1100101) + chr(99) + chr(0b1101111) + chr(0b1100100) + chr(0b11010 + 0o113))(chr(0b1110101) + chr(9019 - 8903) + chr(0b1011100 + 0o12) + '\055' + '\070'))
+            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(3070 - 2970) + '\145' + chr(798 - 699) + chr(0b1101111) + chr(100) + chr(0b1100101))('\x75' + '\x74' + chr(0b1101 + 0o131) + chr(45) + '\x38'))(lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(101) + chr(0b10 + 0o141) + chr(0b101111 + 0o100) + chr(0b1100100) + '\145')('\x75' + chr(116) + '\x66' + chr(0b101101) + chr(1958 - 1902)))
+        elif zxQxaVNK_c != h0J2gI7PnA(chr(0b11110 + 0o22) + chr(0b1101111) + chr(1323 - 1275), 8):
+            if lecxhbCcMa(rP1opCG3tZ, lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), chr(100) + '\145' + chr(0b1100011) + '\157' + chr(395 - 295) + '\145')('\165' + chr(0b1110100) + '\146' + chr(120 - 75) + chr(0b111000)))() == lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(101) + '\x63' + chr(0b1011000 + 0o27) + chr(5359 - 5259) + '\145')('\165' + '\x74' + chr(0b1100110) + chr(942 - 897) + chr(0b111000)):
+                WnKu0O1160 = zTPwVy4r78(h0J2gI7PnA(chr(0b10001 + 0o37) + chr(3326 - 3215) + chr(49), 8), h0J2gI7PnA(chr(2061 - 2013) + chr(7295 - 7184) + '\061' + '\062', 8))
+                lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1001110 + 0o26) + chr(101) + chr(0b11010 + 0o111) + chr(4703 - 4592) + chr(100) + chr(101))('\x75' + chr(0b1110100) + chr(531 - 429) + chr(1813 - 1768) + chr(0b100110 + 0o22)))(lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(0b1010011 + 0o22) + '\143' + chr(111) + chr(100) + chr(0b1000001 + 0o44))('\165' + '\164' + chr(102) + chr(45) + '\070'))
+                if WnKu0O1160 < h0J2gI7PnA(chr(48) + chr(0b1101111) + '\x32', 8):
+                    lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + '\145' + chr(2456 - 2357) + chr(0b1101111) + '\x64' + chr(2618 - 2517))('\165' + '\x74' + '\x66' + chr(1061 - 1016) + '\x38'))(lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(101) + chr(0b1100011) + chr(111) + '\x64' + '\145')(chr(12767 - 12650) + chr(116) + chr(102) + chr(45) + chr(56)))
+            else:
+                rP1opCG3tZ = rP1opCG3tZ.strip()
+                if rP1opCG3tZ[h0J2gI7PnA(chr(0b11011 + 0o25) + '\x6f' + chr(0b100110 + 0o12), 8)] == lecxhbCcMa(M62917xPfp(b'o'), chr(0b1100100) + chr(0b1100101) + '\143' + '\x6f' + chr(8121 - 8021) + '\x65')('\165' + '\x74' + chr(0b1100110) + chr(45) + chr(56)) and rP1opCG3tZ[h0J2gI7PnA(chr(0b110000) + '\157' + chr(49), 8)] == lecxhbCcMa(M62917xPfp(b'o'), '\144' + chr(0b1100101) + chr(0b111101 + 0o46) + '\157' + '\144' + chr(0b1100101))('\x75' + '\x74' + chr(102) + '\x2d' + chr(0b111000)):
+                    lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(101) + '\143' + '\157' + chr(0b1100100) + chr(0b1010010 + 0o23))(chr(0b110011 + 0o102) + chr(116) + chr(0b1 + 0o145) + '\x2d' + '\070'))(rP1opCG3tZ)
+                else:
+                    rP1opCG3tZ = rP1opCG3tZ.lower()
+                    if lecxhbCcMa(M62917xPfp(b'0j4'), chr(100) + chr(3197 - 3096) + chr(99) + chr(0b1101111) + '\144' + chr(0b11111 + 0o106))(chr(0b1110101) + chr(0b1110100) + chr(5345 - 5243) + chr(0b100001 + 0o14) + chr(870 - 814)) in rP1opCG3tZ:
+                        rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'0j4'), '\x64' + chr(0b1001111 + 0o26) + chr(7039 - 6940) + chr(2926 - 2815) + chr(0b1100100) + '\145')(chr(7007 - 6890) + '\x74' + chr(0b1100110) + chr(0b100101 + 0o10) + chr(56)), lecxhbCcMa(M62917xPfp(b'%}3'), '\144' + chr(0b1100101) + chr(0b101100 + 0o67) + '\157' + chr(100) + chr(0b101011 + 0o72))(chr(117) + chr(0b1010110 + 0o36) + chr(0b1100100 + 0o2) + chr(0b11110 + 0o17) + '\x38'))
+                    if lecxhbCcMa(M62917xPfp(b'3t1\xee'), chr(0b111101 + 0o47) + chr(101) + chr(6517 - 6418) + chr(0b1101111) + '\x64' + chr(0b1100101))(chr(0b101110 + 0o107) + chr(0b1101101 + 0o7) + chr(805 - 703) + '\055' + '\x38') in rP1opCG3tZ:
+                        rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'3t1\xee'), chr(0b100001 + 0o103) + '\145' + chr(99) + chr(1360 - 1249) + chr(0b1010010 + 0o22) + '\145')(chr(11046 - 10929) + '\x74' + chr(102) + chr(0b101101) + chr(2904 - 2848)), lecxhbCcMa(M62917xPfp(b'2d*\xe0>'), chr(0b1010000 + 0o24) + chr(0b1100101) + chr(99) + chr(0b1101111) + '\x64' + chr(0b10010 + 0o123))('\165' + '\x74' + chr(7200 - 7098) + '\x2d' + chr(56)))
+                    if lecxhbCcMa(M62917xPfp(b')k7\xba'), chr(0b1000101 + 0o37) + chr(0b1100101) + '\x63' + '\x6f' + chr(0b1100100) + chr(101))(chr(0b10011 + 0o142) + chr(0b1011110 + 0o26) + '\146' + '\x2d' + chr(56)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'b'), chr(7352 - 7252) + chr(8294 - 8193) + chr(0b1100011) + '\x6f' + '\x64' + chr(0b1100101))('\x75' + chr(116) + chr(0b1000000 + 0o46) + chr(45) + '\070') not in rP1opCG3tZ and (lecxhbCcMa(M62917xPfp(b';'), '\x64' + chr(101) + chr(99) + '\157' + chr(100) + chr(101))(chr(117) + '\164' + '\x66' + chr(0b101101) + chr(0b111000)) not in rP1opCG3tZ):
+                        if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b1100100) + '\x65' + '\x63' + chr(111) + '\144' + chr(0b11101 + 0o110))(chr(117) + chr(116) + chr(9942 - 9840) + chr(0b101011 + 0o2) + chr(1984 - 1928)) not in rP1opCG3tZ:
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b')k7\xba'), chr(0b1100100) + chr(0b1100101) + '\143' + chr(111) + chr(5321 - 5221) + chr(0b1000101 + 0o40))('\x75' + chr(0b1110100) + chr(0b100000 + 0o106) + chr(0b101101) + chr(56)), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(101) + chr(99) + chr(2360 - 2249) + '\144' + chr(0b1100101))(chr(0b1000010 + 0o63) + chr(0b1110100) + chr(102) + '\055' + '\070'))
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(0b1100100) + '\x65' + chr(0b1100011) + chr(111) + chr(100) + chr(0b1100101))(chr(0b1110101) + '\164' + chr(0b101011 + 0o73) + chr(0b101101) + '\x38'), lecxhbCcMa(M62917xPfp(b'z%*\xf4;\xc7A\x161'), chr(100) + chr(101) + chr(9462 - 9363) + chr(111) + '\x64' + '\x65')('\x75' + '\x74' + chr(9052 - 8950) + chr(45) + chr(0b10110 + 0o42)))
+                            rP1opCG3tZ = rP1opCG3tZ.strip()
+                            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(3163 - 3062) + chr(0b100111 + 0o74) + chr(111) + '\144' + '\x65')(chr(9807 - 9690) + '\x74' + '\146' + '\x2d' + '\070'))(rP1opCG3tZ)
                         else:
-                            lax = line.replace("--","")
-                            lax = lax.replace(";","")
-                            lax = lax.strip()
-                            lax =  lax + " <- " + lax + " - 1"
-                        VG_codeSplit.append(lax)
-
-                        
-                    if ("=" in line and (not "for" in line and not "while" in line and not "if" in line)):
-                        if ("[" in line and "]" in line):
-                                line = line.replace("][",",")
-                        lax = line.replace("=", "<-")
-                        lax =  lax.replace(";","")
-                        VG_codeSplit.append(lax)
-                        
-                    if ("break" in line):
-                        VG_codeSplit.append("interrompa")
-
-                    if ("}" in line and not "{" in line and not "while" in line):
-                        print(ChOp)
-                        VG_codeSplit.append(ChOp[0])
-                        ChOp.pop(0)
-                       
-                    if ("if" in line):
-                        ChOp.insert(0, "fimse")
-
-                    if ("if" in line and not "else" in line):
-                        lax = line.replace("if", "")
-                        lax = lax.replace("{", "")
-                        lax = lax.strip()
-                        lax = Conditions_C(lax)
-                        lax = "se " + lax + " entao"
-                        VG_codeSplit.append(lax)
-                    
-
-
-                    if ("else" in line):
-                        if not "if" in line:
-                            VG_codeSplit.append("senao")
-                      
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b')k7\xba'), chr(9556 - 9456) + chr(0b1100101) + chr(99) + chr(9097 - 8986) + chr(0b1100100) + chr(4924 - 4823))(chr(11650 - 11533) + chr(0b1110100) + chr(102) + chr(0b101101) + chr(56)), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(0b10010 + 0o123) + chr(4288 - 4189) + chr(0b1010001 + 0o36) + chr(0b11101 + 0o107) + '\145')(chr(0b1100 + 0o151) + chr(0b1110100) + chr(0b1100110) + '\x2d' + chr(0b10010 + 0o46)))
+                            rP1opCG3tZ = rP1opCG3tZ.strip()
+                            AxW30Kp7UK = ae2NyB9LXX(rP1opCG3tZ, lecxhbCcMa(M62917xPfp(b')k7\xff&\xd0G'), chr(100) + chr(0b1000100 + 0o41) + '\x63' + '\157' + chr(100) + chr(101))(chr(0b1011 + 0o152) + '\x74' + chr(102) + '\x2d' + chr(0b1110 + 0o52)))
+                            if VBTYL3oeHU(AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(9132 - 9021) + chr(1772 - 1724), 8)]) == h0J2gI7PnA(chr(0b101011 + 0o5) + chr(111) + chr(0b101 + 0o53), 8):
+                                for zxQxaVNK_c in AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(0b11101 + 0o122) + chr(203 - 154), 8)]:
+                                    lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b10011 + 0o121) + chr(0b1100101) + '\x63' + chr(0b1101111) + chr(0b111110 + 0o46) + '\145')('\x75' + '\x74' + chr(1157 - 1055) + chr(0b101101) + chr(0b111000)))(zxQxaVNK_c)
+                            else:
+                                for zxQxaVNK_c in Hd1GczuPJt(h0J2gI7PnA(chr(48) + chr(2815 - 2704) + '\x30', 8), h0J2gI7PnA(chr(0b110000) + chr(111) + chr(685 - 635), 8)):
+                                    for hdKwZ0Xz_Z in AxW30Kp7UK[zxQxaVNK_c]:
+                                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b100110 + 0o76) + '\x65' + chr(0b11001 + 0o112) + chr(111) + '\144' + chr(4360 - 4259))(chr(0b1110101) + chr(116) + '\x66' + '\055' + '\x38'))(hdKwZ0Xz_Z)
+                    if lecxhbCcMa(M62917xPfp(b'&i,\xfb;\x82'), chr(0b101011 + 0o71) + chr(101) + chr(0b11001 + 0o112) + '\157' + chr(1859 - 1759) + chr(0b1100101))(chr(117) + chr(8418 - 8302) + chr(1500 - 1398) + chr(0b101101) + '\070') in rP1opCG3tZ:
+                        if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(1674 - 1574) + chr(9670 - 9569) + chr(0b101101 + 0o66) + chr(11062 - 10951) + chr(100) + chr(0b1100101))(chr(0b1110101) + chr(0b1110011 + 0o1) + chr(7779 - 7677) + chr(0b101101) + chr(0b10000 + 0o50)) not in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + chr(0b1100101) + chr(0b1010011 + 0o20) + chr(3947 - 3836) + chr(0b1100100) + chr(0b1100101))('\165' + chr(5969 - 5853) + '\146' + chr(464 - 419) + chr(0b1110 + 0o52)) not in rP1opCG3tZ:
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'&i,\xfb;\x82'), chr(0b11010 + 0o112) + chr(0b1100101) + chr(0b1000000 + 0o43) + '\x6f' + chr(100) + '\145')(chr(117) + chr(2345 - 2229) + chr(3552 - 3450) + chr(1160 - 1115) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(0b110 + 0o137) + '\x63' + chr(4583 - 4472) + '\144' + '\145')(chr(117) + chr(0b1011010 + 0o32) + '\x66' + chr(45) + chr(56)))
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(0b1100100) + chr(3586 - 3485) + '\x63' + '\x6f' + chr(0b1100100) + chr(1759 - 1658))(chr(0b10011 + 0o142) + chr(0b1110100) + chr(0b1100 + 0o132) + chr(166 - 121) + chr(56)), lecxhbCcMa(M62917xPfp(b'z%1\xff.\xce'), chr(0b1100100) + '\x65' + chr(7588 - 7489) + chr(0b1101010 + 0o5) + chr(3049 - 2949) + chr(101))(chr(117) + chr(0b110101 + 0o77) + '\146' + chr(0b10111 + 0o26) + chr(1882 - 1826)))
+                            rP1opCG3tZ = rP1opCG3tZ.strip()
+                            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(101) + chr(0b1100011) + chr(10653 - 10542) + chr(0b1100100) + '\x65')(chr(0b101110 + 0o107) + '\x74' + '\146' + '\055' + '\x38'))(rP1opCG3tZ)
                         else:
-                            VG_codeSplit.append("senao")
-                            lax = line.replace("if", "")
-                            lax = lax.replace("else", "")
-                            lax = lax.replace("{", "")
-                            lax = lax.replace("}", "")
-                            lax = lax.strip()
-                            lax = Conditions_C(lax)
-                            lax = "se " + lax + " entao"
-                            VG_codeSplit.append(lax)
-                           
-                            
-
-
-
-
-                    if ("int" in line):
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'&i,\xfb;'), chr(0b101110 + 0o66) + chr(0b1011011 + 0o12) + chr(99) + chr(10487 - 10376) + '\x64' + chr(0b1100101))(chr(0b1110101) + '\x74' + chr(0b1000100 + 0o42) + chr(0b10010 + 0o33) + chr(0b1011 + 0o55)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + '\x65' + chr(0b10111 + 0o114) + '\x6f' + chr(0b111010 + 0o52) + chr(101))('\x75' + chr(0b1110100) + chr(0b1100110) + chr(0b100000 + 0o15) + chr(0b111000)))
+                            rP1opCG3tZ = rP1opCG3tZ.strip()
+                            AxW30Kp7UK = ae2NyB9LXX(rP1opCG3tZ, lecxhbCcMa(M62917xPfp(b'2`"\xf6'), chr(2257 - 2157) + chr(0b1100101) + chr(0b1100011) + '\157' + chr(100) + chr(0b110110 + 0o57))(chr(2986 - 2869) + '\x74' + chr(0b1010 + 0o134) + '\055' + '\x38'))
+                            if VBTYL3oeHU(AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + chr(0b10111 + 0o130) + '\060', 8)]) == h0J2gI7PnA(chr(48) + chr(0b1101111) + chr(48), 8):
+                                for zxQxaVNK_c in AxW30Kp7UK[h0J2gI7PnA(chr(1857 - 1809) + '\157' + chr(1340 - 1291), 8)]:
+                                    lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(101) + chr(8270 - 8171) + chr(111) + '\x64' + chr(5922 - 5821))(chr(829 - 712) + '\x74' + chr(8235 - 8133) + '\055' + chr(1632 - 1576)))(zxQxaVNK_c)
+                            else:
+                                for zxQxaVNK_c in Hd1GczuPJt(h0J2gI7PnA(chr(765 - 717) + chr(0b1101111) + chr(48), 8), h0J2gI7PnA(chr(48) + '\157' + chr(880 - 830), 8)):
+                                    for hdKwZ0Xz_Z in AxW30Kp7UK[zxQxaVNK_c]:
+                                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(9518 - 9418) + chr(5097 - 4996) + chr(0b1100011) + chr(8732 - 8621) + chr(2098 - 1998) + chr(101))('\x75' + chr(3556 - 3440) + '\x66' + '\055' + chr(0b111000)))(hdKwZ0Xz_Z)
+                    if lecxhbCcMa(M62917xPfp(b'#m"\xe8o'), '\144' + chr(0b1010010 + 0o23) + chr(0b1100011) + chr(0b1110 + 0o141) + chr(0b1100100) + chr(0b1100101))('\x75' + '\x74' + chr(0b100100 + 0o102) + chr(45) + '\070') in rP1opCG3tZ:
+                        rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'#m"\xe8o'), chr(100) + chr(0b1100101) + chr(907 - 808) + chr(111) + '\x64' + chr(0b1100101))(chr(1854 - 1737) + '\164' + chr(0b100000 + 0o106) + '\x2d' + chr(56)), lecxhbCcMa(M62917xPfp(b''), chr(0b1011101 + 0o7) + chr(0b1100101) + chr(0b10011 + 0o120) + chr(0b1101111) + chr(0b100111 + 0o75) + chr(0b1010011 + 0o22))(chr(0b101001 + 0o114) + chr(0b1110100) + chr(0b1100110) + chr(45) + '\070'))
+                        rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(1486 - 1386) + chr(101) + '\143' + '\x6f' + '\x64' + chr(101))('\165' + chr(0b1000100 + 0o60) + '\x66' + chr(0b101101) + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(1907 - 1807) + '\145' + chr(8605 - 8506) + chr(111) + '\144' + chr(4940 - 4839))('\165' + chr(2180 - 2064) + '\146' + chr(45) + chr(0b10110 + 0o42)))
+                        rP1opCG3tZ = rP1opCG3tZ.strip()
+                        AxW30Kp7UK = ae2NyB9LXX(rP1opCG3tZ, lecxhbCcMa(M62917xPfp(b'#d1\xfb,\xd6M\x16;'), chr(0b1100100) + chr(0b1100101) + chr(0b1100011) + chr(10073 - 9962) + '\144' + chr(0b1100101))(chr(0b100110 + 0o117) + chr(0b1110100) + chr(0b1011110 + 0o10) + chr(0b10100 + 0o31) + chr(56)))
+                        if not AxW30Kp7UK[h0J2gI7PnA(chr(0b10000 + 0o40) + '\157' + '\060', 8)]:
+                            for hhCwIOoWey in AxW30Kp7UK[h0J2gI7PnA('\060' + '\157' + chr(49), 8)]:
+                                hhCwIOoWey = hhCwIOoWey.strip()
+                                lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b100100 + 0o100) + chr(5813 - 5712) + chr(0b1100011) + chr(111) + '\144' + chr(8714 - 8613))(chr(117) + chr(116) + '\146' + chr(72 - 27) + chr(1799 - 1743)))()
+                        else:
+                            kdqmGXIXJs = AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(0b100100 + 0o113) + '\060', 8)] + AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(7147 - 7036) + chr(0b100100 + 0o15), 8)]
+                            for hhCwIOoWey in kdqmGXIXJs:
+                                lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(8404 - 8303) + '\143' + chr(0b11000 + 0o127) + chr(100) + chr(4571 - 4470))(chr(0b110111 + 0o76) + '\164' + chr(0b1100110) + chr(78 - 33) + '\x38'))(lecxhbCcMa(hhCwIOoWey, lecxhbCcMa(M62917xPfp(b'3q1\xf3?'), chr(0b1011101 + 0o7) + chr(1319 - 1218) + chr(8332 - 8233) + chr(111) + '\144' + '\x65')(chr(2664 - 2547) + chr(116) + chr(0b10110 + 0o120) + '\x2d' + chr(0b111000)))())
+                    if lecxhbCcMa(M62917xPfp(b'3q1\xf9?\xdb'), chr(0b10110 + 0o116) + chr(0b1100101) + '\x63' + chr(111) + chr(100) + '\145')(chr(0b1110101) + '\164' + '\x66' + '\x2d' + '\070') in rP1opCG3tZ:
+                        AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'3q1\xf9?\xdb'), chr(0b1100100) + chr(101) + chr(0b110101 + 0o56) + chr(2220 - 2109) + chr(0b1100100) + '\x65')('\165' + chr(116) + '\146' + '\055' + chr(479 - 423)), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(0b1100101) + chr(0b1100011) + chr(111) + chr(0b1100100) + chr(0b1011110 + 0o7))('\165' + chr(6192 - 6076) + chr(102) + chr(0b100101 + 0o10) + '\x38'))
+                        AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(297 - 197) + '\145' + '\x63' + chr(0b1101111) + chr(0b1001111 + 0o25) + chr(101))('\165' + chr(8817 - 8701) + chr(102) + '\055' + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(0b111110 + 0o46) + chr(101) + '\x63' + chr(0b1011101 + 0o22) + '\x64' + chr(4239 - 4138))('\x75' + '\x74' + '\x66' + '\x2d' + '\070'))
+                        AxW30Kp7UK = AxW30Kp7UK.strip()
+                        AxW30Kp7UK = AxW30Kp7UK.strip(lecxhbCcMa(M62917xPfp(b'h,'), '\x64' + chr(101) + chr(0b1011011 + 0o10) + chr(0b1101111 + 0o0) + '\x64' + chr(8706 - 8605))(chr(8960 - 8843) + chr(0b1110100) + '\146' + chr(0b11110 + 0o17) + '\070'))
+                        AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'l'), '\144' + chr(0b11001 + 0o114) + chr(0b1100011) + chr(111) + chr(9348 - 9248) + chr(101))(chr(117) + chr(0b1010100 + 0o40) + chr(6197 - 6095) + chr(0b100001 + 0o14) + chr(2708 - 2652)), lecxhbCcMa(M62917xPfp(b'|('), chr(100) + chr(0b100011 + 0o102) + '\x63' + '\x6f' + chr(0b1100100) + chr(3592 - 3491))(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(45) + chr(56)))
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b101011 + 0o72) + chr(0b1100011) + '\157' + '\144' + chr(2562 - 2461))(chr(0b1110101) + chr(6658 - 6542) + '\x66' + '\x2d' + chr(316 - 260)))(AxW30Kp7UK)
+                    if lecxhbCcMa(M62917xPfp(b'3q1\xf9"\xd2'), chr(7880 - 7780) + chr(0b10101 + 0o120) + chr(99) + chr(0b1101111) + chr(0b1100100) + chr(0b11001 + 0o114))(chr(0b111111 + 0o66) + chr(116) + chr(102) + chr(0b1100 + 0o41) + '\x38') in rP1opCG3tZ:
+                        if lecxhbCcMa(M62917xPfp(b'`8c'), '\x64' + chr(0b1100101) + chr(5140 - 5041) + chr(8673 - 8562) + chr(0b101001 + 0o73) + chr(0b1100101))(chr(0b100101 + 0o120) + '\164' + chr(0b101100 + 0o72) + chr(0b101101) + chr(0b1111 + 0o51)) in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'7m*\xf6*'), chr(0b101010 + 0o72) + chr(101) + chr(0b1100011) + chr(0b1101111) + '\144' + chr(101))(chr(9653 - 9536) + '\x74' + chr(102) + chr(1957 - 1912) + chr(2466 - 2410)) in rP1opCG3tZ) and (not lecxhbCcMa(M62917xPfp(b')c'), '\144' + chr(101) + chr(0b1011110 + 0o5) + '\x6f' + chr(0b1100100) + '\145')('\x75' + chr(0b1011101 + 0o27) + chr(102) + '\x2d' + '\070') in rP1opCG3tZ):
+                            oTFV5eevoJ = sUetRJjMbr(rP1opCG3tZ, h0J2gI7PnA('\060' + chr(111) + chr(1000 - 951), 8))
+                            rP1opCG3tZ = lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(671 - 570) + chr(0b1001110 + 0o25) + chr(0b1101111) + chr(6309 - 6209) + chr(0b111101 + 0o50))(chr(0b110000 + 0o105) + chr(6562 - 6446) + chr(0b1100110) + '\055' + chr(56))
+                            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b1100101) + chr(0b100101 + 0o76) + '\x6f' + chr(100) + '\145')(chr(117) + '\x74' + chr(102) + chr(0b101101) + '\070'))(oTFV5eevoJ)
+                        else:
+                            oTFV5eevoJ = sUetRJjMbr(rP1opCG3tZ)
+                            rP1opCG3tZ = oTFV5eevoJ
+                    if lecxhbCcMa(M62917xPfp(b'-d*\xf4'), chr(6343 - 6243) + chr(101) + chr(99) + '\x6f' + chr(1080 - 980) + chr(2337 - 2236))('\x75' + chr(0b1001001 + 0o53) + chr(0b11000 + 0o116) + '\055' + '\x38') in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b';'), chr(0b11100 + 0o110) + chr(101) + chr(0b11110 + 0o105) + chr(111) + chr(2911 - 2811) + '\145')('\165' + '\164' + chr(4217 - 4115) + chr(0b100011 + 0o12) + chr(2006 - 1950)) in rP1opCG3tZ and (lecxhbCcMa(M62917xPfp(b'h'), '\144' + '\145' + '\x63' + chr(0b1101111) + chr(0b1100100) + '\x65')(chr(2458 - 2341) + chr(116) + chr(0b1100110) + '\x2d' + chr(56)) in rP1opCG3tZ):
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(101) + '\143' + chr(111) + chr(0b1100100) + chr(9888 - 9787))(chr(0b1100010 + 0o23) + '\164' + chr(102) + chr(373 - 328) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b')k*\xf9&\xcd'), chr(100) + '\145' + chr(0b10111 + 0o114) + chr(0b1101111) + chr(0b1100100) + chr(4255 - 4154))('\165' + '\164' + chr(4211 - 4109) + chr(45) + '\x38'))
+                        lecxhbCcMa(H246BtV67b, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), '\x64' + chr(0b110 + 0o137) + chr(2781 - 2682) + chr(111) + chr(0b1010001 + 0o23) + chr(9676 - 9575))('\x75' + chr(116) + chr(102) + chr(0b101101) + '\070'))(h0J2gI7PnA(chr(48) + chr(111) + '\x30', 8), lecxhbCcMa(M62917xPfp(b'&l.\xfb#\xc5G\x167\xe8\x94\\'), '\144' + chr(0b1100101) + '\143' + '\x6f' + chr(790 - 690) + '\x65')('\165' + '\x74' + chr(0b1011110 + 0o10) + '\055' + '\x38'))
+                    if lecxhbCcMa(M62917xPfp(b'&j1\xba'), chr(6697 - 6597) + chr(0b1100101) + chr(99) + chr(0b1101111) + '\144' + chr(0b1011111 + 0o6))(chr(2869 - 2752) + chr(116) + chr(0b1100110) + chr(0b101101) + chr(0b1110 + 0o52)) in rP1opCG3tZ:
+                        AxW30Kp7UK = KG6bixjD5Z(rP1opCG3tZ)
+                        if AxW30Kp7UK is not None and VBTYL3oeHU(AxW30Kp7UK) >= h0J2gI7PnA(chr(1917 - 1869) + '\x6f' + chr(2226 - 2175), 8) and (lecxhbCcMa(M62917xPfp(b'p'), '\x64' + chr(4389 - 4288) + chr(99) + chr(0b1101111) + chr(0b1100100) + chr(0b110001 + 0o64))(chr(0b1110001 + 0o4) + '\x74' + '\146' + chr(45) + chr(3127 - 3071)) == AxW30Kp7UK[h0J2gI7PnA(chr(0b101011 + 0o5) + chr(10912 - 10801) + '\061', 8)]) and (lecxhbCcMa(M62917xPfp(b'}'), chr(7188 - 7088) + chr(6350 - 6249) + '\x63' + '\x6f' + chr(100) + chr(0b1100101))('\165' + '\164' + '\x66' + chr(45) + chr(0b111000)) not in AxW30Kp7UK[h0J2gI7PnA('\060' + chr(3099 - 2988) + '\062', 8)]) and (VBTYL3oeHU(AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(1293 - 1182) + '\062', 8)]) > h0J2gI7PnA('\060' + chr(2098 - 1987) + chr(48), 8)) and QhjCTS7cjb(TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(0b11 + 0o154) + chr(320 - 270), 8)][VBTYL3oeHU(AxW30Kp7UK[h0J2gI7PnA('\x30' + '\x6f' + '\x32', 8)]) - h0J2gI7PnA(chr(1125 - 1077) + '\x6f' + chr(0b11001 + 0o30), 8)])):
+                            if lecxhbCcMa(M62917xPfp(b'k.'), chr(100) + '\x65' + chr(0b1010000 + 0o23) + chr(111) + chr(100) + chr(0b1100101))(chr(0b1110101) + chr(116) + chr(5196 - 5094) + chr(0b11111 + 0o16) + chr(0b100011 + 0o25)) in rP1opCG3tZ:
+                                d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'0d1\xfbo'), chr(0b101001 + 0o73) + chr(101) + '\143' + chr(0b1101111) + chr(100) + '\x65')('\x75' + chr(11607 - 11491) + chr(0b1100110) + chr(0b11010 + 0o23) + chr(0b111000)) + AxW30Kp7UK[h0J2gI7PnA(chr(0b100010 + 0o16) + chr(5078 - 4967) + chr(565 - 517), 8)] + lecxhbCcMa(M62917xPfp(b'`a&\xba~\x82I\x10;\xbc'), chr(0b1100100) + chr(101) + chr(0b1100011) + chr(11441 - 11330) + chr(248 - 148) + chr(101))('\165' + '\164' + chr(0b100010 + 0o104) + chr(1715 - 1670) + '\070') + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + chr(11583 - 11472) + '\x32', 8)][VBTYL3oeHU(AxW30Kp7UK[h0J2gI7PnA('\060' + chr(111) + chr(2281 - 2231), 8)]) - h0J2gI7PnA(chr(48) + chr(111) + chr(49), 8)]) + lecxhbCcMa(M62917xPfp(b'`c"\xf9.'), chr(4465 - 4365) + '\145' + '\x63' + chr(0b11111 + 0o120) + chr(0b1100100) + '\x65')('\165' + chr(1810 - 1694) + chr(102) + chr(45) + '\070')
+                            elif lecxhbCcMa(M62917xPfp(b'm('), chr(100) + '\x65' + chr(0b111 + 0o134) + chr(0b1101111) + '\144' + chr(0b1011010 + 0o13))(chr(167 - 50) + chr(0b100011 + 0o121) + chr(0b1100110) + chr(0b10000 + 0o35) + chr(56)) in rP1opCG3tZ:
+                                d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'0d1\xfbo'), chr(0b11 + 0o141) + '\x65' + chr(0b1 + 0o142) + chr(0b101111 + 0o100) + '\x64' + chr(0b1100101))(chr(0b1110101) + chr(10314 - 10198) + chr(0b1001 + 0o135) + chr(0b101 + 0o50) + '\x38') + AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + chr(0b1000101 + 0o52) + '\060', 8)] + lecxhbCcMa(M62917xPfp(b'`a&'), chr(0b1100100) + chr(0b1100101) + '\x63' + chr(0b1000111 + 0o50) + chr(100) + '\145')(chr(117) + '\x74' + '\146' + '\055' + '\070') + AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + '\x6f' + chr(0b110001), 8)] + lecxhbCcMa(M62917xPfp(b'`d7\xffo'), chr(0b1100100) + '\145' + chr(9427 - 9328) + '\x6f' + chr(6472 - 6372) + chr(0b1100101))('\x75' + chr(0b1110100) + chr(2606 - 2504) + '\x2d' + chr(0b111000)) + TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA('\x30' + chr(1897 - 1786) + '\x32', 8)][VBTYL3oeHU(AxW30Kp7UK[h0J2gI7PnA(chr(1508 - 1460) + '\157' + '\x32', 8)]) - h0J2gI7PnA(chr(315 - 267) + chr(111) + '\061', 8)]) + lecxhbCcMa(M62917xPfp(b'`u"\xe9<\xcd\x08Io\xbc\x9fR\x15\x85'), '\144' + chr(101) + '\x63' + chr(111) + '\x64' + '\145')('\x75' + chr(116) + chr(0b1010101 + 0o21) + '\x2d' + '\070')
+                        else:
+                            gxjlnudR0x = None
+                            if AxW30Kp7UK is not None and VBTYL3oeHU(AxW30Kp7UK) >= h0J2gI7PnA(chr(48) + chr(0b111100 + 0o63) + '\064', 8):
+                                if lecxhbCcMa(M62917xPfp(b'}'), '\144' + chr(101) + chr(0b1100011) + chr(1598 - 1487) + '\x64' + chr(8337 - 8236))('\x75' + '\x74' + '\x66' + chr(45) + chr(1465 - 1409)) in AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + chr(0b1000011 + 0o54) + '\062', 8)] and (not lecxhbCcMa(M62917xPfp(b'}8'), '\x64' + '\145' + chr(0b1100011) + chr(111) + chr(100) + chr(101))(chr(117) + chr(116) + '\146' + chr(0b10100 + 0o31) + '\x38') in AxW30Kp7UK[h0J2gI7PnA('\060' + chr(111) + chr(0b11001 + 0o31), 8)]):
+                                    gxjlnudR0x = AxW30Kp7UK[h0J2gI7PnA('\060' + chr(111) + chr(0b110010), 8)].split(lecxhbCcMa(M62917xPfp(b'}'), '\x64' + '\x65' + '\x63' + chr(0b101100 + 0o103) + chr(0b1100100) + chr(101))(chr(3812 - 3695) + chr(664 - 548) + '\x66' + chr(0b11110 + 0o17) + chr(56)))
+                                elif lecxhbCcMa(M62917xPfp(b'}8'), '\144' + chr(101) + chr(2955 - 2856) + chr(0b1101111) + '\144' + chr(0b1010100 + 0o21))(chr(10072 - 9955) + chr(0b1000110 + 0o56) + chr(102) + chr(0b101101) + '\070') in AxW30Kp7UK[h0J2gI7PnA(chr(48) + chr(0b1000100 + 0o53) + '\x32', 8)]:
+                                    gxjlnudR0x = AxW30Kp7UK[h0J2gI7PnA(chr(562 - 514) + '\157' + chr(0b110010), 8)].split(lecxhbCcMa(M62917xPfp(b'}8'), chr(0b1100100 + 0o0) + '\x65' + '\143' + chr(0b1101111) + chr(0b1001100 + 0o30) + chr(9078 - 8977))(chr(0b111101 + 0o70) + '\x74' + '\x66' + chr(0b101101) + chr(0b100000 + 0o30)))
+                                elif lecxhbCcMa(M62917xPfp(b'|'), chr(0b1100100) + chr(0b100 + 0o141) + chr(0b1100011) + '\157' + chr(0b101000 + 0o74) + chr(101))(chr(0b1110101) + chr(0b110111 + 0o75) + chr(0b1100110) + chr(852 - 807) + '\x38') in AxW30Kp7UK[h0J2gI7PnA(chr(48) + chr(2335 - 2224) + chr(0b1010 + 0o50), 8)]:
+                                    gxjlnudR0x = AxW30Kp7UK[h0J2gI7PnA('\060' + '\x6f' + chr(50), 8)].split(lecxhbCcMa(M62917xPfp(b'|'), chr(0b1100100) + chr(0b1100101) + chr(99) + chr(111) + chr(0b110 + 0o136) + chr(3711 - 3610))(chr(0b1110101) + chr(116) + '\146' + chr(554 - 509) + chr(0b111000)))
+                                elif lecxhbCcMa(M62917xPfp(b'~'), chr(0b1100100) + '\x65' + '\x63' + '\157' + '\144' + '\x65')(chr(117) + '\x74' + '\146' + chr(45) + chr(56)) in AxW30Kp7UK[h0J2gI7PnA('\x30' + '\157' + chr(0b100101 + 0o15), 8)]:
+                                    gxjlnudR0x = AxW30Kp7UK[h0J2gI7PnA(chr(1083 - 1035) + chr(0b1101111) + chr(2243 - 2193), 8)].split(lecxhbCcMa(M62917xPfp(b'~'), chr(100) + chr(5666 - 5565) + chr(0b1100011) + '\157' + chr(100) + chr(0b1100101))('\165' + chr(7023 - 6907) + '\146' + '\x2d' + chr(0b101100 + 0o14)))
+                                if gxjlnudR0x is not None and VBTYL3oeHU(gxjlnudR0x) >= h0J2gI7PnA(chr(1785 - 1737) + chr(0b10110 + 0o131) + chr(50), 8):
+                                    gxjlnudR0x = TWngu2iXgp(gxjlnudR0x[h0J2gI7PnA(chr(48) + chr(3122 - 3011) + chr(0b10001 + 0o40), 8)])
+                                    gxjlnudR0x = gxjlnudR0x.strip()
+                                else:
+                                    gxjlnudR0x = lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(0b1100101) + '\143' + chr(0b10110 + 0o131) + chr(2633 - 2533) + chr(0b100011 + 0o102))(chr(1999 - 1882) + chr(116) + chr(0b1100110) + chr(0b11010 + 0o23) + chr(0b111000))
+                                d54k1cxsXC = lecxhbCcMa(M62917xPfp(b'0d1\xfbo'), chr(0b110 + 0o136) + '\145' + chr(4456 - 4357) + chr(4451 - 4340) + chr(9066 - 8966) + chr(101))('\x75' + chr(0b1110100) + '\146' + chr(273 - 228) + chr(56)) + AxW30Kp7UK[h0J2gI7PnA('\060' + chr(111) + chr(0b101110 + 0o2), 8)] + lecxhbCcMa(M62917xPfp(b'`a&\xba'), chr(0b101110 + 0o66) + chr(0b110101 + 0o60) + '\x63' + '\157' + '\144' + '\145')(chr(0b1110101) + '\164' + chr(0b1011100 + 0o12) + chr(1296 - 1251) + '\070') + AxW30Kp7UK[h0J2gI7PnA('\060' + chr(0b1101111) + chr(1431 - 1382), 8)] + lecxhbCcMa(M62917xPfp(b'`d7\xffo'), chr(100) + '\x65' + chr(5948 - 5849) + chr(0b1101111) + chr(100) + '\x65')(chr(117) + chr(0b110011 + 0o101) + '\x66' + chr(1446 - 1401) + chr(0b10000 + 0o50)) + gxjlnudR0x
+                                if lecxhbCcMa(M62917xPfp(b'k.'), '\144' + '\x65' + '\143' + '\x6f' + chr(7648 - 7548) + chr(0b1100101))(chr(0b11101 + 0o130) + chr(0b110000 + 0o104) + chr(102) + chr(0b100 + 0o51) + '\x38') in AxW30Kp7UK[h0J2gI7PnA('\x30' + '\157' + chr(0b110011), 8)]:
+                                    d54k1cxsXC = d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'`c"\xf9.'), chr(0b1100100) + chr(2265 - 2164) + '\143' + chr(0b1101111) + '\144' + '\145')(chr(0b1110101) + chr(116) + chr(0b1011011 + 0o13) + chr(0b11110 + 0o17) + chr(0b111000))
+                                elif lecxhbCcMa(M62917xPfp(b'm('), '\144' + '\145' + '\143' + chr(111) + chr(0b101000 + 0o74) + '\145')('\x75' + '\x74' + chr(9799 - 9697) + '\x2d' + chr(0b111000)) in AxW30Kp7UK[h0J2gI7PnA(chr(157 - 109) + '\157' + chr(0b110011), 8)]:
+                                    d54k1cxsXC = d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'`u"\xe9<\xcd\x08Io\xbc\x9fR\x15\x85'), chr(2679 - 2579) + chr(101) + chr(0b1100011) + chr(0b1101111) + '\144' + chr(0b1001010 + 0o33))(chr(3576 - 3459) + chr(116) + chr(7384 - 7282) + '\055' + '\x38')
+                                else:
+                                    gxjlnudR0x = AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + '\x6f' + '\063', 8)].split(lecxhbCcMa(M62917xPfp(b'}'), '\x64' + '\x65' + chr(2890 - 2791) + '\157' + '\144' + chr(3123 - 3022))('\165' + '\164' + chr(0b1100110) + chr(45) + chr(0b111 + 0o61)))
+                                    gxjlnudR0x = gxjlnudR0x[h0J2gI7PnA(chr(48) + chr(5315 - 5204) + '\x31', 8)].strip()
+                                    d54k1cxsXC = d54k1cxsXC + lecxhbCcMa(M62917xPfp(b'`u"\xe9<\xcd\x08'), '\144' + '\x65' + chr(0b1100011) + chr(0b1001000 + 0o47) + chr(0b1100100) + '\x65')('\165' + '\x74' + chr(102) + '\055' + chr(0b111 + 0o61)) + gxjlnudR0x + lecxhbCcMa(M62917xPfp(b'`c"\xf9.'), chr(0b1100100) + chr(0b1000 + 0o135) + chr(99) + chr(7286 - 7175) + '\144' + '\145')(chr(117) + chr(8097 - 7981) + chr(0b1000011 + 0o43) + chr(0b101101) + chr(1908 - 1852))
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(0b1100101) + '\143' + chr(6755 - 6644) + '\144' + chr(0b111010 + 0o53))(chr(0b1110101) + '\164' + chr(4695 - 4593) + '\x2d' + '\x38'))(d54k1cxsXC)
+                        AxW30Kp7UK = d54k1cxsXC = gxjlnudR0x = lecxhbCcMa(M62917xPfp(b''), '\144' + chr(0b1100101) + chr(0b1100011) + '\157' + '\x64' + '\145')('\165' + chr(116) + '\x66' + chr(778 - 733) + chr(0b10100 + 0o44))
+                        lecxhbCcMa(H246BtV67b, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), chr(8517 - 8417) + chr(101) + chr(8224 - 8125) + chr(4164 - 4053) + chr(0b111111 + 0o45) + chr(0b1011111 + 0o6))(chr(0b11001 + 0o134) + chr(0b1110100) + '\146' + chr(45) + chr(0b101011 + 0o15)))(h0J2gI7PnA(chr(0b100101 + 0o13) + '\157' + chr(0b110000), 8), lecxhbCcMa(M62917xPfp(b'&l.\xea.\xd0I'), chr(0b100001 + 0o103) + chr(0b1110 + 0o127) + chr(1291 - 1192) + '\157' + chr(100) + '\145')(chr(0b1110101) + '\x74' + chr(0b101010 + 0o74) + '\x2d' + chr(0b111000)))
+                    if lecxhbCcMa(M62917xPfp(b'3f"\xf4)'), chr(0b1100100) + chr(101) + chr(99) + chr(0b1001101 + 0o42) + chr(0b1011010 + 0o12) + '\x65')(chr(117) + chr(0b1110100) + chr(102) + '\x2d' + chr(0b100 + 0o64)) in rP1opCG3tZ:
+                        AxW30Kp7UK = rP1opCG3tZ.split(lecxhbCcMa(M62917xPfp(b'f'), chr(0b1100100) + '\145' + '\143' + '\x6f' + chr(0b1101 + 0o127) + '\x65')('\x75' + chr(0b1110100) + chr(102) + chr(0b101101) + chr(56)))
+                        AxW30Kp7UK = TWngu2iXgp(AxW30Kp7UK[h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(49), 8)])
+                        AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'i>'), chr(100) + chr(0b1011001 + 0o14) + chr(99) + chr(0b1101111) + '\x64' + chr(8133 - 8032))(chr(0b1110101) + chr(3994 - 3878) + chr(0b1100110) + '\x2d' + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(0b11110 + 0o106) + chr(3547 - 3446) + chr(99) + '\157' + chr(100) + '\x65')(chr(1072 - 955) + '\164' + chr(102) + chr(45) + '\070'))
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b',`*\xfbg'), chr(100) + '\145' + chr(0b1100011) + chr(0b1010101 + 0o32) + chr(0b1100100) + chr(0b1100101))(chr(0b111010 + 0o73) + chr(0b1110100) + chr(0b1011 + 0o133) + '\x2d' + '\070') + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'i'), '\x64' + chr(7700 - 7599) + chr(0b1100011) + chr(111) + chr(100) + '\x65')(chr(0b1110101) + chr(0b111 + 0o155) + chr(0b11111 + 0o107) + chr(279 - 234) + chr(386 - 330))
+                        AxW30Kp7UK = AxW30Kp7UK.strip()
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1011001 + 0o13) + chr(101) + '\143' + chr(7797 - 7686) + chr(4955 - 4855) + '\x65')('\x75' + chr(0b111111 + 0o65) + chr(0b1100110) + chr(45) + chr(0b10001 + 0o47)))(AxW30Kp7UK)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + '\145' + '\x63' + '\x6f' + '\x64' + chr(101))('\x75' + chr(0b1110100) + '\x66' + chr(0b10 + 0o53) + chr(361 - 305))
+                    if lecxhbCcMa(M62917xPfp(b'7m*\xf6*'), chr(9866 - 9766) + chr(101) + chr(6702 - 6603) + chr(0b1101111) + chr(3195 - 3095) + chr(101))('\165' + '\164' + '\146' + chr(0b10001 + 0o34) + '\x38') in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'='), chr(8523 - 8423) + '\x65' + chr(99) + chr(0b1101111) + '\x64' + chr(0b1100101))(chr(0b1110101) + '\x74' + chr(102) + chr(45) + chr(56)) in rP1opCG3tZ) and (not lecxhbCcMa(M62917xPfp(b'b'), chr(0b1100100) + '\x65' + chr(1018 - 919) + '\x6f' + chr(0b1000111 + 0o35) + chr(5405 - 5304))('\165' + chr(7319 - 7203) + '\146' + chr(0b101000 + 0o5) + chr(0b110 + 0o62)) in rP1opCG3tZ):
+                        AxW30Kp7UK = hjTu1ehjGG(rP1opCG3tZ)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'%k2\xef.\xcc\\\x0b~'), chr(100) + '\x65' + chr(7723 - 7624) + chr(0b101011 + 0o104) + chr(0b10110 + 0o116) + '\145')(chr(13322 - 13205) + chr(116) + chr(0b111111 + 0o47) + chr(45) + chr(2598 - 2542)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'&d \xfb'), chr(100) + chr(0b1100101) + chr(0b1100011) + chr(0b1101111) + chr(0b1100100) + chr(0b100000 + 0o105))('\165' + chr(4834 - 4718) + '\146' + '\055' + chr(0b11111 + 0o31))
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(4905 - 4805) + chr(0b1100101) + chr(0b1100011) + chr(3554 - 3443) + '\144' + chr(101))(chr(0b1100001 + 0o24) + chr(0b1110100) + '\x66' + chr(1294 - 1249) + chr(1696 - 1640)))(AxW30Kp7UK)
+                        lecxhbCcMa(H246BtV67b, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), '\x64' + chr(6795 - 6694) + '\143' + '\157' + chr(3404 - 3304) + chr(0b101101 + 0o70))(chr(117) + chr(0b1110100) + chr(0b10111 + 0o117) + '\x2d' + '\070'))(h0J2gI7PnA(chr(0b110000) + chr(0b1101111) + chr(48), 8), lecxhbCcMa(M62917xPfp(b'&l.\xff!\xd3]\x050\xe8\x96'), chr(0b1100100) + chr(0b10100 + 0o121) + chr(9702 - 9603) + '\x6f' + '\x64' + chr(0b1100101))(chr(0b1110101) + chr(116) + chr(8916 - 8814) + '\055' + chr(56)))
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b''), '\144' + '\x65' + chr(0b1100011) + chr(0b1101111) + chr(100) + chr(4871 - 4770))('\165' + chr(116) + chr(102) + chr(1716 - 1671) + chr(0b111000))
+                    if lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4'), chr(4636 - 4536) + chr(0b1100101) + chr(0b10010 + 0o121) + '\x6f' + chr(0b1011111 + 0o5) + chr(0b10010 + 0o123))('\165' + chr(5996 - 5880) + chr(0b1100110) + chr(0b101101) + '\070') in rP1opCG3tZ:
+                        rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(100) + '\x65' + chr(0b1100011) + chr(111) + chr(100) + chr(8018 - 7917))(chr(9195 - 9078) + chr(0b10110 + 0o136) + chr(0b1000 + 0o136) + '\055' + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(101) + chr(0b1100011) + chr(8829 - 8718) + '\x64' + chr(0b1100101))(chr(0b1110001 + 0o4) + chr(0b1110100) + '\x66' + chr(707 - 662) + chr(0b100110 + 0o22)))
+                        AxW30Kp7UK = rP1opCG3tZ.count(lecxhbCcMa(M62917xPfp(b'\x1ck'), chr(0b1100100) + chr(0b1100101) + chr(4513 - 4414) + chr(6071 - 5960) + chr(100) + chr(0b1100101))('\165' + '\x74' + '\146' + chr(0b11000 + 0o25) + chr(0b111000)))
+                        if AxW30Kp7UK == h0J2gI7PnA('\x30' + chr(8720 - 8609) + chr(48), 8):
+                            if q1lTJuMEEL(rP1opCG3tZ):
+                                rP1opCG3tZ = rP1opCG3tZ.lstrip(lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4'), chr(455 - 355) + '\x65' + chr(99) + chr(0b1101111) + chr(100) + chr(0b1000010 + 0o43))('\x75' + chr(0b1110 + 0o146) + chr(102) + chr(538 - 493) + chr(56)))
+                                rP1opCG3tZ = rP1opCG3tZ.strip()
+                                rP1opCG3tZ = rP1opCG3tZ.strip(lecxhbCcMa(M62917xPfp(b'h,'), chr(0b1000100 + 0o40) + chr(0b1100101) + '\x63' + chr(10943 - 10832) + '\144' + chr(101))(chr(117) + chr(116) + chr(6299 - 6197) + '\x2d' + chr(0b10 + 0o66)))
+                                AxW30Kp7UK = YR7QwOCftL(rP1opCG3tZ)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'h'), chr(100) + chr(0b1100101) + chr(1529 - 1430) + chr(1483 - 1372) + '\x64' + '\145')('\165' + '\164' + chr(0b100111 + 0o77) + '\x2d' + chr(1343 - 1287)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`,c'), chr(0b1100100) + chr(0b1100101) + chr(99) + chr(111) + chr(1165 - 1065) + chr(101))(chr(0b1110101) + '\x74' + chr(0b1100110) + chr(0b101101) + '\x38')
+                                AxW30Kp7UK = ay8BT76R74(AxW30Kp7UK)
+                                AxW30Kp7UK = AxW30Kp7UK.strip(lecxhbCcMa(M62917xPfp(b'h,'), chr(9977 - 9877) + '\x65' + '\143' + chr(111) + chr(0b111000 + 0o54) + '\x65')('\165' + chr(116) + chr(102) + chr(0b10101 + 0o30) + chr(2841 - 2785)))
+                                AxW30Kp7UK = IXEFFW2iDL(AxW30Kp7UK)
+                                for xaetTr99DO in AxW30Kp7UK:
+                                    xaetTr99DO = dvJgoSZdC1(xaetTr99DO)
+                                    lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(4860 - 4759) + chr(0b101101 + 0o66) + '\157' + chr(0b1010000 + 0o24) + '\145')('\x75' + chr(0b1110100) + chr(0b100 + 0o142) + '\055' + chr(0b111000)))(xaetTr99DO)
+                                AxW30Kp7UK = TWngu2iXgp(lecxhbCcMa(M62917xPfp(b''), chr(9198 - 9098) + chr(2684 - 2583) + chr(0b1100011) + '\x6f' + '\144' + chr(0b1100101))(chr(13464 - 13347) + chr(0b1011 + 0o151) + '\x66' + chr(1920 - 1875) + '\070'))
+                            else:
+                                AxW30Kp7UK = ay8BT76R74(rP1opCG3tZ)
+                                AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'%v \xe8*\xd4I'), chr(100) + chr(0b10011 + 0o122) + chr(0b100000 + 0o103) + chr(0b11001 + 0o126) + chr(0b1100100) + chr(0b111000 + 0o55))(chr(0b100011 + 0o122) + chr(0b1110100) + chr(102) + '\055' + chr(2303 - 2247)) + AxW30Kp7UK
+                                lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + '\x65' + chr(0b10 + 0o141) + chr(111) + chr(0b10000 + 0o124) + chr(0b1100010 + 0o3))('\165' + chr(0b1000111 + 0o55) + chr(8212 - 8110) + chr(412 - 367) + chr(0b101101 + 0o13)))(AxW30Kp7UK)
+                                AxW30Kp7UK = TWngu2iXgp(lecxhbCcMa(M62917xPfp(b''), chr(0b110110 + 0o56) + chr(4478 - 4377) + chr(0b1100011) + chr(0b11101 + 0o122) + '\144' + '\x65')(chr(0b1110101) + chr(116) + chr(0b111 + 0o137) + '\055' + chr(0b111000)))
+                        elif q1lTJuMEEL(rP1opCG3tZ):
+                            rP1opCG3tZ = rP1opCG3tZ.lstrip(lecxhbCcMa(M62917xPfp(b'0w*\xf4;\xc4'), chr(6871 - 6771) + '\x65' + chr(1146 - 1047) + chr(0b1100 + 0o143) + chr(0b1001101 + 0o27) + '\x65')(chr(0b1110101) + chr(12368 - 12252) + chr(0b11111 + 0o107) + '\x2d' + '\070'))
+                            rP1opCG3tZ = rP1opCG3tZ.strip()
+                            rP1opCG3tZ = rP1opCG3tZ.strip(lecxhbCcMa(M62917xPfp(b'h,'), '\144' + '\145' + '\143' + '\157' + chr(100) + '\145')(chr(3449 - 3332) + '\164' + '\146' + chr(45) + '\070'))
+                            AxW30Kp7UK = YR7QwOCftL(rP1opCG3tZ)
+                            AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'h'), chr(0b1100100) + chr(101) + chr(0b101000 + 0o73) + chr(111) + chr(0b1100100) + '\145')('\x75' + '\x74' + chr(6690 - 6588) + '\055' + chr(0b111000)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`,c'), chr(100) + chr(0b1100101) + '\143' + chr(0b1101111) + chr(0b1100100) + chr(0b1100101))(chr(0b1110101) + '\164' + chr(0b111010 + 0o54) + '\055' + chr(0b111000))
+                            AxW30Kp7UK = ay8BT76R74(AxW30Kp7UK)
+                            AxW30Kp7UK = AxW30Kp7UK.strip(lecxhbCcMa(M62917xPfp(b'h,'), chr(337 - 237) + '\x65' + '\x63' + chr(111) + chr(0b1100100) + '\x65')('\165' + chr(10072 - 9956) + '\146' + chr(0b11 + 0o52) + chr(0b111000)))
+                            AxW30Kp7UK = IXEFFW2iDL(AxW30Kp7UK)
+                            for xaetTr99DO in AxW30Kp7UK:
+                                xaetTr99DO = dvJgoSZdC1(xaetTr99DO)
+                                lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + '\145' + chr(0b1011010 + 0o11) + chr(2910 - 2799) + chr(0b1000100 + 0o40) + '\145')('\165' + '\x74' + '\x66' + chr(0b101011 + 0o2) + chr(56)))(xaetTr99DO)
+                            AxW30Kp7UK = TWngu2iXgp(lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(0b0 + 0o145) + '\143' + chr(0b1101101 + 0o2) + '\x64' + chr(8647 - 8546))('\x75' + '\x74' + chr(102) + chr(0b1000 + 0o45) + chr(0b100100 + 0o24)))
+                        else:
+                            AxW30Kp7UK = ay8BT76R74(rP1opCG3tZ)
+                            AxW30Kp7UK = AxW30Kp7UK.strip(lecxhbCcMa(M62917xPfp(b'h,'), '\144' + '\x65' + chr(1375 - 1276) + '\157' + chr(0b1100100) + '\x65')(chr(117) + chr(0b1110100) + chr(226 - 124) + chr(0b101101) + '\070'))
+                            AxW30Kp7UK = IXEFFW2iDL(AxW30Kp7UK)
+                            for xaetTr99DO in AxW30Kp7UK:
+                                lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b1000100 + 0o41) + '\x63' + chr(0b1101111) + chr(100) + chr(101))(chr(0b1110101) + '\x74' + '\146' + chr(0b101101) + '\x38'))(xaetTr99DO)
+                    if lecxhbCcMa(M62917xPfp(b'$j'), chr(100) + chr(0b1100101) + chr(0b1100011) + chr(111) + chr(100) + '\145')(chr(7892 - 7775) + chr(0b101100 + 0o110) + chr(0b1100110) + '\055' + chr(0b11100 + 0o34)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b';'), '\x64' + chr(101) + '\143' + chr(111) + chr(100) + chr(0b1100101))('\165' + '\x74' + chr(0b11101 + 0o111) + chr(1409 - 1364) + chr(0b100110 + 0o22)) in rP1opCG3tZ:
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\144' + chr(0b1000111 + 0o36) + chr(6982 - 6883) + chr(111) + chr(0b1100100) + chr(101))('\x75' + chr(3300 - 3184) + chr(0b1100110) + chr(0b10010 + 0o33) + chr(745 - 689)))(lecxhbCcMa(M62917xPfp(b'2`3\xf3;\xc3'), '\x64' + chr(0b10011 + 0o122) + chr(316 - 217) + chr(111) + chr(0b1100100) + '\x65')('\x75' + chr(8442 - 8326) + '\x66' + chr(45) + '\070'))
+                    if lecxhbCcMa(M62917xPfp(b'7m*\xf6*'), chr(2695 - 2595) + chr(101) + '\x63' + '\157' + '\x64' + chr(237 - 136))(chr(117) + chr(116) + chr(0b1100110) + '\055' + chr(0b111000)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'='), '\x64' + chr(6093 - 5992) + '\x63' + chr(0b1011010 + 0o25) + chr(0b111100 + 0o50) + chr(0b1100000 + 0o5))(chr(0b1110101) + chr(0b111011 + 0o71) + '\146' + '\055' + '\070') in rP1opCG3tZ:
+                        AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'7m*\xf6*'), '\144' + chr(7239 - 7138) + chr(0b1100011) + chr(2234 - 2123) + chr(0b1100100) + chr(0b1100011 + 0o2))(chr(0b1000 + 0o155) + chr(0b101100 + 0o110) + chr(0b1001111 + 0o27) + chr(45) + chr(56)), lecxhbCcMa(M62917xPfp(b''), '\144' + '\x65' + '\x63' + chr(111) + '\144' + chr(0b11001 + 0o114))(chr(11615 - 11498) + chr(116) + chr(8816 - 8714) + chr(0b101001 + 0o4) + chr(2445 - 2389)))
+                        AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'='), chr(100) + '\x65' + chr(0b100111 + 0o74) + '\157' + chr(100) + '\145')('\165' + chr(10060 - 9944) + chr(0b110100 + 0o62) + chr(0b1000 + 0o45) + '\x38'), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(3634 - 3533) + '\143' + chr(0b1101111) + '\144' + chr(0b1001 + 0o134))('\x75' + '\164' + chr(0b101000 + 0o76) + chr(1749 - 1704) + '\x38'))
+                        AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(2161 - 2061) + '\145' + chr(3896 - 3797) + chr(0b1111 + 0o140) + chr(100) + chr(0b1001101 + 0o30))('\x75' + chr(116) + chr(0b10100 + 0o122) + chr(878 - 833) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(0b110011 + 0o62) + '\143' + chr(3850 - 3739) + chr(100) + chr(297 - 196))('\165' + '\x74' + chr(0b10000 + 0o126) + '\055' + chr(0b111000)))
+                        AxW30Kp7UK = AxW30Kp7UK.strip()
+                        AxW30Kp7UK = R7jTNTn_Ax(AxW30Kp7UK)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'!q&\xba'), '\x64' + '\145' + chr(4569 - 4470) + chr(10354 - 10243) + chr(0b11001 + 0o113) + '\145')(chr(0b1101111 + 0o6) + chr(0b1110100) + chr(102) + chr(45) + chr(1523 - 1467)) + AxW30Kp7UK
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(101) + '\x63' + '\157' + '\144' + chr(9212 - 9111))(chr(0b111111 + 0o66) + '\x74' + chr(102) + '\x2d' + '\x38'))(AxW30Kp7UK)
+                    if (lecxhbCcMa(M62917xPfp(b'k.'), '\144' + chr(0b1110 + 0o127) + chr(0b10100 + 0o117) + '\157' + '\144' + '\145')(chr(5511 - 5394) + chr(515 - 399) + chr(0b1100110) + chr(0b101101) + chr(56)) in rP1opCG3tZ or lecxhbCcMa(M62917xPfp(b'm('), chr(4673 - 4573) + '\x65' + chr(8147 - 8048) + '\157' + '\144' + chr(101))('\x75' + '\x74' + chr(0b1100110) + chr(456 - 411) + chr(56)) in rP1opCG3tZ) and (not lecxhbCcMa(M62917xPfp(b'h'), '\144' + '\145' + '\143' + '\157' + '\144' + chr(101))(chr(117) + '\164' + '\146' + '\055' + '\070') in rP1opCG3tZ):
+                        if lecxhbCcMa(M62917xPfp(b'k.'), '\x64' + chr(0b1100101) + chr(0b1100011) + chr(0b1101111) + chr(0b110 + 0o136) + '\x65')(chr(0b1001011 + 0o52) + '\164' + chr(102) + chr(45) + chr(56)) in rP1opCG3tZ:
+                            AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'k.'), chr(8015 - 7915) + '\x65' + '\x63' + chr(0b100011 + 0o114) + chr(100) + chr(5242 - 5141))(chr(10318 - 10201) + '\x74' + chr(102) + chr(0b11 + 0o52) + chr(2459 - 2403)), lecxhbCcMa(M62917xPfp(b''), '\x64' + chr(0b1100101) + chr(0b1010000 + 0o23) + chr(4969 - 4858) + chr(0b1100100) + '\x65')(chr(0b10011 + 0o142) + '\x74' + chr(102) + chr(0b1110 + 0o37) + chr(0b111000)))
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'{'), '\x64' + chr(0b1100101) + chr(1059 - 960) + chr(111) + '\144' + '\x65')(chr(0b1110101) + chr(0b1110100) + chr(0b1010111 + 0o17) + chr(0b101 + 0o50) + chr(0b1000 + 0o60)), lecxhbCcMa(M62917xPfp(b''), chr(100) + '\x65' + '\143' + chr(1515 - 1404) + chr(0b1011010 + 0o12) + chr(8116 - 8015))(chr(0b1110101) + '\164' + chr(3292 - 3190) + chr(1733 - 1688) + '\x38'))
+                            AxW30Kp7UK = AxW30Kp7UK.strip()
+                            AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`9n\xba'), chr(0b1100011 + 0o1) + chr(3310 - 3209) + '\143' + chr(0b1101111) + '\x64' + chr(0b111110 + 0o47))('\165' + chr(4326 - 4210) + chr(4433 - 4331) + chr(0b1011 + 0o42) + chr(0b111000)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`.c\xab'), chr(4009 - 3909) + '\145' + chr(5327 - 5228) + '\157' + '\144' + chr(0b1100101))(chr(117) + chr(0b1110100) + '\146' + chr(0b111 + 0o46) + chr(0b10000 + 0o50))
+                        else:
+                            AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'm('), chr(0b11000 + 0o114) + chr(1797 - 1696) + chr(0b1100011) + chr(12241 - 12130) + chr(0b10111 + 0o115) + chr(101))('\165' + chr(0b1110100) + chr(0b101000 + 0o76) + '\055' + '\x38'), lecxhbCcMa(M62917xPfp(b''), '\144' + chr(0b1100010 + 0o3) + '\143' + '\x6f' + '\144' + chr(101))('\x75' + '\164' + chr(0b1100110) + chr(45) + '\070'))
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(100) + '\x65' + '\143' + chr(10778 - 10667) + '\x64' + chr(0b1000011 + 0o42))('\165' + '\x74' + chr(0b1011100 + 0o12) + chr(45) + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(1264 - 1164) + chr(0b1100100 + 0o1) + '\143' + chr(0b1101111) + chr(4571 - 4471) + chr(101))(chr(0b1110101) + chr(0b1110100) + chr(0b1100110) + chr(1746 - 1701) + chr(0b101100 + 0o14)))
+                            AxW30Kp7UK = AxW30Kp7UK.strip()
+                            AxW30Kp7UK = AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`9n\xba'), '\144' + chr(0b1100100 + 0o1) + '\x63' + chr(0b111100 + 0o63) + chr(2952 - 2852) + chr(101))(chr(0b1110101) + '\164' + chr(0b1100110) + '\x2d' + chr(0b111000)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'`(c\xab'), '\144' + '\145' + '\x63' + '\x6f' + '\x64' + chr(0b1100101))(chr(0b1110101) + chr(7370 - 7254) + chr(102) + chr(45) + '\x38')
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + chr(3748 - 3647) + chr(0b101101 + 0o66) + chr(0b1101111) + '\144' + chr(1166 - 1065))(chr(0b11110 + 0o127) + chr(116) + chr(102) + '\055' + '\x38'))(AxW30Kp7UK)
+                    if lecxhbCcMa(M62917xPfp(b'}'), chr(4028 - 3928) + '\145' + chr(0b1000000 + 0o43) + chr(0b1101111) + chr(100) + chr(0b1000000 + 0o45))(chr(0b11 + 0o162) + chr(116) + chr(0b100001 + 0o105) + '\x2d' + chr(0b1 + 0o67)) in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'&j1'), chr(0b1100100) + '\145' + chr(99) + chr(0b1101111) + chr(100) + chr(0b1010101 + 0o20))('\x75' + chr(116) + chr(0b1100110) + chr(45) + chr(0b111000)) in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'7m*\xf6*'), '\x64' + chr(101) + chr(0b1100000 + 0o3) + '\157' + chr(0b1100100) + chr(0b1100000 + 0o5))('\x75' + chr(0b1110100) + chr(0b101101 + 0o71) + chr(0b1010 + 0o43) + chr(56)) in rP1opCG3tZ) and (not lecxhbCcMa(M62917xPfp(b')c'), chr(0b1100100) + '\x65' + '\143' + chr(0b1101111) + chr(0b1010100 + 0o20) + chr(4956 - 4855))(chr(117) + '\164' + '\146' + chr(45) + chr(0b101000 + 0o20)) in rP1opCG3tZ)):
+                        if lecxhbCcMa(M62917xPfp(b'\x1b'), chr(0b110010 + 0o62) + '\145' + '\143' + '\x6f' + chr(0b1100100) + '\145')(chr(0b1110101) + '\x74' + '\x66' + chr(45) + chr(583 - 527)) in rP1opCG3tZ and lecxhbCcMa(M62917xPfp(b'\x1d'), chr(100) + chr(2382 - 2281) + '\x63' + '\x6f' + '\x64' + '\145')('\x75' + chr(116) + chr(0b1100110) + chr(0b101101) + chr(0b11010 + 0o36)) in rP1opCG3tZ:
+                            rP1opCG3tZ = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'\x1d^'), chr(0b1100100) + '\145' + chr(99) + chr(0b1101111) + chr(100) + chr(0b1100101))(chr(0b100000 + 0o125) + chr(0b1110100) + chr(0b1100110) + chr(356 - 311) + '\x38'), lecxhbCcMa(M62917xPfp(b'l'), chr(0b110011 + 0o61) + '\145' + '\143' + '\x6f' + chr(9322 - 9222) + '\x65')('\165' + chr(116) + '\146' + chr(70 - 25) + chr(1086 - 1030)))
+                        AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b'}'), chr(100) + chr(101) + chr(8461 - 8362) + chr(0b1101111) + chr(4123 - 4023) + chr(0b1100101))('\x75' + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(0b11110 + 0o32)), lecxhbCcMa(M62917xPfp(b'|('), chr(0b1100100) + chr(101) + chr(0b1010111 + 0o14) + '\157' + '\144' + chr(0b1100101))(chr(117) + '\164' + '\x66' + chr(1212 - 1167) + chr(0b1101 + 0o53)))
+                        AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'{'), chr(100) + '\x65' + chr(0b111100 + 0o47) + chr(111) + chr(0b100011 + 0o101) + chr(0b1100101))(chr(0b11000 + 0o135) + '\164' + chr(10326 - 10224) + '\x2d' + chr(0b100110 + 0o22)), lecxhbCcMa(M62917xPfp(b''), chr(0b1011111 + 0o5) + '\145' + '\x63' + '\157' + chr(100) + chr(101))(chr(4158 - 4041) + '\x74' + chr(0b1001101 + 0o31) + '\055' + chr(0b111000)))
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), '\x64' + '\x65' + chr(6747 - 6648) + chr(10864 - 10753) + chr(0b1100100) + '\x65')(chr(117) + chr(0b111010 + 0o72) + '\x66' + chr(751 - 706) + chr(2200 - 2144)))(AxW30Kp7UK)
+                    if lecxhbCcMa(M62917xPfp(b'"w&\xfb$'), chr(0b1010010 + 0o22) + chr(0b1100101) + chr(2783 - 2684) + chr(0b1101111) + '\x64' + chr(101))('\165' + chr(7479 - 7363) + '\146' + chr(0b100000 + 0o15) + '\070') in rP1opCG3tZ:
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + chr(0b10101 + 0o120) + chr(0b111101 + 0o46) + chr(0b11110 + 0o121) + chr(100) + chr(0b101100 + 0o71))(chr(0b1001000 + 0o55) + chr(0b1110100) + chr(0b1100110) + chr(45) + chr(0b111000)))(lecxhbCcMa(M62917xPfp(b')k7\xff=\xd0G\t.\xfd'), '\144' + chr(5099 - 4998) + '\143' + '\157' + chr(100) + chr(6599 - 6498))(chr(5080 - 4963) + chr(0b11011 + 0o131) + '\x66' + chr(137 - 92) + '\070'))
+                    if lecxhbCcMa(M62917xPfp(b'='), chr(0b1100010 + 0o2) + '\x65' + chr(0b101110 + 0o65) + chr(7808 - 7697) + chr(1840 - 1740) + chr(0b100110 + 0o77))('\x75' + chr(116) + chr(7092 - 6990) + '\x2d' + chr(1505 - 1449)) in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b';'), '\144' + chr(101) + chr(0b1100011) + '\x6f' + chr(100) + chr(0b1010101 + 0o20))(chr(1292 - 1175) + chr(5554 - 5438) + '\x66' + chr(0b101101) + '\070') in rP1opCG3tZ) and (not lecxhbCcMa(M62917xPfp(b'7m*\xf6*'), '\144' + chr(3767 - 3666) + chr(99) + chr(1535 - 1424) + '\144' + chr(0b1100101))(chr(117) + '\x74' + chr(0b1010010 + 0o24) + chr(45) + chr(0b111000)) in rP1opCG3tZ):
+                        jmJZ9U8fzs(H246BtV67b)
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b1101 + 0o130) + chr(99) + '\157' + chr(0b1100100) + chr(0b10001 + 0o124))(chr(117) + chr(0b1110100) + chr(102) + chr(557 - 512) + chr(0b111000)))(H246BtV67b[h0J2gI7PnA(chr(288 - 240) + chr(0b110100 + 0o73) + chr(48), 8)])
+                        lecxhbCcMa(H246BtV67b, lecxhbCcMa(M62917xPfp(b'0j3'), chr(6812 - 6712) + chr(0b1000 + 0o135) + chr(99) + chr(0b11100 + 0o123) + chr(4261 - 4161) + '\145')(chr(117) + chr(0b1101110 + 0o6) + chr(102) + '\x2d' + '\x38'))(h0J2gI7PnA(chr(48) + '\x6f' + '\x30', 8))
+                    if lecxhbCcMa(M62917xPfp(b')c'), '\144' + chr(0b11111 + 0o106) + chr(6585 - 6486) + chr(3328 - 3217) + '\x64' + '\145')(chr(117) + chr(13373 - 13257) + '\x66' + chr(308 - 263) + chr(0b111000)) in rP1opCG3tZ:
+                        lecxhbCcMa(H246BtV67b, lecxhbCcMa(M62917xPfp(b')k0\xff=\xd6'), chr(890 - 790) + '\145' + chr(99) + '\x6f' + '\x64' + chr(0b1100101))(chr(117) + '\x74' + chr(0b101100 + 0o72) + '\x2d' + chr(2348 - 2292)))(h0J2gI7PnA(chr(0b11011 + 0o25) + '\x6f' + chr(0b110000), 8), lecxhbCcMa(M62917xPfp(b'&l.\xe9*'), chr(1610 - 1510) + chr(0b10000 + 0o125) + chr(99) + '\x6f' + chr(0b1001100 + 0o30) + chr(8639 - 8538))('\x75' + chr(12242 - 12126) + chr(102) + '\x2d' + chr(0b11100 + 0o34)))
+                    if lecxhbCcMa(M62917xPfp(b')c'), chr(1726 - 1626) + '\145' + chr(99) + '\157' + chr(100) + chr(101))('\x75' + chr(0b1110100) + chr(0b1100110) + chr(0b101101) + chr(1390 - 1334)) in rP1opCG3tZ and (not lecxhbCcMa(M62917xPfp(b'%i0\xff'), chr(0b101001 + 0o73) + '\145' + chr(99) + '\157' + chr(0b101001 + 0o73) + chr(0b1100101))(chr(0b1110101) + chr(0b1101110 + 0o6) + chr(102) + chr(45) + chr(56)) in rP1opCG3tZ):
+                        AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b')c'), chr(0b11100 + 0o110) + '\x65' + chr(0b1100011) + chr(11270 - 11159) + chr(3213 - 3113) + chr(0b1100101))(chr(117) + chr(2203 - 2087) + chr(102) + '\055' + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(0b100100 + 0o100) + chr(8385 - 8284) + chr(9270 - 9171) + chr(11483 - 11372) + chr(9581 - 9481) + '\x65')('\165' + chr(0b1100110 + 0o16) + '\x66' + '\x2d' + chr(1118 - 1062)))
+                        AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b';'), chr(9781 - 9681) + '\145' + chr(0b1100011) + chr(0b1100 + 0o143) + '\144' + '\x65')('\165' + chr(2161 - 2045) + chr(9582 - 9480) + chr(0b100001 + 0o14) + chr(56)), lecxhbCcMa(M62917xPfp(b''), chr(100) + chr(101) + chr(0b110100 + 0o57) + chr(0b1101111) + chr(100) + '\145')('\165' + '\x74' + chr(102) + '\x2d' + chr(0b111000)))
+                        AxW30Kp7UK = AxW30Kp7UK.strip()
+                        AxW30Kp7UK = hjTu1ehjGG(AxW30Kp7UK)
+                        AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'3`c'), chr(7224 - 7124) + chr(6967 - 6866) + chr(0b110111 + 0o54) + chr(0b111000 + 0o67) + chr(8904 - 8804) + chr(0b1100101))(chr(4849 - 4732) + '\x74' + chr(8532 - 8430) + chr(0b101101) + chr(2332 - 2276)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'``-\xee.\xcd'), chr(100) + chr(0b1100101) + chr(0b100001 + 0o102) + chr(111) + chr(2532 - 2432) + chr(0b10000 + 0o125))('\165' + '\164' + '\146' + '\055' + chr(0b11101 + 0o33))
+                        lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1011111 + 0o5) + chr(0b1100101) + '\143' + chr(832 - 721) + chr(6529 - 6429) + chr(3970 - 3869))('\x75' + '\x74' + '\146' + '\055' + chr(2462 - 2406)))(AxW30Kp7UK)
+                    if lecxhbCcMa(M62917xPfp(b'%i0\xff'), chr(0b1100100) + '\x65' + chr(114 - 15) + '\x6f' + chr(5498 - 5398) + chr(101))('\165' + chr(0b1110100) + '\146' + '\x2d' + chr(2368 - 2312)) in rP1opCG3tZ:
+                        if not lecxhbCcMa(M62917xPfp(b')c'), chr(0b1001010 + 0o32) + '\x65' + '\143' + chr(0b1101111) + '\x64' + chr(0b1100101))(chr(6385 - 6268) + chr(5987 - 5871) + chr(2064 - 1962) + chr(0b100001 + 0o14) + '\070') in rP1opCG3tZ:
+                            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(101) + '\x63' + chr(6614 - 6503) + chr(0b1100100) + chr(0b10101 + 0o120))(chr(117) + chr(0b100010 + 0o122) + '\x66' + chr(45) + chr(0b11100 + 0o34)))(lecxhbCcMa(M62917xPfp(b'3`-\xfb '), '\144' + chr(101) + chr(4344 - 4245) + '\157' + chr(100) + chr(0b1100101))('\x75' + chr(428 - 312) + chr(102) + chr(0b101101) + chr(0b111000)))
+                        else:
+                            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(0b1100100) + '\x65' + '\143' + chr(7352 - 7241) + chr(100) + chr(101))(chr(0b11100 + 0o131) + chr(685 - 569) + '\146' + chr(0b10111 + 0o26) + chr(56)))(lecxhbCcMa(M62917xPfp(b'3`-\xfb '), chr(0b1100100) + '\x65' + chr(0b1001110 + 0o25) + chr(0b1101111) + chr(5554 - 5454) + chr(0b1000010 + 0o43))(chr(0b1010111 + 0o36) + '\164' + chr(0b1100110) + chr(0b101101) + chr(0b10011 + 0o45)))
+                            AxW30Kp7UK = rP1opCG3tZ.replace(lecxhbCcMa(M62917xPfp(b')c'), chr(0b100110 + 0o76) + chr(101) + chr(99) + '\x6f' + '\144' + chr(0b1100101))('\165' + '\164' + chr(0b10100 + 0o122) + chr(0b11011 + 0o22) + chr(0b111000)), lecxhbCcMa(M62917xPfp(b''), chr(9251 - 9151) + chr(5395 - 5294) + chr(0b1100011) + chr(111) + chr(0b101011 + 0o71) + '\145')(chr(11161 - 11044) + '\164' + '\x66' + chr(672 - 627) + chr(56)))
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'%i0\xff'), chr(0b1100100) + '\145' + chr(0b1100011) + '\157' + chr(100) + chr(0b1100101))('\165' + chr(0b1110100) + chr(2134 - 2032) + chr(0b101101) + '\070'), lecxhbCcMa(M62917xPfp(b''), chr(1527 - 1427) + chr(0b101 + 0o140) + chr(99) + chr(0b1010111 + 0o30) + chr(100) + chr(2777 - 2676))(chr(0b1011 + 0o152) + '\164' + chr(0b1100110) + chr(0b11011 + 0o22) + chr(0b111000)))
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b';'), chr(0b1000110 + 0o36) + chr(101) + chr(0b1010 + 0o131) + chr(0b1101000 + 0o7) + chr(0b11110 + 0o106) + chr(4616 - 4515))(chr(0b1110101) + chr(116) + chr(7432 - 7330) + chr(45) + chr(2776 - 2720)), lecxhbCcMa(M62917xPfp(b''), chr(0b1100100) + chr(0b111110 + 0o47) + '\x63' + chr(0b1101111) + chr(0b11101 + 0o107) + chr(101))('\x75' + chr(0b1110100) + chr(10214 - 10112) + chr(0b11000 + 0o25) + '\070'))
+                            AxW30Kp7UK = AxW30Kp7UK.replace(lecxhbCcMa(M62917xPfp(b'='), chr(0b1100100) + chr(4154 - 4053) + '\x63' + chr(0b1101111) + chr(0b1100100) + '\x65')(chr(0b1000011 + 0o62) + chr(116) + chr(102) + chr(162 - 117) + '\x38'), lecxhbCcMa(M62917xPfp(b''), chr(0b1011100 + 0o10) + chr(0b1001100 + 0o31) + chr(0b1011011 + 0o10) + chr(0b1 + 0o156) + chr(100) + chr(0b10001 + 0o124))('\165' + chr(116) + '\x66' + '\055' + chr(56)))
+                            AxW30Kp7UK = AxW30Kp7UK.strip()
+                            AxW30Kp7UK = hjTu1ehjGG(AxW30Kp7UK)
+                            AxW30Kp7UK = lecxhbCcMa(M62917xPfp(b'3`c'), chr(4387 - 4287) + chr(1838 - 1737) + chr(99) + '\x6f' + chr(0b101110 + 0o66) + '\145')('\x75' + '\164' + chr(9491 - 9389) + chr(0b101101) + chr(0b111000)) + AxW30Kp7UK + lecxhbCcMa(M62917xPfp(b'``-\xee.\xcd'), chr(100) + chr(0b1100101) + '\143' + '\x6f' + '\144' + '\x65')('\x75' + chr(116) + '\146' + chr(0b101101) + chr(0b101011 + 0o15))
+                            lecxhbCcMa(yh_g1bdPPl, lecxhbCcMa(M62917xPfp(b'!u3\xff!\xc6'), chr(100) + chr(0b1100101) + '\143' + chr(0b1101111) + '\x64' + chr(0b100011 + 0o102))(chr(0b1010001 + 0o44) + chr(0b11110 + 0o126) + chr(4408 - 4306) + '\x2d' + chr(1128 - 1072)))(AxW30Kp7UK)
+                    if lecxhbCcMa(M62917xPfp(b')k7'), chr(0b110010 + 0o62) + chr(101) + '\143' + '\x6f' + chr(0b11100 + 0o110) + '\145')('\165' + chr(0b110111 + 0o75) + chr(0b110101 + 0o61) + chr(0b100100 + 0o11) + chr(256 - 200)) in rP1opCG3tZ:
                         pass
-                    if ("int" in line):
+                    if lecxhbCcMa(M62917xPfp(b')k7'), '\x64' + chr(8066 - 7965) + chr(99) + '\x6f' + chr(0b1100100) + chr(0b1100101))('\x75' + '\x74' + chr(102) + '\055' + chr(0b10001 + 0o47)) in rP1opCG3tZ:
                         pass
-        
-
-    
-   
-    visualg_code = Indent_stripList_CtoVG(VG_codeSplit)
-    visualg_code = "\n".join(visualg_code)          
-    
-    return visualg_code
+    ikXROqwlZ0 = uTqo5XerFX(yh_g1bdPPl)
+    ikXROqwlZ0 = lecxhbCcMa(M62917xPfp(b'J'), '\x64' + '\x65' + chr(0b1100011) + chr(111) + chr(100) + chr(0b1100101))(chr(11381 - 11264) + chr(0b10111 + 0o135) + '\146' + chr(0b101101) + '\070').join(ikXROqwlZ0)
+    return ikXROqwlZ0

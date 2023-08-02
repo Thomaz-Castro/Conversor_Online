@@ -1,17 +1,17 @@
 from flask import Flask, render_template, request, jsonify
-from defs_copy import visualg_to_c, c_to_visualg
+from defs_copy import XXceRf697, ff7946
 
 app = Flask(__name__)
 
 def convert_visualg_to_c(codigo):
     # Implemente sua função de conversão de Visualg para C aqui
     # Substitua esse exemplo pela sua função real
-    return visualg_to_c(codigo)
+    return XXceRf697(codigo)
 
 def convert_c_to_visualg(codigo):
     # Implemente sua função de conversão de C para Visualg aqui
     # Substitua esse exemplo pela sua função real
-    return c_to_visualg(codigo)
+    return ff7946(codigo)
 
 @app.route('/')
 def index():
